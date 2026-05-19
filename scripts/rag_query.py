@@ -22,6 +22,7 @@ import argparse
 import json
 import os
 import re
+import warnings
 from pathlib import Path
 from typing import Any
 
@@ -33,6 +34,8 @@ DEFAULT_VECTOR_DIR = SCRIPT_DIR / "vector_db"
 DEFAULT_OLLAMA_BASE = "http://localhost:11434"
 DEFAULT_OLLAMA_MODEL = "qwen2.5:7b"
 DEFAULT_DATA_DIR = SCRIPT_DIR
+
+warnings.filterwarnings("ignore", message="`resume_download` is deprecated", category=FutureWarning)
 
 QUERY_REPLACEMENTS = {
     "companes": "companies",
@@ -126,6 +129,24 @@ def detect_intents(query: str) -> set[str]:
     return intents
 
 
+def primary_intent(query: str) -> str | None:
+    terms = tokenize(expand_query(query))
+    priority = [
+        ("hostel", {"hostel", "boys", "girls", "ladies"}),
+        ("transport", {"bus", "route", "transport", "stop"}),
+        ("cutoffs", {"cutoff", "cutoffs", "marks", "merit"}),
+        ("placements_company_visits", {"company", "companies", "recruiter", "recruiters", "eligible"}),
+        ("placements_summary", {"placement", "placements", "placed", "package", "salary", "highest", "average"}),
+        ("admission_documents", {"document", "documents", "certificate", "admission"}),
+        ("programs", {"intake", "department", "departments", "branch", "branches", "program", "programs", "course", "courses", "started"}),
+        ("fees", {"fee", "fees", "tuition"}),
+    ]
+    for category, hints in priority:
+        if terms & hints:
+            return category
+    return None
+
+
 def is_company_eligibility_query(query: str) -> bool:
     terms = tokenize(expand_query(query))
     return bool(
@@ -185,6 +206,7 @@ def rerank_results(query: str, results: list[dict[str, Any]], limit: int) -> lis
     query_terms = tokenize(query)
     expanded_terms = tokenize(expand_query(query))
     intents = detect_intents(query)
+    primary_category = primary_intent(query)
     reranked = []
 
     for result in results:
@@ -207,6 +229,8 @@ def rerank_results(query: str, results: list[dict[str, Any]], limit: int) -> lis
         source_boost = 0.04 if result["metadata"].get("source_sheet") else 0.0
         category = result["metadata"].get("category") or result.get("category") or ""
         intent_boost = 0.18 if category in intents else 0.0
+        primary_boost = 0.32 if primary_category and category == primary_category else 0.0
+        off_intent_penalty = -0.12 if primary_category and category != primary_category else 0.0
         structured_boost = 0.12 if result["dataset"] == "structured_facts" else 0.0
         if is_company_eligibility_query(query) and result["dataset"] == "structured_facts":
             structured_boost += 0.75
@@ -216,6 +240,8 @@ def rerank_results(query: str, results: list[dict[str, Any]], limit: int) -> lis
             + dataset_boost
             + source_boost
             + intent_boost
+            + primary_boost
+            + off_intent_penalty
             + structured_boost
         )
 
@@ -385,7 +411,8 @@ def lexical_search(query: str, records: list[dict[str, Any]], top_k: int) -> lis
         category = metadata.get("category", "")
         category_boost = 0.25 if category in intents else 0.0
         structured_boost = 0.6 if is_company_eligibility_query(query) and record["dataset"] == "structured_facts" else 0.0
-        score = min(overlap_count / max(len(query_terms), 1), 1.0) + category_boost + structured_boost
+        primary_boost = 0.2 if primary_intent(query) == category else 0.0
+        score = min(overlap_count / max(len(query_terms), 1), 0.8) + category_boost + primary_boost + structured_boost
         candidate = dict(record)
         candidate["semantic_score"] = max(candidate.get("semantic_score", 0.0), score)
         candidate["keyword_overlap"] = score
@@ -509,6 +536,7 @@ def load_runtime(args: argparse.Namespace) -> tuple[Any, Any, dict[str, Any], di
         os.environ.setdefault("TRANSFORMERS_OFFLINE", "1")
 
     import chromadb
+    from chromadb.config import Settings
     from sentence_transformers import SentenceTransformer
 
     vector_dir = args.vector_dir.resolve()
@@ -524,7 +552,10 @@ def load_runtime(args: argparse.Namespace) -> tuple[Any, Any, dict[str, Any], di
     except TypeError:
         embedder = SentenceTransformer(embedding_model_name)
 
-    client = chromadb.PersistentClient(path=str(vector_dir / "chroma"))
+    client = chromadb.PersistentClient(
+        path=str(vector_dir / "chroma"),
+        settings=Settings(anonymized_telemetry=False),
+    )
     local_records = load_local_records(args.data_dir.resolve())
     return embedder, client, manifest, manifest["datasets"], local_records
 

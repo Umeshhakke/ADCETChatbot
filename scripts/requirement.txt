@@ -9,7 +9,8 @@ faiss-cpu
 chromadb
 tqdm
 requests
-numpy
+numpy<2
+posthog<3
 python-dotenv
 pypdf
 unstructured

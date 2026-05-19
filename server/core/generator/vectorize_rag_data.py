@@ -23,7 +23,6 @@ from __future__ import annotations
 import argparse
 import json
 import shutil
-import warnings
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -35,8 +34,6 @@ from tqdm import tqdm
 SCRIPT_DIR = Path(__file__).resolve().parent
 DEFAULT_INPUT_DIR = SCRIPT_DIR
 DEFAULT_OUTPUT_DIR = SCRIPT_DIR / "vector_db"
-
-warnings.filterwarnings("ignore", message="`resume_download` is deprecated", category=FutureWarning)
 
 DATASETS = {
     "main_chunks": {
@@ -218,14 +215,10 @@ def build_chroma_collection(
     reset_collection: bool,
 ) -> None:
     import chromadb
-    from chromadb.config import Settings
 
     chroma_dir = output_dir / "chroma"
     chroma_dir.mkdir(parents=True, exist_ok=True)
-    client = chromadb.PersistentClient(
-        path=str(chroma_dir),
-        settings=Settings(anonymized_telemetry=False),
-    )
+    client = chromadb.PersistentClient(path=str(chroma_dir))
     collection_name = DATASETS[dataset_name]["collection"]
 
     if reset_collection:
