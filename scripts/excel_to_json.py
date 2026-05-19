@@ -54,7 +54,7 @@ def parse_sheet1(ws):
         if isinstance(first, str) and "B.Tech" in first:
             current_section = "btech"
             continue
-        if isinstance(first, str) and "BBA" in first:
+        if isinstance(first, str) and ("BBA" in first or "BCA" in first):
             current_section = "ug_other"
             continue
         if isinstance(first, str) and "M.Tech" in first:
@@ -66,6 +66,16 @@ def parse_sheet1(ws):
             continue
 
         if isinstance(first, int) and current_section:
+            program_name = str(r[1] or "")
+            if current_section == "btech" and (
+                "Bachelor of Business Administration" in program_name
+                or "Bachelor of Computer Application" in program_name
+                or program_name.strip().upper() in {"BBA", "BCA"}
+                or "(BBA)" in program_name
+                or "(BCA)" in program_name
+            ):
+                current_section = "ug_other"
+
             if current_section == "btech":
                 programs["btech"].append({
                     "sr_no": r[0],

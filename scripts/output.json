@@ -3274,7 +3274,9 @@
           "program_code": null,
           "sanctioned_intake": 60,
           "year_of_starting": 2025
-        },
+        }
+      ],
+      "ug_other": [
         {
           "sr_no": 1,
           "program": "Bachelor of Business Administration (BBA)",
@@ -3290,7 +3292,6 @@
           "year_of_starting": 2024
         }
       ],
-      "ug_other": [],
       "mtech": [
         {
           "sr_no": 1,
