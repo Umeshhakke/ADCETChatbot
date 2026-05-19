@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+venv
 
 # Distribution / packaging
 .Python
@@ -25,6 +26,9 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+# Ignore LibreOffice / OpenOffice lock files
+.~lock.*#
 
 # PyInstaller
 #   Usually these files are written by a python script from a template
