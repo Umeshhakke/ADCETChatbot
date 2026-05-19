@@ -1,0 +1,3322 @@
+{
+  "source_file": "FY_CUT_OFF__Placement_data__Fee__Hostel_2025_-_26.xlsx",
+  "college": "Annasaheb Dange College of Engineering and Technology, Ashta",
+  "academic_year": "2025-26",
+  "sheets": {
+    "fy27_cutoff_bus_hostel_fees": {
+      "cutoff_data": [
+        {
+          "sr_no": 1,
+          "course": "Mech",
+          "cutoff": {
+            "VJ": {
+              "G": {
+                "merit_no": 136349,
+                "merit_marks": 50.7016833
+              },
+              "L": {
+                "merit_no": 147689,
+                "merit_marks": 44.2599775
+              }
+            },
+            "NT-1": {
+              "G": {
+                "merit_no": 88893,
+                "merit_marks": 71.6607627
+              },
+              "L": {
+                "merit_no": 153830,
+                "merit_marks": 40.6822054
+              }
+            },
+            "NT-2": {
+              "G": {
+                "merit_no": 89834,
+                "merit_marks": 71.4842352
+              },
+              "L": {
+                "merit_no": 92076,
+                "merit_marks": 70.6189283
+              }
+            },
+            "NT-3": {
+              "G": {
+                "merit_no": 177063,
+                "merit_marks": 25.2088452
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "OBC": {
+              "G": {
+                "merit_no": 105514,
+                "merit_marks": 65.3084343
+              },
+              "L": {
+                "merit_no": 97410,
+                "merit_marks": 68.4702591
+              }
+            },
+            "SEBC": {
+              "G": {
+                "merit_no": 78825,
+                "merit_marks": 75.4048881
+              },
+              "L": {
+                "merit_no": 85698,
+                "merit_marks": 73.1347962
+              }
+            },
+            "OPEN": {
+              "G": {
+                "merit_no": 74445,
+                "merit_marks": 76.9322569
+              },
+              "L": {
+                "merit_no": 78612,
+                "merit_marks": 75.4048881
+              }
+            },
+            "SC": {
+              "G": {
+                "merit_no": 154010,
+                "merit_marks": 40.6822054
+              },
+              "L": {
+                "merit_no": 160408,
+                "merit_marks": 36.226012
+              }
+            },
+            "ST": {
+              "G": {
+                "merit_no": null,
+                "merit_marks": null
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "DEF": {
+              "G": {
+                "merit_no": 133274,
+                "merit_marks": 52.3622324
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "TFWS": {
+              "G": {
+                "merit_no": 56003,
+                "merit_marks": 83.1060395
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "EWS": {
+              "G": {
+                "merit_no": 171796,
+                "merit_marks": 28.984931
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            }
+          }
+        },
+        {
+          "sr_no": 6,
+          "course": "AERO",
+          "cutoff": {
+            "VJ": {
+              "G": {
+                "merit_no": 196375,
+                "merit_marks": 8.7118703
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "NT-1": {
+              "G": {
+                "merit_no": 77682,
+                "merit_marks": 75.652265
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "NT-2": {
+              "G": {
+                "merit_no": 96992,
+                "merit_marks": 68.8687467
+              },
+              "L": {
+                "merit_no": 111649,
+                "merit_marks": 62.8632493
+              }
+            },
+            "NT-3": {
+              "G": {
+                "merit_no": null,
+                "merit_marks": null
+              },
+              "L": {
+                "merit_no": 112233,
+                "merit_marks": 62.1365556
+              }
+            },
+            "OBC": {
+              "G": {
+                "merit_no": 109378,
+                "merit_marks": 63.4714222
+              },
+              "L": {
+                "merit_no": 88469,
+                "merit_marks": 71.8197195
+              }
+            },
+            "SEBC": {
+              "G": {
+                "merit_no": 81919,
+                "merit_marks": 74.0630785
+              },
+              "L": {
+                "merit_no": 82331,
+                "merit_marks": 74.0094972
+              }
+            },
+            "OPEN": {
+              "G": {
+                "merit_no": 76793,
+                "merit_marks": 76.2716859
+              },
+              "L": {
+                "merit_no": 67042,
+                "merit_marks": 79.6925092
+              }
+            },
+            "SC": {
+              "G": {
+                "merit_no": 130131,
+                "merit_marks": 54.0903901
+              },
+              "L": {
+                "merit_no": 161171,
+                "merit_marks": 36.1161649
+              }
+            },
+            "ST": {
+              "G": {
+                "merit_no": null,
+                "merit_marks": null
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "DEF": {
+              "G": {
+                "merit_no": 92532,
+                "merit_marks": 70.5005064
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "TFWS": {
+              "G": {
+                "merit_no": 63613,
+                "merit_marks": 80.7175218
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "EWS": {
+              "G": {
+                "merit_no": 197585,
+                "merit_marks": 7.4355245
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            }
+          }
+        },
+        {
+          "sr_no": 2,
+          "course": "CSE",
+          "cutoff": {
+            "VJ": {
+              "G": {
+                "merit_no": 79469,
+                "merit_marks": 75.210728
+              },
+              "L": {
+                "merit_no": 71097,
+                "merit_marks": 78.3357644
+              }
+            },
+            "NT-1": {
+              "G": {
+                "merit_no": 55474,
+                "merit_marks": 83.3397246
+              },
+              "L": {
+                "merit_no": 40771,
+                "merit_marks": 87.9289094
+              }
+            },
+            "NT-2": {
+              "G": {
+                "merit_no": 44738,
+                "merit_marks": 86.675963
+              },
+              "L": {
+                "merit_no": 39865,
+                "merit_marks": 88.188033
+              }
+            },
+            "NT-3": {
+              "G": {
+                "merit_no": 74119,
+                "merit_marks": 77.0149774
+              },
+              "L": {
+                "merit_no": 65789,
+                "merit_marks": 79.9072027
+              }
+            },
+            "OBC": {
+              "G": {
+                "merit_no": 52268,
+                "merit_marks": 84.3296195
+              },
+              "L": {
+                "merit_no": 38717,
+                "merit_marks": 88.5573886
+              }
+            },
+            "SEBC": {
+              "G": {
+                "merit_no": 46453,
+                "merit_marks": 86.2041018
+              },
+              "L": {
+                "merit_no": 31233,
+                "merit_marks": 90.8739909
+              }
+            },
+            "OPEN": {
+              "G": {
+                "merit_no": 43336,
+                "merit_marks": 87.1376478
+              },
+              "L": {
+                "merit_no": 42276,
+                "merit_marks": 87.4115391
+              }
+            },
+            "SC": {
+              "G": {
+                "merit_no": 92865,
+                "merit_marks": 70.5005064
+              },
+              "L": {
+                "merit_no": 82901,
+                "merit_marks": 73.7482517
+              }
+            },
+            "ST": {
+              "G": {
+                "merit_no": 108416,
+                "merit_marks": 63.6512871
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "DEF": {
+              "G": {
+                "merit_no": 59819,
+                "merit_marks": 81.940403
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "TFWS": {
+              "G": {
+                "merit_no": 32568,
+                "merit_marks": 90.4253432
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "EWS": {
+              "G": {
+                "merit_no": 89669,
+                "merit_marks": 71.5562808
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            }
+          }
+        },
+        {
+          "sr_no": 7,
+          "course": "AIDS",
+          "cutoff": {
+            "VJ": {
+              "G": {
+                "merit_no": 55971,
+                "merit_marks": 83.1060395
+              },
+              "L": {
+                "merit_no": 52646,
+                "merit_marks": 84.1437716
+              }
+            },
+            "NT-1": {
+              "G": {
+                "merit_no": 46780,
+                "merit_marks": 85.977536
+              },
+              "L": {
+                "merit_no": 40926,
+                "merit_marks": 87.9235179
+              }
+            },
+            "NT-2": {
+              "G": {
+                "merit_no": 44934,
+                "merit_marks": 86.6751751
+              },
+              "L": {
+                "merit_no": 35113,
+                "merit_marks": 89.682715
+              }
+            },
+            "NT-3": {
+              "G": {
+                "merit_no": 85022,
+                "merit_marks": 73.4354379
+              },
+              "L": {
+                "merit_no": 77048,
+                "merit_marks": 75.8001957
+              }
+            },
+            "OBC": {
+              "G": {
+                "merit_no": 109378,
+                "merit_marks": 63.4714222
+              },
+              "L": {
+                "merit_no": 88469,
+                "merit_marks": 71.8197195
+              }
+            },
+            "SEBC": {
+              "G": {
+                "merit_no": 81919,
+                "merit_marks": 74.0630785
+              },
+              "L": {
+                "merit_no": 82331,
+                "merit_marks": 74.0094972
+              }
+            },
+            "OPEN": {
+              "G": {
+                "merit_no": 76793,
+                "merit_marks": 76.2716859
+              },
+              "L": {
+                "merit_no": 67042,
+                "merit_marks": 79.6925092
+              }
+            },
+            "SC": {
+              "G": {
+                "merit_no": 130131,
+                "merit_marks": 54.0903901
+              },
+              "L": {
+                "merit_no": 161171,
+                "merit_marks": 36.1161649
+              }
+            },
+            "ST": {
+              "G": {
+                "merit_no": null,
+                "merit_marks": null
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "DEF": {
+              "G": {
+                "merit_no": 92481,
+                "merit_marks": 70.507201
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "TFWS": {
+              "G": {
+                "merit_no": 29771,
+                "merit_marks": 91.3015715
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "EWS": {
+              "G": {
+                "merit_no": 91934,
+                "merit_marks": 70.6189283
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            }
+          }
+        },
+        {
+          "sr_no": 3,
+          "course": "RAI",
+          "cutoff": {
+            "VJ": {
+              "G": {
+                "merit_no": 87088,
+                "merit_marks": 72.3760958
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "NT-1": {
+              "G": {
+                "merit_no": 93475,
+                "merit_marks": 70.2033567
+              },
+              "L": {
+                "merit_no": 145990,
+                "merit_marks": 45.8266058
+              }
+            },
+            "NT-2": {
+              "G": {
+                "merit_no": 71291,
+                "merit_marks": 78.272232
+              },
+              "L": {
+                "merit_no": 79357,
+                "merit_marks": 75.2405919
+              }
+            },
+            "NT-3": {
+              "G": {
+                "merit_no": 95795,
+                "merit_marks": 69.0979021
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "OBC": {
+              "G": {
+                "merit_no": 81961,
+                "merit_marks": 74.0630785
+              },
+              "L": {
+                "merit_no": 79445,
+                "merit_marks": 75.2405919
+              }
+            },
+            "SEBC": {
+              "G": {
+                "merit_no": 69461,
+                "merit_marks": 78.6137148
+              },
+              "L": {
+                "merit_no": 67797,
+                "merit_marks": 79.3730892
+              }
+            },
+            "OPEN": {
+              "G": {
+                "merit_no": 66597,
+                "merit_marks": 79.7185003
+              },
+              "L": {
+                "merit_no": 66347,
+                "merit_marks": 79.7946282
+              }
+            },
+            "SC": {
+              "G": {
+                "merit_no": 152802,
+                "merit_marks": 41.7471281
+              },
+              "L": {
+                "merit_no": 142436,
+                "merit_marks": 47.3563218
+              }
+            },
+            "ST": {
+              "G": {
+                "merit_no": 143884,
+                "merit_marks": 47.0502678
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "DEF": {
+              "G": {
+                "merit_no": 185749,
+                "merit_marks": 18.5475444
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "TFWS": {
+              "G": {
+                "merit_no": 48232,
+                "merit_marks": 85.6182564
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "EWS": {
+              "G": {
+                "merit_no": 146092,
+                "merit_marks": 45.8266058
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            }
+          }
+        },
+        {
+          "sr_no": 8,
+          "course": "CIVIL",
+          "cutoff": {
+            "VJ": {
+              "G": {
+                "merit_no": 108028,
+                "merit_marks": 63.8244514
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "NT-1": {
+              "G": {
+                "merit_no": 170237,
+                "merit_marks": 29.8059527
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "NT-2": {
+              "G": {
+                "merit_no": 88151,
+                "merit_marks": 71.8498844
+              },
+              "L": {
+                "merit_no": 123397,
+                "merit_marks": 57.4017459
+              }
+            },
+            "NT-3": {
+              "G": {
+                "merit_no": 140613,
+                "merit_marks": 48.5587427
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "OBC": {
+              "G": {
+                "merit_no": 101869,
+                "merit_marks": 66.4263323
+              },
+              "L": {
+                "merit_no": 93796,
+                "merit_marks": 69.8941051
+              }
+            },
+            "SEBC": {
+              "G": {
+                "merit_no": 86325,
+                "merit_marks": 72.7429418
+              },
+              "L": {
+                "merit_no": 82886,
+                "merit_marks": 73.7482517
+              }
+            },
+            "OPEN": {
+              "G": {
+                "merit_no": 83677,
+                "merit_marks": 73.6328536
+              },
+              "L": {
+                "merit_no": 69681,
+                "merit_marks": 78.6137148
+              }
+            },
+            "SC": {
+              "G": {
+                "merit_no": 144835,
+                "merit_marks": 46.3957696
+              },
+              "L": {
+                "merit_no": 87753,
+                "merit_marks": 72.102802
+              }
+            },
+            "ST": {
+              "G": {
+                "merit_no": null,
+                "merit_marks": null
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "DEF": {
+              "G": {
+                "merit_no": null,
+                "merit_marks": null
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "TFWS": {
+              "G": {
+                "merit_no": 82151,
+                "merit_marks": 74.0094972
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "EWS": {
+              "G": {
+                "merit_no": 192045,
+                "merit_marks": 12.9554081
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            }
+          }
+        },
+        {
+          "sr_no": 4,
+          "course": "ELECT",
+          "cutoff": {
+            "VJ": {
+              "G": {
+                "merit_no": 130622,
+                "merit_marks": 53.7591782
+              },
+              "L": {
+                "merit_no": 107008,
+                "merit_marks": 64.3871019
+              }
+            },
+            "NT-1": {
+              "G": {
+                "merit_no": 103217,
+                "merit_marks": 66.1695365
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "NT-2": {
+              "G": {
+                "merit_no": 82903,
+                "merit_marks": 73.7482517
+              },
+              "L": {
+                "merit_no": 72183,
+                "merit_marks": 78.010417
+              }
+            },
+            "NT-3": {
+              "G": {
+                "merit_no": null,
+                "merit_marks": null
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "OBC": {
+              "G": {
+                "merit_no": 92073,
+                "merit_marks": 70.6189283
+              },
+              "L": {
+                "merit_no": 75293,
+                "merit_marks": 76.8955509
+              }
+            },
+            "SEBC": {
+              "G": {
+                "merit_no": 74421,
+                "merit_marks": 76.9322569
+              },
+              "L": {
+                "merit_no": 73248,
+                "merit_marks": 77.1631566
+              }
+            },
+            "OPEN": {
+              "G": {
+                "merit_no": 72269,
+                "merit_marks": 77.9513058
+              },
+              "L": {
+                "merit_no": 59654,
+                "merit_marks": 81.9705913
+              }
+            },
+            "SC": {
+              "G": {
+                "merit_no": 138181,
+                "merit_marks": 49.7291102
+              },
+              "L": {
+                "merit_no": 126506,
+                "merit_marks": 55.6405756
+              }
+            },
+            "ST": {
+              "G": {
+                "merit_no": null,
+                "merit_marks": null
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "DEF": {
+              "G": {
+                "merit_no": 128352,
+                "merit_marks": 54.5872518
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "TFWS": {
+              "G": {
+                "merit_no": 56343,
+                "merit_marks": 82.9717485
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "EWS": {
+              "G": {
+                "merit_no": 146497,
+                "merit_marks": 45.3566434
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            }
+          }
+        },
+        {
+          "sr_no": 9,
+          "course": "Food",
+          "cutoff": {
+            "VJ": {
+              "G": {
+                "merit_no": 111550,
+                "merit_marks": 65.6692751
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "NT-1": {
+              "G": {
+                "merit_no": null,
+                "merit_marks": null
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "NT-2": {
+              "G": {
+                "merit_no": 44154,
+                "merit_marks": 87.898058
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "NT-3": {
+              "G": {
+                "merit_no": null,
+                "merit_marks": null
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "OBC": {
+              "G": {
+                "merit_no": 49375,
+                "merit_marks": 86.3441009
+              },
+              "L": {
+                "merit_no": 43083,
+                "merit_marks": 88.1325633
+              }
+            },
+            "SEBC": {
+              "G": {
+                "merit_no": 40077,
+                "merit_marks": 88.9775698
+              },
+              "L": {
+                "merit_no": 25616,
+                "merit_marks": 93.077885
+              }
+            },
+            "OPEN": {
+              "G": {
+                "merit_no": 38139,
+                "merit_marks": 89.5355262
+              },
+              "L": {
+                "merit_no": 24721,
+                "merit_marks": 93.2825774
+              }
+            },
+            "SC": {
+              "G": {
+                "merit_no": 86462,
+                "merit_marks": 75.0962596
+              },
+              "L": {
+                "merit_no": 59582,
+                "merit_marks": 83.2555776
+              }
+            },
+            "ST": {
+              "G": {
+                "merit_no": null,
+                "merit_marks": null
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "DEF": {
+              "G": {
+                "merit_no": null,
+                "merit_marks": null
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "TFWS": {
+              "G": {
+                "merit_no": 17985,
+                "merit_marks": 0
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "EWS": {
+              "G": {
+                "merit_no": 126918,
+                "merit_marks": 59.0974179
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            }
+          }
+        },
+        {
+          "sr_no": 5,
+          "course": "CSE IOT",
+          "cutoff": {
+            "VJ": {
+              "G": {
+                "merit_no": 95580,
+                "merit_marks": 69.2179237
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "NT-1": {
+              "G": {
+                "merit_no": null,
+                "merit_marks": null
+              },
+              "L": {
+                "merit_no": 117843,
+                "merit_marks": 59.9607019
+              }
+            },
+            "NT-2": {
+              "G": {
+                "merit_no": 60001,
+                "merit_marks": 81.8021201
+              },
+              "L": {
+                "merit_no": 68091,
+                "merit_marks": 79.3004726
+              }
+            },
+            "NT-3": {
+              "G": {
+                "merit_no": null,
+                "merit_marks": null
+              },
+              "L": {
+                "merit_no": 153298,
+                "merit_marks": 41.4458186
+              }
+            },
+            "OBC": {
+              "G": {
+                "merit_no": 66756,
+                "merit_marks": 79.6986029
+              },
+              "L": {
+                "merit_no": 62938,
+                "merit_marks": 81.0133535
+              }
+            },
+            "SEBC": {
+              "G": {
+                "merit_no": 56492,
+                "merit_marks": 82.9717485
+              },
+              "L": {
+                "merit_no": 51263,
+                "merit_marks": 84.6429815
+              }
+            },
+            "OPEN": {
+              "G": {
+                "merit_no": 56189,
+                "merit_marks": 83.0707711
+              },
+              "L": {
+                "merit_no": 51209,
+                "merit_marks": 84.6429815
+              }
+            },
+            "SC": {
+              "G": {
+                "merit_no": 106378,
+                "merit_marks": 64.713186
+              },
+              "L": {
+                "merit_no": 97656,
+                "merit_marks": 68.4702591
+              }
+            },
+            "ST": {
+              "G": {
+                "merit_no": null,
+                "merit_marks": null
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "DEF": {
+              "G": {
+                "merit_no": 90759,
+                "merit_marks": 71.173087
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "TFWS": {
+              "G": {
+                "merit_no": 53725,
+                "merit_marks": 83.880237
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            },
+            "EWS": {
+              "G": {
+                "merit_no": 133083,
+                "merit_marks": 52.5968356
+              },
+              "L": {
+                "merit_no": null,
+                "merit_marks": null
+              }
+            }
+          }
+        }
+      ],
+      "bus_routes": {
+        "Ashta-Palus": [
+          {
+            "sr_no": 1,
+            "stop": "Ashta",
+            "fee": 500
+          },
+          {
+            "sr_no": 2,
+            "stop": "Nagthane Fata",
+            "fee": 700
+          },
+          {
+            "sr_no": 3,
+            "stop": "Amnapur",
+            "fee": 1300
+          },
+          {
+            "sr_no": 4,
+            "stop": "Palus",
+            "fee": 1700
+          },
+          {
+            "sr_no": 5,
+            "stop": "Sawantpur",
+            "fee": 1800
+          },
+          {
+            "sr_no": 6,
+            "stop": "Kirloskarwadi",
+            "fee": 1900
+          },
+          {
+            "sr_no": 7,
+            "stop": "Palus Colony",
+            "fee": 2100
+          }
+        ],
+        "Ashta-Miraj": [
+          {
+            "sr_no": 1,
+            "stop": "Karandwadi/Tung/Mirajwadi",
+            "fee": 1000
+          },
+          {
+            "sr_no": 2,
+            "stop": "KasbeDigraj",
+            "fee": 1200
+          },
+          {
+            "sr_no": 3,
+            "stop": "KarnalChouk",
+            "fee": 2000
+          },
+          {
+            "sr_no": 4,
+            "stop": "Sangli",
+            "fee": 2000
+          },
+          {
+            "sr_no": 5,
+            "stop": "Vijaynagar",
+            "fee": 2000
+          },
+          {
+            "sr_no": 6,
+            "stop": "Miraj",
+            "fee": 2300
+          }
+        ],
+        "Ashta-Shirala": [
+          {
+            "sr_no": 1,
+            "stop": "Gotkhindi/Walwa Fata/Bawachi",
+            "fee": 1000
+          },
+          {
+            "sr_no": 2,
+            "stop": "Tuzarpur/Gatadwadi",
+            "fee": 1300
+          },
+          {
+            "sr_no": 3,
+            "stop": "Islampur",
+            "fee": 1600
+          },
+          {
+            "sr_no": 4,
+            "stop": "Pethnaka",
+            "fee": 1700
+          },
+          {
+            "sr_no": 5,
+            "stop": "RethareDharan",
+            "fee": 1900
+          },
+          {
+            "sr_no": 6,
+            "stop": "Red",
+            "fee": 2000
+          },
+          {
+            "sr_no": 7,
+            "stop": "Shirala",
+            "fee": 2200
+          }
+        ],
+        "Ashta-Kolhapur": [
+          {
+            "sr_no": 1,
+            "stop": "Bgani",
+            "fee": 1200
+          },
+          {
+            "sr_no": 2,
+            "stop": "Shigaon",
+            "fee": 1500
+          },
+          {
+            "sr_no": 3,
+            "stop": "Vadgaon",
+            "fee": 2000
+          },
+          {
+            "sr_no": 4,
+            "stop": "Top",
+            "fee": 2500
+          },
+          {
+            "sr_no": 5,
+            "stop": "Shiye Phata",
+            "fee": 2500
+          },
+          {
+            "sr_no": 6,
+            "stop": "Shiroli",
+            "fee": 2800
+          },
+          {
+            "sr_no": 7,
+            "stop": "Kolhapur",
+            "fee": 3000
+          }
+        ],
+        "Ashta- Dudhondi": [
+          {
+            "sr_no": 1,
+            "stop": "Ashta",
+            "fee": 500
+          },
+          {
+            "sr_no": 2,
+            "stop": "Nagthane Fata",
+            "fee": 700
+          },
+          {
+            "sr_no": 3,
+            "stop": "Amnapur",
+            "fee": 1300
+          },
+          {
+            "sr_no": 4,
+            "stop": "Burli",
+            "fee": 1400
+          },
+          {
+            "sr_no": 5,
+            "stop": "Kirloskarwadi",
+            "fee": 1900
+          },
+          {
+            "sr_no": 6,
+            "stop": "Kundal",
+            "fee": 2200
+          },
+          {
+            "sr_no": 7,
+            "stop": "Dudhondi",
+            "fee": 2300
+          }
+        ],
+        "Ashta- Tasgaon": [
+          {
+            "sr_no": 1,
+            "stop": "Ashta",
+            "fee": 500
+          },
+          {
+            "sr_no": 2,
+            "stop": "Audumbar Fata",
+            "fee": 700
+          },
+          {
+            "sr_no": 3,
+            "stop": "Bhilawadi",
+            "fee": 700
+          },
+          {
+            "sr_no": 4,
+            "stop": "Khandobachiwadi/ Malwadi",
+            "fee": 900
+          },
+          {
+            "sr_no": 5,
+            "stop": "Bhilawadi Station",
+            "fee": 1300
+          },
+          {
+            "sr_no": 6,
+            "stop": "Pachva Mil",
+            "fee": 1700
+          },
+          {
+            "sr_no": 7,
+            "stop": "Tasgaon",
+            "fee": 2200
+          }
+        ],
+        "Ashta-Karad": [
+          {
+            "sr_no": 1,
+            "stop": "Karad",
+            "fee": 3300
+          },
+          {
+            "sr_no": 2,
+            "stop": "Malkapur",
+            "fee": 2800
+          },
+          {
+            "sr_no": 3,
+            "stop": "Atake",
+            "fee": 2800
+          },
+          {
+            "sr_no": 4,
+            "stop": "Wathar",
+            "fee": 2500
+          },
+          {
+            "sr_no": 5,
+            "stop": "Kasegaon",
+            "fee": 2500
+          },
+          {
+            "sr_no": 6,
+            "stop": "Pethnaka",
+            "fee": 2200
+          }
+        ]
+      },
+      "hostels": [
+        {
+          "hostel": "New ladies hostel",
+          "annual_fee": "35000/-"
+        },
+        {
+          "hostel": "Subhadra ladies hostel",
+          "annual_fee": "30000/-"
+        },
+        {
+          "hostel": "New boys hostel",
+          "annual_fee": "30000/"
+        },
+        {
+          "hostel": "Old boys hostel",
+          "annual_fee": "20000/-"
+        }
+      ],
+      "qualifying_criteria_12th": [
+        {
+          "description": "Open (PCM) or (PM + Any Technical  Subject)",
+          "marks_out_of": "134/135"
+        },
+        {
+          "description": "Cast (PCM) or (PM + Any  Technical  Subject)",
+          "marks_out_of": "119/120"
+        }
+      ],
+      "tuition_fees_2025_26": [
+        {
+          "category": "OPEN",
+          "fy_fee": 134026,
+          "dse_fee": 134026
+        },
+        {
+          "category": "EBC / EWS / OBC",
+          "fy_fee": 82505,
+          "dse_fee": 82505
+        },
+        {
+          "category": "SBC / VJNT / TFWS",
+          "fy_fee": 30983,
+          "dse_fee": 30983
+        },
+        {
+          "category": "SC / ST",
+          "fy_fee": 15526,
+          "dse_fee": 15526
+        }
+      ]
+    },
+    "placement_3yr_summary": {
+      "placement_summary_by_branch": [
+        {
+          "branch": "Mechanical Engineering",
+          "2025-26": {
+            "total_students": 96,
+            "students_placed_offers": 122,
+            "avg_salary_lpa": 5,
+            "highest_salary_lpa": 8.5
+          },
+          "2024-25": {
+            "total_students": 87,
+            "students_placed_offers": 132,
+            "avg_salary_lpa": 4.7,
+            "highest_salary_lpa": 6.5
+          },
+          "2023-24": {
+            "total_students": 112,
+            "students_placed_offers": 105,
+            "avg_salary_lpa": 4.5,
+            "highest_salary_lpa": 33
+          }
+        },
+        {
+          "branch": "Civil Engineering",
+          "2025-26": {
+            "total_students": 34,
+            "students_placed_offers": 37,
+            "avg_salary_lpa": 5,
+            "highest_salary_lpa": 6.5
+          },
+          "2024-25": {
+            "total_students": 70,
+            "students_placed_offers": 30,
+            "avg_salary_lpa": 4.8,
+            "highest_salary_lpa": 7.5
+          },
+          "2023-24": {
+            "total_students": 73,
+            "students_placed_offers": 99,
+            "avg_salary_lpa": 4.5,
+            "highest_salary_lpa": 6
+          }
+        },
+        {
+          "branch": "Electrical Engineering",
+          "2025-26": {
+            "total_students": 153,
+            "students_placed_offers": 171,
+            "avg_salary_lpa": 5,
+            "highest_salary_lpa": 6.5
+          },
+          "2024-25": {
+            "total_students": 146,
+            "students_placed_offers": 127,
+            "avg_salary_lpa": 5.2,
+            "highest_salary_lpa": 9
+          },
+          "2023-24": {
+            "total_students": 145,
+            "students_placed_offers": 117,
+            "avg_salary_lpa": 4.8,
+            "highest_salary_lpa": 9
+          }
+        },
+        {
+          "branch": "Computer Science Engineering",
+          "2025-26": {
+            "total_students": 145,
+            "students_placed_offers": 120,
+            "avg_salary_lpa": 5.2,
+            "highest_salary_lpa": 12.34
+          },
+          "2024-25": {
+            "total_students": 131,
+            "students_placed_offers": 90,
+            "avg_salary_lpa": 5.2,
+            "highest_salary_lpa": 8
+          },
+          "2023-24": {
+            "total_students": 153,
+            "students_placed_offers": 142,
+            "avg_salary_lpa": 5,
+            "highest_salary_lpa": 10
+          }
+        },
+        {
+          "branch": "Computer Science IoT & cybersecurity  Engineering",
+          "2025-26": {
+            "total_students": 69,
+            "students_placed_offers": 41,
+            "avg_salary_lpa": 5.2,
+            "highest_salary_lpa": 8.67
+          },
+          "2024-25": {
+            "total_students": 62,
+            "students_placed_offers": 40,
+            "avg_salary_lpa": 5.2,
+            "highest_salary_lpa": 7.5
+          },
+          "2023-24": {
+            "total_students": null,
+            "students_placed_offers": null,
+            "avg_salary_lpa": null,
+            "highest_salary_lpa": null
+          }
+        },
+        {
+          "branch": "Artifical Inteligence and Data Science Engg",
+          "2025-26": {
+            "total_students": 73,
+            "students_placed_offers": 43,
+            "avg_salary_lpa": 5.2,
+            "highest_salary_lpa": 7.5
+          },
+          "2024-25": {
+            "total_students": 70,
+            "students_placed_offers": 47,
+            "avg_salary_lpa": 5.2,
+            "highest_salary_lpa": 6
+          },
+          "2023-24": {
+            "total_students": null,
+            "students_placed_offers": null,
+            "avg_salary_lpa": null,
+            "highest_salary_lpa": null
+          }
+        },
+        {
+          "branch": "Aeronautical Engineergin",
+          "2025-26": {
+            "total_students": 48,
+            "students_placed_offers": 33,
+            "avg_salary_lpa": 4.6,
+            "highest_salary_lpa": 6
+          },
+          "2024-25": {
+            "total_students": 33,
+            "students_placed_offers": 28,
+            "avg_salary_lpa": 4.6,
+            "highest_salary_lpa": 4.5
+          },
+          "2023-24": {
+            "total_students": 55,
+            "students_placed_offers": 55,
+            "avg_salary_lpa": 4.3,
+            "highest_salary_lpa": 5.5
+          }
+        },
+        {
+          "branch": "Food Technology",
+          "2025-26": {
+            "total_students": 8,
+            "students_placed_offers": 21,
+            "avg_salary_lpa": 4,
+            "highest_salary_lpa": 5
+          },
+          "2024-25": {
+            "total_students": 21,
+            "students_placed_offers": 17,
+            "avg_salary_lpa": 3.5,
+            "highest_salary_lpa": 4
+          },
+          "2023-24": {
+            "total_students": 40,
+            "students_placed_offers": 36,
+            "avg_salary_lpa": 3.8,
+            "highest_salary_lpa": 4.5
+          }
+        }
+      ],
+      "overall_totals": {
+        "2025-26": {
+          "students_placed_offers": "588*  Till Date)"
+        },
+        "2024-25": {
+          "total_students": 620,
+          "students_placed_offers": "511*  Till Date)"
+        },
+        "2023-24": {
+          "total_students": 578,
+          "students_placed_offers": 554
+        }
+      },
+      "companies_visited": {
+        "2025-26": "105*",
+        "2024-25": "90+",
+        "2023-24": 82
+      }
+    },
+    "company_visited_lists": {
+      "2022-23": [
+        {
+          "company_name": "TCS- ALL",
+          "industry_vertical": "IT",
+          "eligible_branches": "All Branch"
+        },
+        {
+          "company_name": "SiriusFoods",
+          "industry_vertical": "Core",
+          "eligible_branches": "Food."
+        },
+        {
+          "company_name": "Atos",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "KPIT",
+          "industry_vertical": "Core",
+          "eligible_branches": "CSE, Ele, Mech"
+        },
+        {
+          "company_name": "Wipro-Pari",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech, Ele"
+        },
+        {
+          "company_name": "KSB",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech, Ele"
+        },
+        {
+          "company_name": "Bharat Forge",
+          "industry_vertical": "Core",
+          "eligible_branches": "Ele, Mech"
+        },
+        {
+          "company_name": "Naaptol",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Sunbeam",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Tech Mahindra",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Deloitte",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE,ELE"
+        },
+        {
+          "company_name": "ZF India",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech, Ele"
+        },
+        {
+          "company_name": "Capgemini",
+          "industry_vertical": "IT",
+          "eligible_branches": "All Branch"
+        },
+        {
+          "company_name": "Sankey Solutions",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Aloha Technology",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "DeltaX",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Vibha India Tooling",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "22By7",
+          "industry_vertical": "IT",
+          "eligible_branches": "All Branch"
+        },
+        {
+          "company_name": "Faurecia",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mechanical(only for Female)"
+        },
+        {
+          "company_name": "Acidaes Solutions Pvt. Ltd",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "PGS Techno",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Kreeti Technology",
+          "industry_vertical": "IT",
+          "eligible_branches": "All Branch"
+        },
+        {
+          "company_name": "SLK",
+          "industry_vertical": "IT",
+          "eligible_branches": "Cse, Mech & Ele"
+        },
+        {
+          "company_name": "HCL Tech",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "NEC Software",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE, IT"
+        },
+        {
+          "company_name": "Joshijampala",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "WalchandNagar",
+          "industry_vertical": "core",
+          "eligible_branches": "Mech & Civil"
+        },
+        {
+          "company_name": "Goldman Sachs",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Mekley Sokrati",
+          "industry_vertical": "IT",
+          "eligible_branches": "All Branch"
+        },
+        {
+          "company_name": "Right Health ltd",
+          "industry_vertical": "Core",
+          "eligible_branches": "Food."
+        },
+        {
+          "company_name": "Raja Soft. Lab",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Hexaware",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE,ELE"
+        },
+        {
+          "company_name": "Scope T&M",
+          "industry_vertical": "IT",
+          "eligible_branches": "ELE"
+        },
+        {
+          "company_name": "Indovance",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech & Civil"
+        },
+        {
+          "company_name": "Ellicium",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE,ELE"
+        },
+        {
+          "company_name": "Paras Aerospace",
+          "industry_vertical": "Core",
+          "eligible_branches": "Aero, Mech & ELE"
+        },
+        {
+          "company_name": "National Payments Corpo. Of India",
+          "industry_vertical": "Core",
+          "eligible_branches": "All Branch"
+        },
+        {
+          "company_name": "Marker Strive",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "FacePrep",
+          "industry_vertical": "Servc.",
+          "eligible_branches": "All Branch"
+        },
+        {
+          "company_name": "Kelp Global",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "SCG Design",
+          "industry_vertical": "Core",
+          "eligible_branches": "Civil"
+        },
+        {
+          "company_name": "Volkswagen",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Datamatics",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Mahindra & Mahindra",
+          "industry_vertical": "IT",
+          "eligible_branches": "Cse, Mech & Ele"
+        },
+        {
+          "company_name": "Karad Projects",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Eaton",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Aloha",
+          "industry_vertical": "IT",
+          "eligible_branches": "All Branch"
+        },
+        {
+          "company_name": "Datamato",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE & ELE"
+        },
+        {
+          "company_name": "Manikaran Power Ltd",
+          "industry_vertical": "Core",
+          "eligible_branches": "Electrical"
+        },
+        {
+          "company_name": "Mitr Learning & Media Pvt. Ltd",
+          "industry_vertical": "IT",
+          "eligible_branches": "All Branch"
+        },
+        {
+          "company_name": "Decccan Infra Pvt Ltd.",
+          "industry_vertical": "Core",
+          "eligible_branches": "Civil"
+        },
+        {
+          "company_name": "ParentPay",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Accelya",
+          "industry_vertical": "Servc.",
+          "eligible_branches": "All Branch"
+        },
+        {
+          "company_name": "Haldiram",
+          "industry_vertical": "Core",
+          "eligible_branches": "Civil"
+        },
+        {
+          "company_name": "RDC Concrete",
+          "industry_vertical": "Core",
+          "eligible_branches": "Civil , Mech & Ele"
+        },
+        {
+          "company_name": "Welldoc",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "InfraMarket",
+          "industry_vertical": "Core",
+          "eligible_branches": "Civil & Mech"
+        },
+        {
+          "company_name": "Inteva Products",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech, ELE"
+        },
+        {
+          "company_name": "Hi Tech",
+          "industry_vertical": "Core",
+          "eligible_branches": "Aero"
+        },
+        {
+          "company_name": "Goma Engineering",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Kolbro group",
+          "industry_vertical": "Core",
+          "eligible_branches": "Civil , Mech"
+        },
+        {
+          "company_name": "Just Dail",
+          "industry_vertical": "Servc.",
+          "eligible_branches": "All Branch"
+        },
+        {
+          "company_name": "Aviotron Aerospace",
+          "industry_vertical": "Core",
+          "eligible_branches": "Aero"
+        },
+        {
+          "company_name": "IBM",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE,ELE"
+        },
+        {
+          "company_name": "Quality kiosk",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "RPK INDIA",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Neosoft",
+          "industry_vertical": "IT",
+          "eligible_branches": "All Branch"
+        },
+        {
+          "company_name": "N-Gen",
+          "industry_vertical": "Core",
+          "eligible_branches": "ELE"
+        },
+        {
+          "company_name": "Cooper Corporation",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech & ELE"
+        }
+      ],
+      "2023-24": [
+        {
+          "company_name": "KPIT",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Neologic",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mechanical"
+        },
+        {
+          "company_name": "Klassic Wheels LTD",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech & Ele"
+        },
+        {
+          "company_name": "DeltaX",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Technip Energies",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mechanical"
+        },
+        {
+          "company_name": "RDC Concrete",
+          "industry_vertical": "Core",
+          "eligible_branches": "Civil"
+        },
+        {
+          "company_name": "Worley",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech, Ele & Civil"
+        },
+        {
+          "company_name": "DC Drones",
+          "industry_vertical": "Core",
+          "eligible_branches": "Aeronatical"
+        },
+        {
+          "company_name": "Tech Mahindra",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Hexaware",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Rheal Software",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Delval",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Magic Stone LLP",
+          "industry_vertical": "Core",
+          "eligible_branches": "Civil"
+        },
+        {
+          "company_name": "Technimont",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mechanical"
+        },
+        {
+          "company_name": "GestAmp",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Sahaj Soft",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Numetry Technologies",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "ACME Infovision",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Wipro-Pari",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech & Ele"
+        },
+        {
+          "company_name": "Maker Strive",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech, Aero & Civil"
+        },
+        {
+          "company_name": "Fre-Voltgreen",
+          "industry_vertical": "Core",
+          "eligible_branches": "Ele"
+        },
+        {
+          "company_name": "Bharat Forge",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech & Ele"
+        },
+        {
+          "company_name": "Spped Global",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "KSB Pumps",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Forvia-Faurecia",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech & Ele"
+        },
+        {
+          "company_name": "BVG Group",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech, Ele & Civil, food, Aero"
+        },
+        {
+          "company_name": "Adani",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech, Ele & Civil"
+        },
+        {
+          "company_name": "Schneider Electric",
+          "industry_vertical": "Core",
+          "eligible_branches": "Meh & Ele"
+        },
+        {
+          "company_name": "TE Connectivity",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mechanical"
+        },
+        {
+          "company_name": "Amazon",
+          "industry_vertical": "Non IT",
+          "eligible_branches": "All Branch"
+        },
+        {
+          "company_name": "Accenture",
+          "industry_vertical": "IT",
+          "eligible_branches": "All Branch"
+        },
+        {
+          "company_name": "Infra Market",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech, Civil & Ele"
+        },
+        {
+          "company_name": "Microverse Automation",
+          "industry_vertical": "Core",
+          "eligible_branches": "Ele"
+        },
+        {
+          "company_name": "Sankey Solution",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Avitron Aerospace",
+          "industry_vertical": "Core",
+          "eligible_branches": "Aero"
+        },
+        {
+          "company_name": "Rsquare Software",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Esag",
+          "industry_vertical": "core",
+          "eligible_branches": "Mech, Ele & Civil"
+        },
+        {
+          "company_name": "PBC Aerohub",
+          "industry_vertical": "Core",
+          "eligible_branches": "Aero"
+        },
+        {
+          "company_name": "Beacon",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Nirmal Buildtech",
+          "industry_vertical": "Core",
+          "eligible_branches": "Civil"
+        },
+        {
+          "company_name": "Globalion",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Exide",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech & Ele"
+        },
+        {
+          "company_name": "Scope TNM",
+          "industry_vertical": "Core",
+          "eligible_branches": "Ele"
+        },
+        {
+          "company_name": "Wipro Pari(Pune City office)",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech & Ele"
+        },
+        {
+          "company_name": "TCS",
+          "industry_vertical": "IT",
+          "eligible_branches": "All Branch"
+        },
+        {
+          "company_name": "DemandFarm",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Indovance",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Bosch",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech, Ele"
+        },
+        {
+          "company_name": "Persistent",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Kokban",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Cooper Corp.",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech, Ele"
+        },
+        {
+          "company_name": "PPS",
+          "industry_vertical": "Core",
+          "eligible_branches": "Civil"
+        },
+        {
+          "company_name": "Emerson",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Bector Automation",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Barry Callebaut",
+          "industry_vertical": "Core",
+          "eligible_branches": "Food"
+        },
+        {
+          "company_name": "Exa Mobility",
+          "industry_vertical": "Non IT",
+          "eligible_branches": "All Branch"
+        },
+        {
+          "company_name": "Yazaki",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech, Ele"
+        },
+        {
+          "company_name": "Kolbro Group",
+          "industry_vertical": "Core",
+          "eligible_branches": "Civil"
+        },
+        {
+          "company_name": "Micron",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Analyzer",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Hi Tech Solution",
+          "industry_vertical": "Core",
+          "eligible_branches": "Aero"
+        },
+        {
+          "company_name": "Strudcom Consultant",
+          "industry_vertical": "Core",
+          "eligible_branches": "Civil"
+        },
+        {
+          "company_name": "Zensar",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Core Project",
+          "industry_vertical": "Core",
+          "eligible_branches": "Civil"
+        },
+        {
+          "company_name": "Adroit Pumps",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Quality Kiosk",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE"
+        },
+        {
+          "company_name": "Gencrest Bio Products Pvt ltd",
+          "industry_vertical": "Core",
+          "eligible_branches": "Food"
+        },
+        {
+          "company_name": "CC Tech",
+          "industry_vertical": "Coe",
+          "eligible_branches": "Mech, Civil & Ele"
+        },
+        {
+          "company_name": "Capgemini",
+          "industry_vertical": "IT",
+          "eligible_branches": "All Branch"
+        },
+        {
+          "company_name": "Shashi Catering Serv. Pvt Ltd",
+          "industry_vertical": "Core",
+          "eligible_branches": "Food"
+        },
+        {
+          "company_name": "Belrise",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech & Ele"
+        },
+        {
+          "company_name": "Listen Lights",
+          "industry_vertical": "Core",
+          "eligible_branches": "Ele"
+        }
+      ],
+      "2024-25": [
+        {
+          "company_name": "Atlas Copco",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mechanical"
+        },
+        {
+          "company_name": "ACME Infovision",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE, IOT & AIDS"
+        },
+        {
+          "company_name": "IPAC Automation",
+          "industry_vertical": "Core",
+          "eligible_branches": "Ele"
+        },
+        {
+          "company_name": "Hexaware",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE,AIDS,IOT & Ele"
+        },
+        {
+          "company_name": "Microverse Automation",
+          "industry_vertical": "Core",
+          "eligible_branches": "ELE"
+        },
+        {
+          "company_name": "Neutrino Tech Systems",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE,IOT & AIDS"
+        },
+        {
+          "company_name": "Accenture",
+          "industry_vertical": "IT",
+          "eligible_branches": "All Branch"
+        },
+        {
+          "company_name": "Kirdat Group",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech & Ele"
+        },
+        {
+          "company_name": "Neilsoft",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech, Civil & Ele"
+        },
+        {
+          "company_name": "Schinder Electric",
+          "industry_vertical": "Core",
+          "eligible_branches": "Elec, Mech & CSE"
+        },
+        {
+          "company_name": "Fox Solution",
+          "industry_vertical": "Core",
+          "eligible_branches": "Ele"
+        },
+        {
+          "company_name": "Softenger",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE,IOT & AIDS"
+        },
+        {
+          "company_name": "Rsquare Soft.",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE,AIDS,IOT"
+        },
+        {
+          "company_name": "Free Volt",
+          "industry_vertical": "Core",
+          "eligible_branches": "Ele"
+        },
+        {
+          "company_name": "Thomas & Brian",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Technip Ener.",
+          "industry_vertical": "Core",
+          "eligible_branches": "Elec, Mech & Civil"
+        },
+        {
+          "company_name": "Karamtara Engineering Pvt Ltd",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Cooper",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Infra Market",
+          "industry_vertical": "Core",
+          "eligible_branches": "Civil & Mech"
+        },
+        {
+          "company_name": "FleetGuared",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Thoughtworks",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE,IOT & AIDS"
+        },
+        {
+          "company_name": "Tech Mahindra",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE, IOT & AIDS"
+        },
+        {
+          "company_name": "Avaada Group",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech & Ele"
+        },
+        {
+          "company_name": "Gestamp",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Rheal Soft",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE, IOT & AIDS"
+        },
+        {
+          "company_name": "PPS",
+          "industry_vertical": "Core",
+          "eligible_branches": "Civil"
+        },
+        {
+          "company_name": "Test Yantra",
+          "industry_vertical": "IT",
+          "eligible_branches": "AIDS"
+        },
+        {
+          "company_name": "Hati International",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE, IOT & AIDS"
+        },
+        {
+          "company_name": "Weverve",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE, IOT & AIDS"
+        },
+        {
+          "company_name": "S J Contracts Pvt Ltd",
+          "industry_vertical": "Core",
+          "eligible_branches": "Civil"
+        },
+        {
+          "company_name": "Quality Kiosk",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE, IOT & AIDS"
+        },
+        {
+          "company_name": "Adani",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech, Ele & Civil"
+        },
+        {
+          "company_name": "S S Pathane Aoss. Pvt Ltd Pune",
+          "industry_vertical": "Core",
+          "eligible_branches": "Civil"
+        },
+        {
+          "company_name": "Technimont",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech, Ele & Civil"
+        },
+        {
+          "company_name": "Shreem Electrical",
+          "industry_vertical": "Core",
+          "eligible_branches": "Civil"
+        },
+        {
+          "company_name": "AVN Controol Sysytem",
+          "industry_vertical": "Core",
+          "eligible_branches": "Ele"
+        },
+        {
+          "company_name": "Forvia",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech & Ele"
+        },
+        {
+          "company_name": "Reliance Ind.",
+          "industry_vertical": "Core",
+          "eligible_branches": "Ele."
+        },
+        {
+          "company_name": "Kirloskar penumatics",
+          "industry_vertical": "Core",
+          "eligible_branches": "Ele"
+        },
+        {
+          "company_name": "Bharat Forge",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech & Ele"
+        },
+        {
+          "company_name": "Cognizant",
+          "industry_vertical": "IT",
+          "eligible_branches": "All Branch"
+        },
+        {
+          "company_name": "Trimasys",
+          "industry_vertical": "Core",
+          "eligible_branches": "Ele"
+        },
+        {
+          "company_name": "Worley",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech & Ele"
+        },
+        {
+          "company_name": "TCS",
+          "industry_vertical": "IT",
+          "eligible_branches": "All Branch"
+        },
+        {
+          "company_name": "Raghuvamsi Machine Tools & Pvt Ltd",
+          "industry_vertical": "Core",
+          "eligible_branches": "Aero"
+        },
+        {
+          "company_name": "Siemens",
+          "industry_vertical": "Core",
+          "eligible_branches": "Ele"
+        },
+        {
+          "company_name": "Infosys (Female Only)",
+          "industry_vertical": "IT",
+          "eligible_branches": "All Branch"
+        },
+        {
+          "company_name": "Bazz Dynamics",
+          "industry_vertical": "Core",
+          "eligible_branches": "Aero"
+        },
+        {
+          "company_name": "D.V Mane Asso. LLP",
+          "industry_vertical": "Core",
+          "eligible_branches": "Civil"
+        },
+        {
+          "company_name": "Scope TNM",
+          "industry_vertical": "Core",
+          "eligible_branches": "Ele"
+        },
+        {
+          "company_name": "IG Petrochemical",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech & Ele"
+        },
+        {
+          "company_name": "Amphere Hour",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech & Ele"
+        },
+        {
+          "company_name": "Jacobs",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Bector Automation RML Ind",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Apmosys",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE, IOT & AIDS"
+        },
+        {
+          "company_name": "RDC",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech, Civil & Ele"
+        },
+        {
+          "company_name": "Madhuri Solar",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech & Ele"
+        },
+        {
+          "company_name": "Lumax",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech & Ele"
+        },
+        {
+          "company_name": "Tata Technology",
+          "industry_vertical": "Core",
+          "eligible_branches": "Aero"
+        },
+        {
+          "company_name": "Duroshox",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Aptive Componants",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech & Ele"
+        },
+        {
+          "company_name": "Aegis Vopak",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech, Civil & Ele"
+        },
+        {
+          "company_name": "ISC Projects",
+          "industry_vertical": "Core",
+          "eligible_branches": "Civil"
+        },
+        {
+          "company_name": "Indovance",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech & Civil"
+        },
+        {
+          "company_name": "KSB",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Advantedge Technologies",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech & Ele"
+        },
+        {
+          "company_name": "KPIT",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE, IOT & AIDS"
+        },
+        {
+          "company_name": "Walchand Nagar",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Araymond Ind. Pvt Ltd.",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Belrise",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Hi-Tech",
+          "industry_vertical": "Core",
+          "eligible_branches": "Aero"
+        },
+        {
+          "company_name": "L & T Technology Services",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Global Space",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE, IOT & AIDS"
+        },
+        {
+          "company_name": "Vision System Pune",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Accent Techno Solution",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech"
+        },
+        {
+          "company_name": "Zensar",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE, IOT & AIDS"
+        },
+        {
+          "company_name": "Deloittee",
+          "industry_vertical": "IT",
+          "eligible_branches": "AIDS"
+        },
+        {
+          "company_name": "Intellisys",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE,IOT & AIDS"
+        },
+        {
+          "company_name": "Wipro-Pari",
+          "industry_vertical": "Core",
+          "eligible_branches": "Mech & Ele"
+        },
+        {
+          "company_name": "Capgemini",
+          "industry_vertical": "IT",
+          "eligible_branches": "CSE,IOT & AIDS"
+        },
+        {
+          "company_name": "Cotmac",
+          "industry_vertical": "Core",
+          "eligible_branches": "Ele"
+        },
+        {
+          "company_name": "Polycab india",
+          "industry_vertical": "Core",
+          "eligible_branches": "Ele."
+        }
+      ]
+    },
+    "placement_by_year_detail": {
+      "2025-26_summary": {
+        "overall_total": {
+          "total_students": null,
+          "students_placed_offers": "588*  Till Date)"
+        },
+        "companies_visited": "105*"
+      },
+      "2025-26": [
+        {
+          "branch": "Mechanical Engineering",
+          "total_students": 96,
+          "students_placed_offers": 122,
+          "avg_salary_lpa": 5,
+          "highest_salary_lpa": 8.5
+        },
+        {
+          "branch": "Civil Engineering",
+          "total_students": 34,
+          "students_placed_offers": 37,
+          "avg_salary_lpa": 5,
+          "highest_salary_lpa": 6.5
+        },
+        {
+          "branch": "Electrical Engineering",
+          "total_students": 153,
+          "students_placed_offers": 171,
+          "avg_salary_lpa": 5,
+          "highest_salary_lpa": 6.5
+        },
+        {
+          "branch": "Computer Science Engineering",
+          "total_students": 145,
+          "students_placed_offers": 120,
+          "avg_salary_lpa": 5.2,
+          "highest_salary_lpa": 12.34
+        },
+        {
+          "branch": "Computer Science IoT & cybersecurity  Engineering",
+          "total_students": 69,
+          "students_placed_offers": 41,
+          "avg_salary_lpa": 5.2,
+          "highest_salary_lpa": 8.67
+        },
+        {
+          "branch": "Artifical Inteligence and Data Science Engg",
+          "total_students": 73,
+          "students_placed_offers": 43,
+          "avg_salary_lpa": 5.2,
+          "highest_salary_lpa": 7.5
+        },
+        {
+          "branch": "Aeronautical Engineergin",
+          "total_students": 48,
+          "students_placed_offers": 33,
+          "avg_salary_lpa": 4.6,
+          "highest_salary_lpa": 6
+        },
+        {
+          "branch": "Food Technology",
+          "total_students": 8,
+          "students_placed_offers": 21,
+          "avg_salary_lpa": 4,
+          "highest_salary_lpa": 5
+        }
+      ],
+      "2024-25_summary": {
+        "overall_total": {
+          "total_students": 620,
+          "students_placed_offers": "511*  Till Date)"
+        },
+        "companies_visited": "90+"
+      },
+      "2024-25": [
+        {
+          "branch": "Mechanical Engineering",
+          "total_students": 87,
+          "students_placed_offers": 132,
+          "avg_salary_lpa": 4.7,
+          "highest_salary_lpa": 6.5
+        },
+        {
+          "branch": "Civil Engineering",
+          "total_students": 70,
+          "students_placed_offers": 30,
+          "avg_salary_lpa": 4.8,
+          "highest_salary_lpa": 7.5
+        },
+        {
+          "branch": "Electrical Engineering",
+          "total_students": 146,
+          "students_placed_offers": 127,
+          "avg_salary_lpa": 5.2,
+          "highest_salary_lpa": 9
+        },
+        {
+          "branch": "Computer Science Engineering",
+          "total_students": 131,
+          "students_placed_offers": 90,
+          "avg_salary_lpa": 5.2,
+          "highest_salary_lpa": 8
+        },
+        {
+          "branch": "Computer Science IoT & cybersecurity  Engineering",
+          "total_students": 62,
+          "students_placed_offers": 40,
+          "avg_salary_lpa": 5.2,
+          "highest_salary_lpa": 7.5
+        },
+        {
+          "branch": "Artifical Inteligence and Data Science Engg",
+          "total_students": 70,
+          "students_placed_offers": 47,
+          "avg_salary_lpa": 5.2,
+          "highest_salary_lpa": 6
+        },
+        {
+          "branch": "Aeronautical Engineergin",
+          "total_students": 33,
+          "students_placed_offers": 28,
+          "avg_salary_lpa": 4.6,
+          "highest_salary_lpa": 4.5
+        },
+        {
+          "branch": "Food Technology",
+          "total_students": 21,
+          "students_placed_offers": 17,
+          "avg_salary_lpa": 3.5,
+          "highest_salary_lpa": 4
+        }
+      ],
+      "2023-24_summary": {
+        "overall_total": {
+          "total_students": 578,
+          "students_placed_offers": 554
+        },
+        "companies_visited": 82
+      },
+      "2023-24": [
+        {
+          "branch": "Mechanical Engineering",
+          "total_students": 112,
+          "students_placed_offers": 105,
+          "avg_salary_lpa": 4.5,
+          "highest_salary_lpa": 33
+        },
+        {
+          "branch": "Civil Engineering",
+          "total_students": 73,
+          "students_placed_offers": 99,
+          "avg_salary_lpa": 4.5,
+          "highest_salary_lpa": 6
+        },
+        {
+          "branch": "Electrical Engineering",
+          "total_students": 145,
+          "students_placed_offers": 117,
+          "avg_salary_lpa": 4.8,
+          "highest_salary_lpa": 9
+        },
+        {
+          "branch": "Computer Science Engineering",
+          "total_students": 153,
+          "students_placed_offers": 142,
+          "avg_salary_lpa": 5,
+          "highest_salary_lpa": 10
+        },
+        {
+          "branch": "Computer Science IoT & cybersecurity  Engineering",
+          "total_students": null,
+          "students_placed_offers": null,
+          "avg_salary_lpa": null,
+          "highest_salary_lpa": null
+        },
+        {
+          "branch": "Artifical Inteligence and Data Science Engg",
+          "total_students": null,
+          "students_placed_offers": null,
+          "avg_salary_lpa": null,
+          "highest_salary_lpa": null
+        },
+        {
+          "branch": "Aeronautical Engineergin",
+          "total_students": 55,
+          "students_placed_offers": 55,
+          "avg_salary_lpa": 4.3,
+          "highest_salary_lpa": 5.5
+        },
+        {
+          "branch": "Food Technology",
+          "total_students": 40,
+          "students_placed_offers": 36,
+          "avg_salary_lpa": 3.8,
+          "highest_salary_lpa": 4.5
+        }
+      ]
+    },
+    "admission_documents": {
+      "First Year (B.Tech. / BBA / BCA) : List of Documents required for Admission and Scholarship": [
+        {
+          "document": "MHT-CET or JEE 2026 Marksheet",
+          "OPEN / EBC / TFWS / EWS": "YES",
+          "SC / ST": "YES",
+          "VJ / VJNT / NT1 / NT2 / NT3": "YES",
+          "OBC / SBC / SEBC": "YES"
+        },
+        {
+          "document": "10th Marksheet",
+          "OPEN / EBC / TFWS / EWS": "YES",
+          "SC / ST": "YES",
+          "VJ / VJNT / NT1 / NT2 / NT3": "YES",
+          "OBC / SBC / SEBC": "YES"
+        },
+        {
+          "document": "12th Marksheet",
+          "OPEN / EBC / TFWS / EWS": "YES",
+          "SC / ST": "YES",
+          "VJ / VJNT / NT1 / NT2 / NT3": "YES",
+          "OBC / SBC / SEBC": "YES"
+        },
+        {
+          "document": "Diploma Marksheet",
+          "OPEN / EBC / TFWS / EWS": "If Applicable",
+          "SC / ST": "If Applicable",
+          "VJ / VJNT / NT1 / NT2 / NT3": "If Applicable",
+          "OBC / SBC / SEBC": "If Applicable"
+        },
+        {
+          "document": "Leaving / Transfer Certificate",
+          "OPEN / EBC / TFWS / EWS": "YES",
+          "SC / ST": "YES",
+          "VJ / VJNT / NT1 / NT2 / NT3": "YES",
+          "OBC / SBC / SEBC": "YES"
+        },
+        {
+          "document": "Domicile / Nationality Certificate",
+          "OPEN / EBC / TFWS / EWS": "YES",
+          "SC / ST": "YES",
+          "VJ / VJNT / NT1 / NT2 / NT3": "YES",
+          "OBC / SBC / SEBC": "YES"
+        },
+        {
+          "document": "AADHAR Card (with linked mobile number)",
+          "OPEN / EBC / TFWS / EWS": "YES",
+          "SC / ST": "YES",
+          "VJ / VJNT / NT1 / NT2 / NT3": "YES",
+          "OBC / SBC / SEBC": "YES"
+        },
+        {
+          "document": "Migration Certificate",
+          "OPEN / EBC / TFWS / EWS": "If Applicable",
+          "SC / ST": "If Applicable",
+          "VJ / VJNT / NT1 / NT2 / NT3": "If Applicable",
+          "OBC / SBC / SEBC": "If Applicable"
+        },
+        {
+          "document": "Caste Certificate",
+          "OPEN / EBC / TFWS / EWS": "NO",
+          "SC / ST": "YES",
+          "VJ / VJNT / NT1 / NT2 / NT3": "YES",
+          "OBC / SBC / SEBC": "YES"
+        },
+        {
+          "document": "Caste / Tribe Validity Certificate",
+          "OPEN / EBC / TFWS / EWS": "NO",
+          "SC / ST": "YES",
+          "VJ / VJNT / NT1 / NT2 / NT3": "YES",
+          "OBC / SBC / SEBC": "YES"
+        },
+        {
+          "document": "Non - Creamy layer Certificate (valid upto 31 March 2027)",
+          "OPEN / EBC / TFWS / EWS": "NO",
+          "SC / ST": "NO",
+          "VJ / VJNT / NT1 / NT2 / NT3": "YES",
+          "OBC / SBC / SEBC": "YES"
+        },
+        {
+          "document": "Income Certificate for 2025-26",
+          "OPEN / EBC / TFWS / EWS": "YES",
+          "SC / ST": "YES",
+          "VJ / VJNT / NT1 / NT2 / NT3": "YES",
+          "OBC / SBC / SEBC": "YES"
+        },
+        {
+          "document": "Orphan candidate",
+          "OPEN / EBC / TFWS / EWS": "If Applicable",
+          "SC / ST": "If Applicable",
+          "VJ / VJNT / NT1 / NT2 / NT3": "If Applicable",
+          "OBC / SBC / SEBC": "If Applicable"
+        },
+        {
+          "document": "Disability certificate (Online) from District Civil Surgeon",
+          "OPEN / EBC / TFWS / EWS": "If Applicable",
+          "SC / ST": "If Applicable",
+          "VJ / VJNT / NT1 / NT2 / NT3": "If Applicable",
+          "OBC / SBC / SEBC": "If Applicable"
+        },
+        {
+          "document": "Defence Certificate",
+          "OPEN / EBC / TFWS / EWS": "If Applicable",
+          "SC / ST": "If Applicable",
+          "VJ / VJNT / NT1 / NT2 / NT3": "If Applicable",
+          "OBC / SBC / SEBC": "If Applicable"
+        },
+        {
+          "document": "Domicile / Nationality Certificate (Father or Mother)",
+          "OPEN / EBC / TFWS / EWS": "If Applicable",
+          "SC / ST": "If Applicable",
+          "VJ / VJNT / NT1 / NT2 / NT3": "If Applicable",
+          "OBC / SBC / SEBC": "If Applicable"
+        },
+        {
+          "document": "Minority Certificate",
+          "OPEN / EBC / TFWS / EWS": "If Applicable",
+          "SC / ST": "If Applicable",
+          "VJ / VJNT / NT1 / NT2 / NT3": "If Applicable",
+          "OBC / SBC / SEBC": "If Applicable"
+        },
+        {
+          "document": "अल्पभूधारक दाखला (तहसिलदार)",
+          "OPEN / EBC / TFWS / EWS": "If Applicable",
+          "SC / ST": "NO",
+          "VJ / VJNT / NT1 / NT2 / NT3": "NO",
+          "OBC / SBC / SEBC": "NO"
+        },
+        {
+          "document": "EWS Certificate",
+          "OPEN / EBC / TFWS / EWS": "If Applicable",
+          "SC / ST": "NO",
+          "VJ / VJNT / NT1 / NT2 / NT3": "NO",
+          "OBC / SBC / SEBC": "NO"
+        }
+      ],
+      "DSY : List of Documents required for Admission and Scholarship": [
+        {
+          "document": "10th Marksheet",
+          "OPEN / EBC / TFWS / EWS": "YES",
+          "SC / ST": "YES",
+          "VJ / VJNT / NT1 / NT2 / NT3": "YES",
+          "OBC / SBC / SEBC": "YES"
+        },
+        {
+          "document": "12th Marksheet",
+          "OPEN / EBC / TFWS / EWS": "If Applicable",
+          "SC / ST": "If Applicable",
+          "VJ / VJNT / NT1 / NT2 / NT3": "If Applicable",
+          "OBC / SBC / SEBC": "If Applicable"
+        },
+        {
+          "document": "Diploma Marksheet",
+          "OPEN / EBC / TFWS / EWS": "YES",
+          "SC / ST": "YES",
+          "VJ / VJNT / NT1 / NT2 / NT3": "YES",
+          "OBC / SBC / SEBC": "YES"
+        },
+        {
+          "document": "Leaving / Transfer Certificate",
+          "OPEN / EBC / TFWS / EWS": "YES",
+          "SC / ST": "YES",
+          "VJ / VJNT / NT1 / NT2 / NT3": "YES",
+          "OBC / SBC / SEBC": "YES"
+        },
+        {
+          "document": "Domicile / Nationality Certificate",
+          "OPEN / EBC / TFWS / EWS": "YES",
+          "SC / ST": "YES",
+          "VJ / VJNT / NT1 / NT2 / NT3": "YES",
+          "OBC / SBC / SEBC": "YES"
+        },
+        {
+          "document": "AADHAR Card (with linked mobile number)",
+          "OPEN / EBC / TFWS / EWS": "YES",
+          "SC / ST": "YES",
+          "VJ / VJNT / NT1 / NT2 / NT3": "YES",
+          "OBC / SBC / SEBC": "YES"
+        },
+        {
+          "document": "Caste Certificate",
+          "OPEN / EBC / TFWS / EWS": "NO",
+          "SC / ST": "YES",
+          "VJ / VJNT / NT1 / NT2 / NT3": "YES",
+          "OBC / SBC / SEBC": "YES"
+        },
+        {
+          "document": "Caste / Tribe Validity Certificate",
+          "OPEN / EBC / TFWS / EWS": "NO",
+          "SC / ST": "YES",
+          "VJ / VJNT / NT1 / NT2 / NT3": "YES",
+          "OBC / SBC / SEBC": "YES"
+        },
+        {
+          "document": "Non - Creamy layer Certificate (valid upto 31 March 2027)",
+          "OPEN / EBC / TFWS / EWS": "NO",
+          "SC / ST": "NO",
+          "VJ / VJNT / NT1 / NT2 / NT3": "YES",
+          "OBC / SBC / SEBC": "YES"
+        },
+        {
+          "document": "Income Certificate for 2025-26",
+          "OPEN / EBC / TFWS / EWS": "YES",
+          "SC / ST": "YES",
+          "VJ / VJNT / NT1 / NT2 / NT3": "YES",
+          "OBC / SBC / SEBC": "YES"
+        },
+        {
+          "document": "Orphan candidate",
+          "OPEN / EBC / TFWS / EWS": "If Applicable",
+          "SC / ST": "If Applicable",
+          "VJ / VJNT / NT1 / NT2 / NT3": "If Applicable",
+          "OBC / SBC / SEBC": "If Applicable"
+        },
+        {
+          "document": "Disability certificate (Online) from District Civil Surgeon",
+          "OPEN / EBC / TFWS / EWS": "If Applicable",
+          "SC / ST": "If Applicable",
+          "VJ / VJNT / NT1 / NT2 / NT3": "If Applicable",
+          "OBC / SBC / SEBC": "If Applicable"
+        },
+        {
+          "document": "Defence Certificate",
+          "OPEN / EBC / TFWS / EWS": "If Applicable",
+          "SC / ST": "If Applicable",
+          "VJ / VJNT / NT1 / NT2 / NT3": "If Applicable",
+          "OBC / SBC / SEBC": "If Applicable"
+        },
+        {
+          "document": "Domicile / Nationality Certificate (Father or Mother)",
+          "OPEN / EBC / TFWS / EWS": "If Applicable",
+          "SC / ST": "If Applicable",
+          "VJ / VJNT / NT1 / NT2 / NT3": "If Applicable",
+          "OBC / SBC / SEBC": "If Applicable"
+        },
+        {
+          "document": "Minority Certificate",
+          "OPEN / EBC / TFWS / EWS": "If Applicable",
+          "SC / ST": "If Applicable",
+          "VJ / VJNT / NT1 / NT2 / NT3": "If Applicable",
+          "OBC / SBC / SEBC": "If Applicable"
+        },
+        {
+          "document": "अल्पभूधारक दाखला (तहसिलदार)",
+          "OPEN / EBC / TFWS / EWS": "If Applicable",
+          "SC / ST": "NO",
+          "VJ / VJNT / NT1 / NT2 / NT3": "NO",
+          "OBC / SBC / SEBC": "NO"
+        },
+        {
+          "document": "EWS Certificate",
+          "OPEN / EBC / TFWS / EWS": "If Applicable",
+          "SC / ST": "NO",
+          "VJ / VJNT / NT1 / NT2 / NT3": "NO",
+          "OBC / SBC / SEBC": "NO"
+        }
+      ]
+    },
+    "programs_offered": {
+      "btech": [
+        {
+          "sr_no": 1,
+          "program": "Mechanical Engineering",
+          "program_code": 628361210,
+          "sanctioned_intake": 120,
+          "year_of_starting": 1999
+        },
+        {
+          "sr_no": 2,
+          "program": "Computer Science & Engineering",
+          "program_code": 628324210,
+          "sanctioned_intake": 180,
+          "year_of_starting": 2001
+        },
+        {
+          "sr_no": 3,
+          "program": "Electrical Engineering",
+          "program_code": 628329310,
+          "sanctioned_intake": 120,
+          "year_of_starting": 2004
+        },
+        {
+          "sr_no": 4,
+          "program": "Civil Engineering",
+          "program_code": 628319110,
+          "sanctioned_intake": 60,
+          "year_of_starting": 2010
+        },
+        {
+          "sr_no": 5,
+          "program": "Aeronautical Engineering",
+          "program_code": 628300210,
+          "sanctioned_intake": 60,
+          "year_of_starting": 2013
+        },
+        {
+          "sr_no": 6,
+          "program": "Food Technology",
+          "program_code": 628350310,
+          "sanctioned_intake": 30,
+          "year_of_starting": 2019
+        },
+        {
+          "sr_no": 7,
+          "program": "Artificial Intelligence (AI) and Data Science",
+          "program_code": 628326310,
+          "sanctioned_intake": 60,
+          "year_of_starting": 2021
+        },
+        {
+          "sr_no": 8,
+          "program": "Computer Science & Engineering (Internet of Things and Cyber Security Including Block Chain Technology)",
+          "program_code": 628392010,
+          "sanctioned_intake": 60,
+          "year_of_starting": 2021
+        },
+        {
+          "sr_no": 9,
+          "program": "Robotics And Artificial Intelligence",
+          "program_code": null,
+          "sanctioned_intake": 60,
+          "year_of_starting": 2025
+        },
+        {
+          "sr_no": 1,
+          "program": "Bachelor of Business Administration (BBA)",
+          "program_code": 628310110,
+          "sanctioned_intake": 60,
+          "year_of_starting": 2024
+        },
+        {
+          "sr_no": 2,
+          "program": "Bachelor of Computer Application (BCA)",
+          "program_code": 628310110,
+          "sanctioned_intake": 60,
+          "year_of_starting": 2024
+        }
+      ],
+      "ug_other": [],
+      "mtech": [
+        {
+          "sr_no": 1,
+          "program": "MECHANICAL ENGINEERING DESIGN",
+          "sanctioned_intake": 12,
+          "year_of_starting": 2025
+        },
+        {
+          "sr_no": 2,
+          "program": "Civil Engineering (Computer Aided Structural Engineering)",
+          "sanctioned_intake": 12,
+          "year_of_starting": 2025
+        },
+        {
+          "sr_no": 3,
+          "program": "Computer Science And Engineering",
+          "sanctioned_intake": 12,
+          "year_of_starting": 2025
+        },
+        {
+          "sr_no": 4,
+          "program": "Electrical Power System",
+          "sanctioned_intake": 12,
+          "year_of_starting": 2025
+        }
+      ]
+    }
+  }
+}
