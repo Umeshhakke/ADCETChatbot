@@ -1,0 +1,733 @@
+[
+  {
+    "chunk_id": "bb3db4d6-a55d-4677-a7a6-dd57fbe72240",
+    "parent_id": null,
+    "category": "programs_offered",
+    "source_section": "programs_offered/btech",
+    "summary": "Annasaheb Dange College of Engineering and Technology, established in 1999, offers B.Tech programmes including Mechanical (120 students annually since 1999), Computer Science & Engineering (180 students since 2001), Electrical (120 students since 2004), and Civil (60 students since 201",
+    "keywords": [
+      "programme",
+      "course",
+      "b.tech",
+      "intake",
+      "engineering",
+      "B.Tech",
+      "M.Tech",
+      "specialisation"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "631d480d-5481-41d4-80fd-663eb045466f",
+    "parent_id": null,
+    "category": "programs_offered",
+    "source_section": "programs_offered/mtech",
+    "summary": "Annasaheb Dange College of Engineering and Technology in Ashta introduced two M.Tech programmes—Mechanical Engineering Design and Civil Engineering (Computer Aided Structural Engineering)—each with an intake of 12 students for the academic year 2025-26.",
+    "keywords": [
+      "programme",
+      "course",
+      "m.tech",
+      "intake",
+      "engineering",
+      "B.Tech",
+      "M.Tech",
+      "specialisation"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "7b8eeecc-863c-426e-8b7b-ca44102da3b4",
+    "parent_id": null,
+    "category": "fees",
+    "source_section": "fy27_cutoff_bus_hostel_fees/tuition_fees",
+    "summary": "Annasaheb Dange College of Engineering and Technology in Ashta charges an annual tuition fee of Rs. 134,026 for both FY and DSE admissions under the OPEN category, with uniform fees across reservation categories for the academic year 2025-26.",
+    "keywords": [
+      "tuition fee",
+      "annual fee",
+      "reservation",
+      "OPEN",
+      "SC",
+      "ST",
+      "OBC",
+      "EBC"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "2be8a65f-2bb2-4f98-b6e9-cdc9bc1dc944",
+    "parent_id": null,
+    "category": "hostel",
+    "source_section": "fy27_cutoff_bus_hostel_fees/hostels",
+    "summary": "Annasaheb Dange College of Engineering and Technology offers female students two hostels—Subhadra at Rs.30,000 and New ladies at Rs.35,000 annually, while male students can choose between New boys (Rs.30,000) or Old boys hostel (Rs.20,000).",
+    "keywords": [
+      "hostel",
+      "accommodation",
+      "ladies hostel",
+      "boarding",
+      "annual fee",
+      "campus stay",
+      "residential"
+    ],
+    "quality_score": 0.98,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "a2798da2-d8c6-491f-b4f0-09e0b1437c37",
+    "parent_id": null,
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/overview",
+    "summary": "Annasaheb Dange College of Engineering and Technology in Ashta offers a comprehensive bus transport network to ensure ea...",
+    "keywords": [
+      "bus routes",
+      "transport overview",
+      "commute",
+      "college bus",
+      "all routes"
+    ],
+    "quality_score": 0.708,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "4eed98e6-3520-4bb7-abc9-5560e99db919",
+    "parent_id": "a2798da2-d8c6-491f-b4f0-09e0b1437c37",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Palus",
+    "summary": "The Ashta-Palus college bus route serves Annasaheb Dange College students across 7 areas with monthly fees ranging from Rs.500 to Rs.2,100, covering distances from Ashta to Palus Colony.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Palus",
+      "commute",
+      "monthly fee",
+      "college bus"
+    ],
+    "quality_score": 0.827,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "783d4cfa-b583-4d44-8edb-078806712eab",
+    "parent_id": "a2798da2-d8c6-491f-b4f0-09e0b1437c37",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Miraj",
+    "summary": "The Annasaheb Dange College of Engineering and Technology offers a \"Ashta-Miraj\" bus service for Rs.1,000 to Rs.2,000 monthly, covering towns like Karandwadi/Tung/Mirajwadi, KasbeDigraj, KarnalChouk, Sangli, Vijaynagar, and Miraj.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Miraj",
+      "commute",
+      "monthly fee",
+      "college bus"
+    ],
+    "quality_score": 0.757,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "0eb3f78f-38a1-4769-8bbd-910f3403e8b0",
+    "parent_id": "a2798da2-d8c6-491f-b4f0-09e0b1437c37",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Shirala",
+    "summary": "The Annasaheb Dange College of Engineering and Technology offers \"Ashta-Shirala\" bus service covering 8 towns with fees ranging from Rs.1,000 to Rs.2,200 monthly, benefiting students across these areas.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Shirala",
+      "commute",
+      "monthly fee",
+      "college bus"
+    ],
+    "quality_score": 0.911,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "18fe356f-1b3b-443d-a54c-df17dc338c69",
+    "parent_id": "a2798da2-d8c6-491f-b4f0-09e0b1437c37",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Kolhapur",
+    "summary": "The Ashta-Kolhapur college bus route serves Annasaheb Dange College of Engineering and Technology students, covering towns like Bgani, Vadgaon, and Kolhapur, with monthly fees ranging from Rs.1,200 to Rs.3,000.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Kolhapur",
+      "commute",
+      "monthly fee",
+      "college bus"
+    ],
+    "quality_score": 0.76,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "2a00ba68-f4d8-4988-ae91-49720706e30f",
+    "parent_id": "a2798da2-d8c6-491f-b4f0-09e0b1437c37",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta- Dudhondi",
+    "summary": "The Annasaheb Dange College of Engineering and Technology offers a \"Ashta-Dudhondi\" bus service with monthly fees ranging from Rs.500 to Rs.2,300 for students commuting through several towns.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta- Dudhondi",
+      "commute",
+      "monthly fee",
+      "college bus"
+    ],
+    "quality_score": 0.83,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "e64a051f-9f21-4f34-b2f9-de2c7ee78a35",
+    "parent_id": "a2798da2-d8c6-491f-b4f0-09e0b1437c37",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta- Tasgaon",
+    "summary": "The Annasaheb Dange College of Engineering and Technology offers a bus service on the Ashta-Tasgaon route with monthly fees ranging from Rs.500 to Rs.2,200 for students based on their distance from the college.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta- Tasgaon",
+      "commute",
+      "monthly fee",
+      "college bus"
+    ],
+    "quality_score": 0.775,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "a4aaba11-7034-4efa-b617-044375588be0",
+    "parent_id": "a2798da2-d8c6-491f-b4f0-09e0b1437c37",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Karad",
+    "summary": "The Ashta-Karad bus route from Annasaheb Dange College ranges from Rs.2,200 to Rs.3,300 monthly, serving towns like Karad and Pethnaka, with costs varying based on proximity to the college.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Karad",
+      "commute",
+      "monthly fee",
+      "college bus"
+    ],
+    "quality_score": 0.925,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "78954d98-315b-4075-a29e-d727ad655fd8",
+    "parent_id": null,
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/overview",
+    "summary": "In the academic year 2025-26 at Annasaheb Dange College of Engineering and Technology in Ashta, the cutoff marks for the...",
+    "keywords": [
+      "cutoff overview",
+      "all branches",
+      "MHT-CET",
+      "comparison",
+      "most competitive"
+    ],
+    "quality_score": 0.75,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "48c93b73-f6cc-4791-a3a4-3540b7f59f3b",
+    "parent_id": "78954d98-315b-4075-a29e-d727ad655fd8",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/Mech",
+    "summary": "The VJ category requires at least 50.70 and 44.26 marks in MHT-CET for General and Ladies seats respectively, for admission to Mechanical Engineering at Annasaheb Dange College of Engineering and Technology in Ashta for 2025-26.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "Mech",
+      "admission",
+      "marks",
+      "category",
+      "OPEN"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "a916ea50-5fd8-4f44-9949-f872b58f4c76",
+    "parent_id": "78954d98-315b-4075-a29e-d727ad655fd8",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/AERO",
+    "summary": "For AERO engineering at Annasaheb Dange College in Ashta (2025-26), VJ General has a minimum MHT-CET cutoff of 8.71, with NT-1 and NT-2 requiring 75.65 marks; no specific Lady's category marks are mentioned.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "AERO",
+      "admission",
+      "marks",
+      "category",
+      "OPEN"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "3742c59f-cf39-4ab9-a3a4-5ecd4dfb0e60",
+    "parent_id": "78954d98-315b-4075-a29e-d727ad655fd8",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/CSE",
+    "summary": "For the CSE branch at Annasaheb Dange College in Ashta for 2025-26, VJ candidates need 75.21 or 78.34 marks for General and Ladies seats respectively, while NT-1 requires 83.34 marks for General.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "CSE",
+      "admission",
+      "marks",
+      "category",
+      "OPEN"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "7b2dd5ce-7848-4c59-b022-079b85a042fa",
+    "parent_id": "78954d98-315b-4075-a29e-d727ad655fd8",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/AIDS",
+    "summary": "The MHT-CET cutoff marks for the AIDS branch at Annasaheb Dange College of Engineering and Technology in 2025-26 range from 83.11 to 84.14 for VJ category students, with higher scores required for General seats compared to Ladies seats.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "AIDS",
+      "admission",
+      "marks",
+      "category",
+      "OPEN"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "69a333f9-8ddd-4480-8597-aac2e5e41f21",
+    "parent_id": "78954d98-315b-4075-a29e-d727ad655fd8",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/RAI",
+    "summary": "For RAI at Annasaheb Dange College (Ashta), students need a minimum of 45.83 to 78.27 marks in MHT-CET depending on the seat and category, with NT-1 General requiring 70.20 and VJ seats needing 72.38.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "RAI",
+      "admission",
+      "marks",
+      "category",
+      "OPEN"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "c78f7135-6c90-4416-b361-8ee5603e8f11",
+    "parent_id": "78954d98-315b-4075-a29e-d727ad655fd8",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/CIVIL",
+    "summary": "Annasaheb Dange College of Engineering and Technology requires 63.82, 29.81, 71.85, and 57.40 marks for VJ General, NT-1 General, NT-2 General, and NT-2 Ladies seats respectively in the MHT-CET for Civil Engineering in 2025-2",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "CIVIL",
+      "admission",
+      "marks",
+      "category",
+      "OPEN"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "4b6ee8d2-57d9-4263-89f0-abfa6f8a349e",
+    "parent_id": "78954d98-315b-4075-a29e-d727ad655fd8",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/ELECT",
+    "summary": "For the 2025-26 academic year at Annasaheb Dange College, ELECT branch cutoffs range from 53.76 to 78.01 marks across different categories like VJ, NT-1, NT-2, and OBC.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "ELECT",
+      "admission",
+      "marks",
+      "category",
+      "OPEN"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "6994e5ec-92f5-4461-b9d2-407506d6cc48",
+    "parent_id": "78954d98-315b-4075-a29e-d727ad655fd8",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/Food",
+    "summary": "The MHT-CET cutoff marks for Food Engineering at Annasaheb Dange College in 2025-26 range from 65.67 to 88.13, varying by category and gender, with no specific mark given for the Ladies category.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "Food",
+      "admission",
+      "marks",
+      "category",
+      "OPEN"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "91b0318c-b93c-4c72-881a-e75eae434e8c",
+    "parent_id": "78954d98-315b-4075-a29e-d727ad655fd8",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/CSE IOT",
+    "summary": "The VJ category at Annasaheb Dange College for CSE IOT in 2025-26 has a minimum cutoff of 69.22 marks for general male seats, with no specific cutoff mentioned for female students in NT-1 and NT-3 categories.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "CSE IOT",
+      "admission",
+      "marks",
+      "category",
+      "OPEN"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "8cfc63d1-034a-4a27-ae1a-1e68aee46cab",
+    "parent_id": null,
+    "category": "eligibility",
+    "source_section": "fy27_cutoff_bus_hostel_fees/qualifying_criteria",
+    "summary": "For B.Tech admissions at Annasaheb Dange College for 2025-26, general category PCM/PM students need 134 out of 135 (98.5%), while cast category students require 119 out of 120 (90.7%).",
+    "keywords": [
+      "eligibility",
+      "qualifying",
+      "12th",
+      "HSC",
+      "minimum marks",
+      "percentage",
+      "physics",
+      "maths"
+    ],
+    "quality_score": 0.877,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "63188a91-494c-45e2-8b91-377d0ee34ce6",
+    "parent_id": null,
+    "category": "placements",
+    "source_section": "placement_3yr_summary/overall",
+    "summary": "Over the past three academic years, Annasaheb Dange College of Engineering and Technology (ADCET) has seen an increase in placements, with 588 offers in 2025-26 from 105 companies, up from 578 students and 554 offers in 2023-24.",
+    "keywords": [
+      "placement",
+      "overall",
+      "offers",
+      "salary",
+      "companies",
+      "LPA",
+      "3-year",
+      "trend"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "52b1c5e4-21a1-4a43-9a40-09c7f3c77a7e",
+    "parent_id": "63188a91-494c-45e2-8b91-377d0ee34ce6",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Mechanical Engineering",
+    "summary": "From 2023-24 to 2025-26, Annasaheb Dange College of Engineering and Technology's Mechanical Engineering branch saw a rise in placements from 105 to 122 offers, with average packages increasing from 4.5 LPA to 4.7 LPA and a record highest package of 6.5 L",
+    "keywords": [
+      "placement",
+      "Mechanical Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "11bca930-59e5-42c3-9062-5f9c38aa27f6",
+    "parent_id": "63188a91-494c-45e2-8b91-377d0ee34ce6",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Civil Engineering",
+    "summary": "At Annasaheb Dange College of Engineering and Technology, the Civil Engineering branch experienced a decline in placement outcomes from 73 students with an average package of 99 LPA in 2023-24 to just 68 students averaging 4.8 LPA in 2025-26.",
+    "keywords": [
+      "placement",
+      "Civil Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "6761c43f-9247-481c-b263-086344f10c37",
+    "parent_id": "63188a91-494c-45e2-8b91-377d0ee34ce6",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Electrical Engineering",
+    "summary": "From 2023-24 to 2025-26, Annasaheb Dange College of Engineering and Technology's Electrical Engineering branch saw a rise in graduates from 145 to 153, with placement offers increasing to 171, averaging salaries of 4.8 LPA to 5 LPA, and the highest package remaining",
+    "keywords": [
+      "placement",
+      "Electrical Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "69428b31-ddad-4aa0-9e85-e7b15113a6c2",
+    "parent_id": "63188a91-494c-45e2-8b91-377d0ee34ce6",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Computer Science Engineering",
+    "summary": "In the 2024-25 academic year at Annasaheb Dange College of Engineering and Technology, 131 students were placed with an average package of 5.2 LPA, though the highest package fell to 8 LPA from 10 LPA in the previous year.",
+    "keywords": [
+      "placement",
+      "Computer Science Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "ca6f9e0d-74d9-44aa-b745-c40de2b2e693",
+    "parent_id": "63188a91-494c-45e2-8b91-377d0ee34ce6",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Computer Science IoT & cybersecurity  Engineering",
+    "summary": "In 2024-25, Annasaheb Dange College's Computer Science IoT & Cybersecurity Engineering branch recorded a significant improvement with 62 students securing 40 job offers at an average package of 5.2 LPA and a top package of 7.5 LPA.",
+    "keywords": [
+      "placement",
+      "Computer Science IoT & cybersecurity  Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "a1c494bb-dec9-4f18-8260-94d1836eddb7",
+    "parent_id": "63188a91-494c-45e2-8b91-377d0ee34ce6",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Artifical Inteligence and Data Science Engg",
+    "summary": "Over three years, Annasaheb Dange College of Engineering and Technology's AI & DS branch saw no placements in 2023-24 but had 47 out of 70 graduates secure jobs in 2024-25 with an average package of 5.2 LPA.",
+    "keywords": [
+      "placement",
+      "Artifical Inteligence and Data Science Engg",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "2cc66690-7b11-428b-b467-08ffd6362bb0",
+    "parent_id": "63188a91-494c-45e2-8b91-377d0ee34ce6",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Aeronautical Engineergin",
+    "summary": "From 2023-24 to 2025-26, Aeronautical Engineering at Annasaheb Dange College saw placements fluctuate, with 55 students in 2023-24 receiving an average package of 4.3 LPA, dropping to 33 out of 33 in 2024-2",
+    "keywords": [
+      "placement",
+      "Aeronautical Engineergin",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "9f4521e0-47df-4c26-96af-a107dc0def35",
+    "parent_id": "63188a91-494c-45e2-8b91-377d0ee34ce6",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Food Technology",
+    "summary": "In 2023-24, Annasaheb Dange College of Engineering and Technology's Food Technology branch placed 36 out of 40 students with an average package of 3.8 LPA; in 2024-25, 17 out of 21 students were placed at an average of 3.5 LPA.",
+    "keywords": [
+      "placement",
+      "Food Technology",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "fb47ebef-20ec-48ca-bba5-61c91598441f",
+    "parent_id": null,
+    "category": "company_visits",
+    "source_section": "company_visited_lists/2022-23",
+    "summary": "During the 2022-23 academic year, Annasaheb Dange College of Engineering and Technology in Ashta hosted 69 companies, with IT firms like TCS-ALL and Tech Mahindra leading the recruitment drive.",
+    "keywords": [
+      "companies",
+      "2022-23",
+      "campus recruitment",
+      "IT",
+      "core",
+      "placement drive",
+      "recruiter"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "8439cc3b-99be-4e20-aec6-bd23c72732d0",
+    "parent_id": null,
+    "category": "company_visits",
+    "source_section": "company_visited_lists/2023-24",
+    "summary": "For the 2023-24 academic year, Annasaheb Dange College of Engineering and Technology in Ashta hosted 72 companies, with core engineering firms dominating at 48 (65%), followed by IT sector participants like KPIT, Tech Mahindra, and Amazon (20; 27.8%).",
+    "keywords": [
+      "companies",
+      "2023-24",
+      "campus recruitment",
+      "IT",
+      "core",
+      "placement drive",
+      "recruiter"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "764ba59e-c819-488a-84b9-b34aa7bb06cc",
+    "parent_id": null,
+    "category": "company_visits",
+    "source_section": "company_visited_lists/2024-25",
+    "summary": "For the 2024-25 academic year, Annasaheb Dange College of Engineering and Technology in Ashta hosted 82 companies, with 59 from core engineering and 23 from IT sectors, including notable firms like ACME Infovision, Hexaware, and Cognizant.",
+    "keywords": [
+      "companies",
+      "2024-25",
+      "campus recruitment",
+      "IT",
+      "core",
+      "placement drive",
+      "recruiter"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "7d5756a9-8ef0-4cc9-8176-493bebc79f82",
+    "parent_id": null,
+    "category": "placements",
+    "source_section": "placement_by_year_detail/2025-26",
+    "summary": "In the 2025-26 academic year, ADCOET's placement season saw 96 Mechanical Engineering graduates secure placements at an average package of 5 LPA, with a top package of 8.5 LPA and 122 total offers, compared to 34 Civil Engineering students with an average package of 5 LPA and a highest offer of",
+    "keywords": [
+      "placement",
+      "2025-26",
+      "branch",
+      "package",
+      "LPA",
+      "offers",
+      "detailed",
+      "annual"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "4318b851-c63b-4e7f-bdf5-6c1b6ddad3d2",
+    "parent_id": null,
+    "category": "placements",
+    "source_section": "placement_by_year_detail/2024-25",
+    "summary": "In the 2024-25 placement season, ADCET's Mechanical Engineering branch secured job offers for 87 students with an average package of 4.7 LPA and a top package of 6.5 LPA, while Civil Engineering had 70 placements averaging 4.8 LPA.",
+    "keywords": [
+      "placement",
+      "2024-25",
+      "branch",
+      "package",
+      "LPA",
+      "offers",
+      "detailed",
+      "annual"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "dd5bd2f0-eaac-4fde-bf59-1189e43ddb15",
+    "parent_id": null,
+    "category": "placements",
+    "source_section": "placement_by_year_detail/2023-24",
+    "summary": "During the 2023-24 academic year, Annasaheb Dange College of Engineering and Technology in Ashta secured 554 job offers from 82 companies, with Computer Science Engineering topping at ₹5 LPA average and ₹10 LPA highest package.",
+    "keywords": [
+      "placement",
+      "2023-24",
+      "branch",
+      "package",
+      "LPA",
+      "offers",
+      "detailed",
+      "annual"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "8a7ad472-583c-415e-9725-5e20a5202105",
+    "parent_id": null,
+    "category": "admission_documents",
+    "source_section": "admission_documents/First Year (B.Tech. / BBA / BCA) : List of Documen",
+    "summary": "For admission to Annasaheb Dange College of Engineering and Technology in 2025-26, students must submit documents including MHT-CET or JEE 2026 Marksheet, 10th and 12th Marksheet, Diploma Marksheet (if applicable), Leaving/Transfer Certificate, Domicile/Nationality Certificates, and AAD",
+    "keywords": [
+      "documents",
+      "admission",
+      "scholarship",
+      "marksheet",
+      "certificate",
+      "required documents"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  },
+  {
+    "chunk_id": "542879b6-d2b0-410c-a1d6-27fa89c93b8d",
+    "parent_id": null,
+    "category": "admission_documents",
+    "source_section": "admission_documents/DSY : List of Documents required for Admission and",
+    "summary": "For admission to Annasaheb Dange College of Engineering and Technology in Ashta for 2025-26, students must submit documents including 10th, 12th, and Diploma Marksheets, Leaving/Transfer and Domicile/Nationality Certificates, and an AADHAR Card with a linked mobile number.",
+    "keywords": [
+      "documents",
+      "admission",
+      "scholarship",
+      "marksheet",
+      "certificate",
+      "required documents"
+    ],
+    "quality_score": 1.0,
+    "low_quality": false
+  }
+]
