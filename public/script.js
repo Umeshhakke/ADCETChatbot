@@ -1,9 +1,11 @@
-const chatIcon = document.getElementById('chatIcon');
-const chatWindow = document.getElementById('chatWindow');
-const closeChat = document.getElementById('closeChat');
+const chatIcon     = document.getElementById('chatIcon');
+const chatWindow   = document.getElementById('chatWindow');
+const closeChat    = document.getElementById('closeChat');
 const chatMessages = document.getElementById('chatMessages');
-const chatInput = document.getElementById('chatInput');
-const sendBtn = document.getElementById('sendBtn');
+const chatInput    = document.getElementById('chatInput');
+const sendBtn      = document.getElementById('sendBtn');
+
+const API_BASE = 'http://localhost:8001';
 
 let sessionId = localStorage.getItem('chatSessionId') || generateSessionId();
 localStorage.setItem('chatSessionId', sessionId);
@@ -15,6 +17,7 @@ function generateSessionId() {
 chatIcon.addEventListener('click', () => {
     chatWindow.classList.add('open');
     chatIcon.style.display = 'none';
+    chatInput.focus();
 });
 
 closeChat.addEventListener('click', () => {
@@ -24,39 +27,30 @@ closeChat.addEventListener('click', () => {
 
 sendBtn.addEventListener('click', sendMessage);
 chatInput.addEventListener('keypress', (e) => {
-    if (e.key === 'Enter') sendMessage();
+    if (e.key === 'Enter' && !e.shiftKey) sendMessage();
 });
 
 function addMessage(text, isUser) {
-    const messageDiv = document.createElement('div');
-    messageDiv.className = `message ${isUser ? 'user' : 'bot'}`;
-    messageDiv.textContent = text;
-    chatMessages.appendChild(messageDiv);
+    const div = document.createElement('div');
+    div.className = `message ${isUser ? 'user' : 'bot'}`;
+    div.textContent = text;
+    chatMessages.appendChild(div);
     chatMessages.scrollTop = chatMessages.scrollHeight;
-    return messageDiv;
+    return div;
 }
 
 function showTypingIndicator() {
-    const typingDiv = document.createElement('div');
-    typingDiv.className = 'message bot typing-indicator';
-    typingDiv.innerHTML = '<span></span><span></span><span></span>';
-    typingDiv.id = 'typingIndicator';
-    chatMessages.appendChild(typingDiv);
+    const div = document.createElement('div');
+    div.className = 'message bot typing-indicator';
+    div.id = 'typingIndicator';
+    div.innerHTML = '<span></span><span></span><span></span>';
+    chatMessages.appendChild(div);
     chatMessages.scrollTop = chatMessages.scrollHeight;
 }
 
 function removeTypingIndicator() {
-    const indicator = document.getElementById('typingIndicator');
-    if (indicator) indicator.remove();
-}
-
-async function streamText(element, text, speed = 20) {
-    element.textContent = '';
-    for (let i = 0; i < text.length; i++) {
-        element.textContent += text[i];
-        chatMessages.scrollTop = chatMessages.scrollHeight;
-        await new Promise(resolve => setTimeout(resolve, speed));
-    }
+    const el = document.getElementById('typingIndicator');
+    if (el) el.remove();
 }
 
 async function sendMessage() {
@@ -66,40 +60,71 @@ async function sendMessage() {
     addMessage(message, true);
     chatInput.value = '';
     sendBtn.disabled = true;
-
     showTypingIndicator();
 
+    // Create bot message bubble (hidden until first token)
+    const botDiv = document.createElement('div');
+    botDiv.className = 'message bot';
+    botDiv.style.display = 'none';
+    chatMessages.appendChild(botDiv);
+
     try {
-        const response = await fetch('http://localhost:8001/chat', {
+        const response = await fetch(`${API_BASE}/chat/stream`, {
             method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-            },
-            body: JSON.stringify({
-                message: message,
-                session_id: sessionId
-            })
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ message, session_id: sessionId }),
         });
 
-        removeTypingIndicator();
-
         if (!response.ok) {
-            const error = await response.json();
-            addMessage(error.detail || 'Error occurred', false);
+            const err = await response.json().catch(() => ({}));
+            removeTypingIndicator();
+            botDiv.remove();
+            addMessage(err.detail || 'Error occurred. Please try again.', false);
             sendBtn.disabled = false;
             return;
         }
 
-        const data = await response.json();
-        const botMessageDiv = document.createElement('div');
-        botMessageDiv.className = 'message bot';
-        chatMessages.appendChild(botMessageDiv);
-        
-        await streamText(botMessageDiv, data.response);
-        
+        const reader  = response.body.getReader();
+        const decoder = new TextDecoder();
+        let buffer = '';
+
+        while (true) {
+            const { value, done } = await reader.read();
+            if (done) break;
+
+            buffer += decoder.decode(value, { stream: true });
+            const lines = buffer.split('\n');
+            buffer = lines.pop(); // keep incomplete line
+
+            for (const line of lines) {
+                if (!line.startsWith('data: ')) continue;
+                const payload = JSON.parse(line.slice(6));
+
+                if (payload.done) break;
+
+                if (payload.token) {
+                    // Show bubble on first token
+                    if (botDiv.style.display === 'none') {
+                        removeTypingIndicator();
+                        botDiv.style.display = '';
+                    }
+                    botDiv.textContent += payload.token;
+                    chatMessages.scrollTop = chatMessages.scrollHeight;
+                }
+            }
+        }
+
+        // Fallback: if nothing was streamed, remove empty bubble
+        if (botDiv.style.display === 'none') {
+            removeTypingIndicator();
+            botDiv.remove();
+            addMessage('No response received.', false);
+        }
+
     } catch (error) {
         removeTypingIndicator();
-        addMessage('Connection error. Please try again.', false);
+        botDiv.remove();
+        addMessage('Connection error. Is the server running?', false);
     }
 
     sendBtn.disabled = false;

@@ -3,30 +3,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>College Chatbot</title>
+    <title>ADCET – College Assistant</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="main-content">
         <h1>Welcome to ADCET</h1>
-        <p>ADCET Chatbot</p>
+        <p>Annasaheb Dange College of Engineering &amp; Technology</p>
+        <p class="subtitle">Ask our AI assistant about admissions, fees, placements, hostel, and more.</p>
     </div>
 
-    <div id="chatIcon" class="chat-icon">
-        <svg width="32" height="32" viewBox="0 0 24 24" fill="white">
+    <!-- Chat trigger icon -->
+    <div id="chatIcon" class="chat-icon" aria-label="Open chat assistant" role="button" tabindex="0">
+        <svg width="32" height="32" viewBox="0 0 24 24" fill="white" aria-hidden="true">
             <path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H6l-2 2V4h16v12z"/>
         </svg>
     </div>
 
-    <div id="chatWindow" class="chat-window">
+    <!-- Chat window -->
+    <div id="chatWindow" class="chat-window" role="dialog" aria-label="ADCET Chat Assistant">
         <div class="chat-header">
-            <h3>College Assistant</h3>
-            <button id="closeChat" class="close-btn">&times;</button>
+            <h3>ADCET Assistant</h3>
+            <button id="closeChat" class="close-btn" aria-label="Close chat">&times;</button>
         </div>
-        <div id="chatMessages" class="chat-messages"></div>
+        <div id="chatMessages" class="chat-messages" aria-live="polite"></div>
         <div class="chat-input-container">
-            <input type="text" id="chatInput" placeholder="Type your message..." />
-            <button id="sendBtn">Send</button>
+            <input
+                type="text"
+                id="chatInput"
+                placeholder="Ask about admissions, fees, placements…"
+                aria-label="Chat message input"
+                autocomplete="off"
+            />
+            <button id="sendBtn" aria-label="Send message">Send</button>
         </div>
     </div>
 

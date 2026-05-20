@@ -1,24 +1,187 @@
-[
-  "In the academic year 2025-26, for Mechanical Engineering, total students were 122, students placed were 5, average salary was 8.5 LPA, highest salary was 8.7 LPA.",
-  "In the academic year 2024-25, for Mechanical Engineering, total students were 132, students placed were 4.7, average salary was 6.5 LPA, highest salary was 11.2 LPA.",
-  "In the academic year 2023-24, for Mechanical Engineering, total students were 99, students placed were 4.5, average salary was 12 LPA.",
-  "In the academic year 2025-26, for Civil Engineering, total students were 37, students placed were 5, average salary was 6.5 LPA, highest salary was 70 LPA.",
-  "In the academic year 2024-25, for Civil Engineering, total students were 30, students placed were 4.8, average salary was 7.5 LPA, highest salary was 73 LPA.",
-  "In the academic year 2023-24, for Civil Engineering, total students were 99, students placed were 4.3, average salary was 4.5 LPA.",
-  "In the academic year 2025-26, for Electrical Engineering, total students were 171, students placed were 5, average salary was 6.5 LPA, highest salary was 146 LPA.",
-  "In the academic year 2024-25, for Electrical Engineering, total students were 127, students placed were 5.2, average salary was 9 LPA, highest salary was 145 LPA.",
-  "In the academic year 2023-24, for Electrical Engineering, total students were 115, students placed were 4.5, average salary was 12 LPA.",
-  "In the academic year 2025-26, for Computer Science Engineering, total students were 120, students placed were 5.2, average salary was 12.34 LPA, highest salary was 131 LPA.",
-  "In the academic year 2024-25, for Computer Science Engineering, total students were 90, students placed were 5.2, average salary was 8 LPA, highest salary was 153 LPA.",
-  "In the academic year 2023-24, for Computer Science Engineering, total students were 143, students placed were 4.9, average salary was 11.1 LPA.",
-  "In the academic year 2025-26, for Computer Science IoT & cybersecurity  Engineering, total students were 41, students placed were 5.2, average salary was 8.67 LPA, highest salary was 62 LPA.",
-  "In the academic year 2024-25, for Computer Science IoT & cybersecurity  Engineering, total students were 40, students placed were 5.2, average salary was 7.5 LPA.",
-  "In the academic year 2025-26, for Artifical Inteligence and Data Science Engg, total students were 43, students placed were 5.2, average salary was 7.5 LPA, highest salary was 70 LPA.",
-  "In the academic year 2024-25, for Artifical Inteligence and Data Science Engg, total students were 47, students placed were 5.2, average salary was 6 LPA.",
-  "In the academic year 2025-26, for Aeronautical Engineergin, total students were 33, students placed were 4.6, average salary was 6 LPA, highest salary was 33 LPA.",
-  "In the academic year 2024-25, for Aeronautical Engineergin, total students were 28, students placed were 4.6, average salary was 4.5 LPA, highest salary was 55 LPA.",
-  "In the academic year 2023-24, for Aeronautical Engineergin, total students were 39, students placed were 4, average salary was 5 LPA.",
-  "In the academic year 2025-26, for Food Technology, total students were 21, students placed were 4, average salary was 5 LPA, highest salary was 21 LPA.",
-  "In the academic year 2024-25, for Food Technology, total students were 17, students placed were 3.5, average salary was 4 LPA, highest salary was 40 LPA.",
-  "In the academic year 2023-24, for Food Technology, total students were 27, students placed were 3.8, average salary was 4 LPA."
-]
+{
+  "placement_3yr_summary": {
+      "placement_summary_by_branch": [
+        {
+          "branch": "Mechanical Engineering",
+          "2025-26": {
+            "total_students": 96,
+            "students_placed_offers": 122,
+            "avg_salary_lpa": 5,
+            "highest_salary_lpa": 8.5
+          },
+          "2024-25": {
+            "total_students": 87,
+            "students_placed_offers": 132,
+            "avg_salary_lpa": 4.7,
+            "highest_salary_lpa": 6.5
+          },
+          "2023-24": {
+            "total_students": 112,
+            "students_placed_offers": 105,
+            "avg_salary_lpa": 4.5,
+            "highest_salary_lpa": 33
+          }
+        },
+        {
+          "branch": "Civil Engineering",
+          "2025-26": {
+            "total_students": 34,
+            "students_placed_offers": 37,
+            "avg_salary_lpa": 5,
+            "highest_salary_lpa": 6.5
+          },
+          "2024-25": {
+            "total_students": 70,
+            "students_placed_offers": 30,
+            "avg_salary_lpa": 4.8,
+            "highest_salary_lpa": 7.5
+          },
+          "2023-24": {
+            "total_students": 73,
+            "students_placed_offers": 99,
+            "avg_salary_lpa": 4.5,
+            "highest_salary_lpa": 6
+          }
+        },
+        {
+          "branch": "Electrical Engineering",
+          "2025-26": {
+            "total_students": 153,
+            "students_placed_offers": 171,
+            "avg_salary_lpa": 5,
+            "highest_salary_lpa": 6.5
+          },
+          "2024-25": {
+            "total_students": 146,
+            "students_placed_offers": 127,
+            "avg_salary_lpa": 5.2,
+            "highest_salary_lpa": 9
+          },
+          "2023-24": {
+            "total_students": 145,
+            "students_placed_offers": 117,
+            "avg_salary_lpa": 4.8,
+            "highest_salary_lpa": 9
+          }
+        },
+        {
+          "branch": "Computer Science Engineering",
+          "2025-26": {
+            "total_students": 145,
+            "students_placed_offers": 120,
+            "avg_salary_lpa": 5.2,
+            "highest_salary_lpa": 12.34
+          },
+          "2024-25": {
+            "total_students": 131,
+            "students_placed_offers": 90,
+            "avg_salary_lpa": 5.2,
+            "highest_salary_lpa": 8
+          },
+          "2023-24": {
+            "total_students": 153,
+            "students_placed_offers": 142,
+            "avg_salary_lpa": 5,
+            "highest_salary_lpa": 10
+          }
+        },
+        {
+          "branch": "Computer Science IoT & cybersecurity  Engineering",
+          "2025-26": {
+            "total_students": 69,
+            "students_placed_offers": 41,
+            "avg_salary_lpa": 5.2,
+            "highest_salary_lpa": 8.67
+          },
+          "2024-25": {
+            "total_students": 62,
+            "students_placed_offers": 40,
+            "avg_salary_lpa": 5.2,
+            "highest_salary_lpa": 7.5
+          },
+          "2023-24": {
+            "total_students": null,
+            "students_placed_offers": null,
+            "avg_salary_lpa": null,
+            "highest_salary_lpa": null
+          }
+        },
+        {
+          "branch": "Artifical Inteligence and Data Science Engg",
+          "2025-26": {
+            "total_students": 73,
+            "students_placed_offers": 43,
+            "avg_salary_lpa": 5.2,
+            "highest_salary_lpa": 7.5
+          },
+          "2024-25": {
+            "total_students": 70,
+            "students_placed_offers": 47,
+            "avg_salary_lpa": 5.2,
+            "highest_salary_lpa": 6
+          },
+          "2023-24": {
+            "total_students": null,
+            "students_placed_offers": null,
+            "avg_salary_lpa": null,
+            "highest_salary_lpa": null
+          }
+        },
+        {
+          "branch": "Aeronautical Engineergin",
+          "2025-26": {
+            "total_students": 48,
+            "students_placed_offers": 33,
+            "avg_salary_lpa": 4.6,
+            "highest_salary_lpa": 6
+          },
+          "2024-25": {
+            "total_students": 33,
+            "students_placed_offers": 28,
+            "avg_salary_lpa": 4.6,
+            "highest_salary_lpa": 4.5
+          },
+          "2023-24": {
+            "total_students": 55,
+            "students_placed_offers": 55,
+            "avg_salary_lpa": 4.3,
+            "highest_salary_lpa": 5.5
+          }
+        },
+        {
+          "branch": "Food Technology",
+          "2025-26": {
+            "total_students": 8,
+            "students_placed_offers": 21,
+            "avg_salary_lpa": 4,
+            "highest_salary_lpa": 5
+          },
+          "2024-25": {
+            "total_students": 21,
+            "students_placed_offers": 17,
+            "avg_salary_lpa": 3.5,
+            "highest_salary_lpa": 4
+          },
+          "2023-24": {
+            "total_students": 40,
+            "students_placed_offers": 36,
+            "avg_salary_lpa": 3.8,
+            "highest_salary_lpa": 4.5
+          }
+        }
+      ],
+      "overall_totals": {
+        "2025-26": {
+          "students_placed_offers": "588*  Till Date)"
+        },
+        "2024-25": {
+          "total_students": 620,
+          "students_placed_offers": "511*  Till Date)"
+        },
+        "2023-24": {
+          "total_students": 578,
+          "students_placed_offers": 554
+        }
+      }
+    }
+}
