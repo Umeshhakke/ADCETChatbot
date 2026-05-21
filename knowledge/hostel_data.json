@@ -1,0 +1,18 @@
+[
+    {
+        "hostel":"New ladies hostel",
+        "fees":35000
+    },
+    {
+        "hostel":"Subhadra ladies hostel",
+        "fees":30000
+    },
+    {
+        "hostel":"New boys hostel",
+        "fees":30000
+    },
+    {
+        "hostel":"Old boys hostel",
+        "fees":20000
+    }
+]

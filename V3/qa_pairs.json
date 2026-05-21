@@ -1,0 +1,3302 @@
+[
+  {
+    "id": "05554c71-8f86-4455-acda-21a808f1efff",
+    "source_chunk_id": "0ef7017d-d406-4613-bcd9-756b056eafae",
+    "category": "programs_offered",
+    "source_section": "programs_offered/btech",
+    "question_type": "factual",
+    "question": "How many students are admitted to the Mechanical Engineering program at Annasaheb Dange College of Engineering and Technology?",
+    "answer": "120 students.",
+    "keywords": [
+      "programme",
+      "course",
+      "b.tech",
+      "intake",
+      "engineering",
+      "B.Tech",
+      "M.Tech",
+      "specialisation"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "1977d753-65b6-4004-8cc7-d725603d4480",
+    "source_chunk_id": "0ef7017d-d406-4613-bcd9-756b056eafae",
+    "category": "programs_offered",
+    "source_section": "programs_offered/btech",
+    "question_type": "comparative",
+    "question": "Which B.Tech program has a larger intake, Computer Science & Engineering or Civil Engineering?",
+    "answer": "Computer Science & Engineering has a larger intake with 180 students compared to Civil Engineering's 60.",
+    "keywords": [
+      "programme",
+      "course",
+      "b.tech",
+      "intake",
+      "engineering",
+      "B.Tech",
+      "M.Tech",
+      "specialisation"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "8f915ea7-63e4-4c9e-9329-28debeb6b353",
+    "source_chunk_id": "0ef7017d-d406-4613-bcd9-756b056eafae",
+    "category": "programs_offered",
+    "source_section": "programs_offered/btech",
+    "question_type": "advice",
+    "question": "What should I consider if I am interested in Aeronautical Engineering at Annasaheb Dange College of Engineering and Technology?",
+    "answer": "You should consider that the program focuses on aircraft design, development, testing, and production and has an intake of 60 students.",
+    "keywords": [
+      "programme",
+      "course",
+      "b.tech",
+      "intake",
+      "engineering",
+      "B.Tech",
+      "M.Tech",
+      "specialisation"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "76101ae5-998e-43a0-a808-1272eb86dce7",
+    "source_chunk_id": "0ef7017d-d406-4613-bcd9-756b056eafae",
+    "category": "programs_offered",
+    "source_section": "programs_offered/btech",
+    "question_type": "eligibility",
+    "question": "Am I eligible to apply for the Food Technology program if it was established in 2019?",
+    "answer": "Yes, you are eligible as long as you meet the general eligibility criteria for B.Tech programs at Annasaheb Dange College of Engineering and Technology.",
+    "keywords": [
+      "programme",
+      "course",
+      "b.tech",
+      "intake",
+      "engineering",
+      "B.Tech",
+      "M.Tech",
+      "specialisation"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "07d08fc9-7834-4a47-81e7-997c9d8c6e67",
+    "source_chunk_id": "0ef7017d-d406-4613-bcd9-756b056eafae",
+    "category": "programs_offered",
+    "source_section": "programs_offered/btech",
+    "question_type": "colloquial",
+    "question": "What's the deal with the new Food Technology program? Only 30 students? That's a small class, right?",
+    "answer": "Yes, it is a smaller intake compared to other programs, which might mean more individual attention for each student.",
+    "keywords": [
+      "programme",
+      "course",
+      "b.tech",
+      "intake",
+      "engineering",
+      "B.Tech",
+      "M.Tech",
+      "specialisation"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "513b66c1-dbec-4a5f-b2be-341f8d150c75",
+    "source_chunk_id": "08b59e3d-7bed-4d6c-9b2a-b145db925eb1",
+    "category": "programs_offered",
+    "source_section": "programs_offered/ug_other",
+    "question_type": "factual",
+    "question": "How many students are admitted to the BBA program at Annasaheb Dange College of Engineering and Technology in Ashta for the academic year 2025-26?",
+    "answer": "60 students.",
+    "keywords": [
+      "programme",
+      "course",
+      "ug (non-engineering)",
+      "intake",
+      "engineering",
+      "B.Tech",
+      "M.Tech",
+      "specialisation"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "6cb12200-b237-45bc-b21f-8cefae0f23a5",
+    "source_chunk_id": "08b59e3d-7bed-4d6c-9b2a-b145db925eb1",
+    "category": "programs_offered",
+    "source_section": "programs_offered/ug_other",
+    "question_type": "comparative",
+    "question": "Are the intake numbers for the BBA and BCA programs the same?",
+    "answer": "Yes, both programs have an intake of 60 students each.",
+    "keywords": [
+      "programme",
+      "course",
+      "ug (non-engineering)",
+      "intake",
+      "engineering",
+      "B.Tech",
+      "M.Tech",
+      "specialisation"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "2c789fed-1b37-46e6-95cc-df3136b6db84",
+    "source_chunk_id": "08b59e3d-7bed-4d6c-9b2a-b145db925eb1",
+    "category": "programs_offered",
+    "source_section": "programs_offered/ug_other",
+    "question_type": "advice",
+    "question": "What should I do if I am interested in pursuing a non-engineering program at Annasaheb Dange College of Engineering and Technology?",
+    "answer": "You can apply for either the BBA or BCA program as they are both being offered this academic year.",
+    "keywords": [
+      "programme",
+      "course",
+      "ug (non-engineering)",
+      "intake",
+      "engineering",
+      "B.Tech",
+      "M.Tech",
+      "specialisation"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "a2a0c4a8-c239-4ba2-96e9-1f5ba9ebe360",
+    "source_chunk_id": "08b59e3d-7bed-4d6c-9b2a-b145db925eb1",
+    "category": "programs_offered",
+    "source_section": "programs_offered/ug_other",
+    "question_type": "eligibility",
+    "question": "Can students from outside Ashta enroll in these programs?",
+    "answer": "The text does not specify eligibility criteria, so it is unclear if students from outside Ashta can enroll.",
+    "keywords": [
+      "programme",
+      "course",
+      "ug (non-engineering)",
+      "intake",
+      "engineering",
+      "B.Tech",
+      "M.Tech",
+      "specialisation"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "6ba7d296-2ea9-4edd-8287-1c916f9dd029",
+    "source_chunk_id": "08b59e3d-7bed-4d6c-9b2a-b145db925eb1",
+    "category": "programs_offered",
+    "source_section": "programs_offered/ug_other",
+    "question_type": "colloquial",
+    "question": "Is there any AI or IoT stuff in the BBA and BCA courses at Annasaheb Dange College of Engineering and Technology?",
+    "answer": "While specific specializations like AI, IoT, and Robotics are not explicitly mentioned for these programs, they indicate a focus on technology-driven business solutions and advanced computing skills.",
+    "keywords": [
+      "programme",
+      "course",
+      "ug (non-engineering)",
+      "intake",
+      "engineering",
+      "B.Tech",
+      "M.Tech",
+      "specialisation"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "d2c229a2-79af-40e0-8dda-e2ad3824de22",
+    "source_chunk_id": "61d2d4e9-f254-4e12-8285-2cdb1cc859d8",
+    "category": "programs_offered",
+    "source_section": "programs_offered/mtech",
+    "question_type": "factual",
+    "question": "How many M.Tech programmes are offered at Annasaheb Dange College of Engineering and Technology in Ashta for the academic year 2025-26?",
+    "answer": "Four M.Tech programmes are offered.",
+    "keywords": [
+      "programme",
+      "course",
+      "m.tech",
+      "intake",
+      "engineering",
+      "B.Tech",
+      "M.Tech",
+      "specialisation"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "68a039b2-38cf-46b5-b44e-272878e74d3d",
+    "source_chunk_id": "61d2d4e9-f254-4e12-8285-2cdb1cc859d8",
+    "category": "programs_offered",
+    "source_section": "programs_offered/mtech",
+    "question_type": "comparative",
+    "question": "Which M.Tech programme focuses more on practical applications, Mechanical Engineering Design or Civil Engineering (Computer Aided Structural Engineering)?",
+    "answer": "Mechanical Engineering Design focuses more on advanced design methodologies and practical applications in mechanical systems.",
+    "keywords": [
+      "programme",
+      "course",
+      "m.tech",
+      "intake",
+      "engineering",
+      "B.Tech",
+      "M.Tech",
+      "specialisation"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "551c3976-aa01-43dd-82f2-734ae74a1f8c",
+    "source_chunk_id": "61d2d4e9-f254-4e12-8285-2cdb1cc859d8",
+    "category": "programs_offered",
+    "source_section": "programs_offered/mtech",
+    "question_type": "advice",
+    "question": "If I am interested in using computational tools for structural analysis and design, which M.Tech programme should I apply to?",
+    "answer": "You should apply to the Civil Engineering (Computer Aided Structural Engineering) programme.",
+    "keywords": [
+      "programme",
+      "course",
+      "m.tech",
+      "intake",
+      "engineering",
+      "B.Tech",
+      "M.Tech",
+      "specialisation"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "433b3dbf-2e7f-4ad2-9c5b-eaeeb4972eb2",
+    "source_chunk_id": "61d2d4e9-f254-4e12-8285-2cdb1cc859d8",
+    "category": "programs_offered",
+    "source_section": "programs_offered/mtech",
+    "question_type": "eligibility",
+    "question": "Is there a specific number of students that can be admitted into each M.Tech programme at Annasaheb Dange College for the academic year 2025-26?",
+    "answer": "Yes, an intake of 12 students each is provided for all four M.Tech programmes.",
+    "keywords": [
+      "programme",
+      "course",
+      "m.tech",
+      "intake",
+      "engineering",
+      "B.Tech",
+      "M.Tech",
+      "specialisation"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "af59a071-affb-4b62-acdc-70115bb97372",
+    "source_chunk_id": "61d2d4e9-f254-4e12-8285-2cdb1cc859d8",
+    "category": "programs_offered",
+    "source_section": "programs_offered/mtech",
+    "question_type": "colloquial",
+    "question": "What's this Computer Science and Engineering programme about in simple terms?",
+    "answer": "It’s about teaching you how to use tech skills for making smart computer stuff.",
+    "keywords": [
+      "programme",
+      "course",
+      "m.tech",
+      "intake",
+      "engineering",
+      "B.Tech",
+      "M.Tech",
+      "specialisation"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "d97f7e4c-979e-4498-a7c2-14c2c0a6a896",
+    "source_chunk_id": "d63b8303-9796-47e7-95df-1f46addcb406",
+    "category": "fees",
+    "source_section": "fy27_cutoff_bus_hostel_fees/tuition_fees",
+    "question_type": "factual",
+    "question": "What is the tuition fee for the OPEN category at Annasaheb Dange College of Engineering and Technology in Ashta for FY admissions in 2025-26?",
+    "answer": "The annual tuition fee for the OPEN category, which includes general students, is Rs. 134,026 for FY admissions.",
+    "keywords": [
+      "tuition fee",
+      "annual fee",
+      "reservation",
+      "OPEN",
+      "SC",
+      "ST",
+      "OBC",
+      "EBC",
+      "EWS",
+      "TFWS",
+      "fee structure",
+      "FY",
+      "DSE"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "3ed0c853-1d6c-4e8c-b757-b9667ee8328a",
+    "source_chunk_id": "d63b8303-9796-47e7-95df-1f46addcb406",
+    "category": "fees",
+    "source_section": "fy27_cutoff_bus_hostel_fees/tuition_fees",
+    "question_type": "comparative",
+    "question": "How does the tuition fee for EBC and OBC categories compare to the OPEN category at Annasaheb Dange College of Engineering and Technology in Ashta?",
+    "answer": "The EBC and OBC categories have a lower annual tuition fee of Rs. 82,505 compared to the OPEN category's Rs. 134,026.",
+    "keywords": [
+      "tuition fee",
+      "annual fee",
+      "reservation",
+      "OPEN",
+      "SC",
+      "ST",
+      "OBC",
+      "EBC",
+      "EWS",
+      "TFWS",
+      "fee structure",
+      "FY",
+      "DSE"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "eac76866-9f10-474b-a04b-e4f43513177c",
+    "source_chunk_id": "d63b8303-9796-47e7-95df-1f46addcb406",
+    "category": "fees",
+    "source_section": "fy27_cutoff_bus_hostel_fees/tuition_fees",
+    "question_type": "advice",
+    "question": "If I am from an economically weaker background, which category should I apply for at Annasaheb Dange College of Engineering and Technology?",
+    "answer": "You should consider applying under categories like EBC, OBC, or SBC to avail lower tuition fees.",
+    "keywords": [
+      "tuition fee",
+      "annual fee",
+      "reservation",
+      "OPEN",
+      "SC",
+      "ST",
+      "OBC",
+      "EBC",
+      "EWS",
+      "TFWS",
+      "fee structure",
+      "FY",
+      "DSE"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "ca033fd5-5796-4c1f-b041-b9a101678c38",
+    "source_chunk_id": "d63b8303-9796-47e7-95df-1f46addcb406",
+    "category": "fees",
+    "source_section": "fy27_cutoff_bus_hostel_fees/tuition_fees",
+    "question_type": "eligibility",
+    "question": "Do I qualify for the reduced fee structure if I belong to the VJNT category at Annasaheb Dange College of Engineering and Technology?",
+    "answer": "Yes, you would be eligible for a reduced annual tuition fee of Rs. 30,983 as part of the VJNT category.",
+    "keywords": [
+      "tuition fee",
+      "annual fee",
+      "reservation",
+      "OPEN",
+      "SC",
+      "ST",
+      "OBC",
+      "EBC",
+      "EWS",
+      "TFWS",
+      "fee structure",
+      "FY",
+      "DSE"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "88096a93-fb6b-423c-978a-8cd27eb13294",
+    "source_chunk_id": "d63b8303-9796-47e7-95df-1f46addcb406",
+    "category": "fees",
+    "source_section": "fy27_cutoff_bus_hostel_fees/tuition_fees",
+    "question_type": "colloquial",
+    "question": "What's the fee like if I'm from a poor tribal background at Annasaheb Dange College?",
+    "answer": "If you're from a poor tribal background, you would be charged Rs. 30,983 as the annual tuition fee.",
+    "keywords": [
+      "tuition fee",
+      "annual fee",
+      "reservation",
+      "OPEN",
+      "SC",
+      "ST",
+      "OBC",
+      "EBC",
+      "EWS",
+      "TFWS",
+      "fee structure",
+      "FY",
+      "DSE"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "48cc645d-45cc-4cac-bf28-1154e937ca92",
+    "source_chunk_id": "d72a8a11-88bd-4249-aa87-1bd2e2bb5917",
+    "category": "hostel",
+    "source_section": "fy27_cutoff_bus_hostel_fees/hostels",
+    "question_type": "factual",
+    "question": "How many hostels are there for female students at Annasaheb Dange College of Engineering and Technology in Ashta?",
+    "answer": "There are two hostels specifically designed for female students.",
+    "keywords": [
+      "hostel",
+      "accommodation",
+      "ladies hostel",
+      "boarding",
+      "annual fee",
+      "campus stay",
+      "residential"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "b3e7d198-ce1f-44a1-a6e2-2286178613ba",
+    "source_chunk_id": "d72a8a11-88bd-4249-aa87-1bd2e2bb5917",
+    "category": "hostel",
+    "source_section": "fy27_cutoff_bus_hostel_fees/hostels",
+    "question_type": "comparative",
+    "question": "Which hostel is cheaper, the New Boys Hostel or the Old Boys Hostel?",
+    "answer": "The Old Boys Hostel costs Rs. 20,000 annually, which is cheaper than the New Boys Hostel priced at Rs. 30,000 per year.",
+    "keywords": [
+      "hostel",
+      "accommodation",
+      "ladies hostel",
+      "boarding",
+      "annual fee",
+      "campus stay",
+      "residential"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "a5c45868-9406-4a91-a83b-db86362798d6",
+    "source_chunk_id": "d72a8a11-88bd-4249-aa87-1bd2e2bb5917",
+    "category": "hostel",
+    "source_section": "fy27_cutoff_bus_hostel_fees/hostels",
+    "question_type": "advice",
+    "question": "What should I do if I am an outstation boy student and want to stay in a hostel?",
+    "answer": "You can choose between the New Boys Hostel for Rs. 30,000 or the Old Boys Hostel for Rs. 20,000 annually.",
+    "keywords": [
+      "hostel",
+      "accommodation",
+      "ladies hostel",
+      "boarding",
+      "annual fee",
+      "campus stay",
+      "residential"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "d1164875-328a-4aba-9565-bd1f8eec3adb",
+    "source_chunk_id": "d72a8a11-88bd-4249-aa87-1bd2e2bb5917",
+    "category": "hostel",
+    "source_section": "fy27_cutoff_bus_hostel_fees/hostels",
+    "question_type": "eligibility",
+    "question": "Am I eligible to apply for Subhadra Ladies Hostel if I am a female student?",
+    "answer": "Yes, you are eligible to apply for Subhadra Ladies Hostel as it is specifically designed for female students.",
+    "keywords": [
+      "hostel",
+      "accommodation",
+      "ladies hostel",
+      "boarding",
+      "annual fee",
+      "campus stay",
+      "residential"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "53f59cad-0066-4d6a-b8e6-4023bea6a3e7",
+    "source_chunk_id": "d72a8a11-88bd-4249-aa87-1bd2e2bb5917",
+    "category": "hostel",
+    "source_section": "fy27_cutoff_bus_hostel_fees/hostels",
+    "question_type": "colloquial",
+    "question": "What's the cost of staying in Subhadra Ladies Hostel for one year?",
+    "answer": "The annual fee for staying in Subhadra Ladies Hostel is Rs. 30,000.",
+    "keywords": [
+      "hostel",
+      "accommodation",
+      "ladies hostel",
+      "boarding",
+      "annual fee",
+      "campus stay",
+      "residential"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "e8cdebe6-1699-40c3-85f8-4de0c6690dcb",
+    "source_chunk_id": "fb42c32c-9d2d-440a-9412-4827cde83f3a",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/overview",
+    "question_type": "factual",
+    "question": "How many bus routes does Annasaheb Dange College operate?",
+    "answer": "Seven distinct bus routes.",
+    "keywords": [
+      "bus routes",
+      "transport overview",
+      "commute",
+      "college bus"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "ae22d485-7d03-4824-9583-d0844f01b757",
+    "source_chunk_id": "fb42c32c-9d2d-440a-9412-4827cde83f3a",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/overview",
+    "question_type": "comparative",
+    "question": "Which route has the most stops and how many are there?",
+    "answer": "The 'Ashta-Palus' route has the most stops with seven stops.",
+    "keywords": [
+      "bus routes",
+      "transport overview",
+      "commute",
+      "college bus"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "bfc0a655-bb3a-44c5-8030-59258bddccd0",
+    "source_chunk_id": "fb42c32c-9d2d-440a-9412-4827cde83f3a",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/overview",
+    "question_type": "advice",
+    "question": "What should I do if my preferred bus route is not convenient for me?",
+    "answer": "You can contact the college authorities to provide feedback on your preferred route and commuting needs.",
+    "keywords": [
+      "bus routes",
+      "transport overview",
+      "commute",
+      "college bus"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "ab71598a-cd9b-4563-8ff3-62a5bf8536cf",
+    "source_chunk_id": "fb42c32c-9d2d-440a-9412-4827cde83f3a",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/overview",
+    "question_type": "eligibility",
+    "question": "Are all students eligible to use the bus service provided by Annasaheb Dange College?",
+    "answer": "Yes, all students are eligible to use the bus services as per the college's transport network.",
+    "keywords": [
+      "bus routes",
+      "transport overview",
+      "commute",
+      "college bus"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "45589526-ea98-4a83-9c3d-b602bb1b871a",
+    "source_chunk_id": "fb42c32c-9d2d-440a-9412-4827cde83f3a",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/overview",
+    "question_type": "colloquial",
+    "question": "How much do I have to pay for the bus rides each month?",
+    "answer": "The monthly fees for bus services are distance-based and designed to be affordable.",
+    "keywords": [
+      "bus routes",
+      "transport overview",
+      "commute",
+      "college bus"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "1b075888-07a0-4925-a8ee-f5554de2d6ed",
+    "source_chunk_id": "8a3e55ab-a66c-4afc-be6c-60e987e3f12e",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Palus",
+    "question_type": "factual",
+    "question": "How much does it cost to secure a place at Ashta on the Ashta-Palus route?",
+    "answer": "Rs.500 per month.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Palus",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "9fecdeb4-4221-403d-95b2-b3d9c5d9e6d1",
+    "source_chunk_id": "8a3e55ab-a66c-4afc-be6c-60e987e3f12e",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Palus",
+    "question_type": "comparative",
+    "question": "Which location on the Ashta-Palus route is cheaper, Nagthane Fata or Amnapur?",
+    "answer": "Nagthane Fata is cheaper than Amnapur.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Palus",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "6dd703e4-dee3-42bb-b5cf-99145ca9e748",
+    "source_chunk_id": "8a3e55ab-a66c-4afc-be6c-60e987e3f12e",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Palus",
+    "question_type": "advice",
+    "question": "If I am a student looking to save money and live closer to the college, where should I consider living on the Ashta-Palus route?",
+    "answer": "You might consider living in Ashta or Nagthane Fata.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Palus",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "906f8fff-c7f0-4309-8a0d-780f534ad1a6",
+    "source_chunk_id": "8a3e55ab-a66c-4afc-be6c-60e987e3f12e",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Palus",
+    "question_type": "eligibility",
+    "question": "Can students who can afford Rs.1,300 per month choose accommodation at Amnapur on the Ashta-Palus route?",
+    "answer": "Yes, students with this budget can choose to live at Amnapur.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Palus",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "20dd91fa-66f1-4581-ad07-be5bd473fd82",
+    "source_chunk_id": "8a3e55ab-a66c-4afc-be6c-60e987e3f12e",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Palus",
+    "question_type": "colloquial",
+    "question": "What's the most expensive place to stay on the Ashta-Palus route for a month?",
+    "answer": "Purus Colony charges Rs.2,100 per month, making it the costliest option on the route.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Palus",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "50753e59-ba25-434f-80ef-205b17c2ef79",
+    "source_chunk_id": "8ba6ba79-8290-44cf-8bc7-9b46fb6fa845",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Miraj",
+    "question_type": "factual",
+    "question": "What is the cheapest point on the Ashta-Miraj route for commuting?",
+    "answer": "Karandwad/Tung/Mirajwadi is the cheapest point on the Ashta-Miraj route, costing Rs.1,000 per month.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Miraj",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "e4389f91-2713-4ef0-8c51-1564ad4ec82f",
+    "source_chunk_id": "8ba6ba79-8290-44cf-8bc7-9b46fb6fa845",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Miraj",
+    "question_type": "comparative",
+    "question": "Which two points along the route have the same monthly transportation cost of Rs.2,000?",
+    "answer": "KarnalChouk and Sangli both charge Rs.2,000 per month for their services.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Miraj",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "6a8e9249-f240-4a49-ae4f-95527c5f5ad5",
+    "source_chunk_id": "8ba6ba79-8290-44cf-8bc7-9b46fb6fa845",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Miraj",
+    "question_type": "advice",
+    "question": "If a student has a tight budget, which point should they consider commuting from?",
+    "answer": "A student with a tight budget should consider commuting from Karandwadi/Tung/Mirajwadi, as it is the cheapest point on the route at Rs.1,000 per month.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Miraj",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "5ae2dbc3-5473-447d-ac6c-531c9da57c2e",
+    "source_chunk_id": "8ba6ba79-8290-44cf-8bc7-9b46fb6fa845",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Miraj",
+    "question_type": "eligibility",
+    "question": "Can students who need to travel beyond Miraj use this route for free?",
+    "answer": "No, students cannot use this route for free if they need to travel beyond Miraj as each stop has a set cost per month.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Miraj",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "a85bbeae-2477-4cc4-8ef9-51ef99afe807",
+    "source_chunk_id": "8ba6ba79-8290-44cf-8bc7-9b46fb6fa845",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Miraj",
+    "question_type": "colloquial",
+    "question": "What's the cost of going from KasbeDigraj to Vijaynagar on the Ashta-Miraj route?",
+    "answer": "The cost increases from KasbeDigraj to Rs.1,200 per month and then to Rs.2,000 at Vijaynagar.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Miraj",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "bbead156-8561-48c4-afb4-d32c223db755",
+    "source_chunk_id": "397e1a36-e4db-4a90-a3cb-af782f43f25c",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Kolhapur",
+    "question_type": "factual",
+    "question": "What is the cheapest stop on the Ashta-Kolhapur route for transportation?",
+    "answer": "Bgani is the cheapest stop on the Ashta-Kolhapur route, with a monthly fee of Rs.1,200.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Kolhapur",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "37c11886-b2a9-4ec4-bcfe-6afa561f24b5",
+    "source_chunk_id": "397e1a36-e4db-4a90-a3cb-af782f43f25c",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Kolhapur",
+    "question_type": "comparative",
+    "question": "Which stops have the same monthly fee and what is that fee?",
+    "answer": "Top and Shiye Phata both charge Rs.2,500 per month for their services.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Kolhapur",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "e25dd4b8-154c-4e87-9924-072b209f37bc",
+    "source_chunk_id": "397e1a36-e4db-4a90-a3cb-af782f43f25c",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Kolhapur",
+    "question_type": "advice",
+    "question": "If I am a student living in Bgani, which stop should I choose to minimize my transportation costs?",
+    "answer": "You should choose Bgani as it is the cheapest stop with a monthly fee of Rs.1,200.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Kolhapur",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "d7d58d06-1f43-46b4-ab3b-755f58f57b3b",
+    "source_chunk_id": "397e1a36-e4db-4a90-a3cb-af782f43f25c",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Kolhapur",
+    "question_type": "eligibility",
+    "question": "Can students from Annasaheb Dange College of Engineering and Technology use this route for free?",
+    "answer": "No, students must pay a monthly fee ranging from Rs.1,200 to Rs.3,000 depending on their stop destination.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Kolhapur",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "0d152a83-c446-4877-b7cb-0bf3b92b8961",
+    "source_chunk_id": "397e1a36-e4db-4a90-a3cb-af782f43f25c",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Kolhapur",
+    "question_type": "colloquial",
+    "question": "Is there any cheaper option than Bgani on the Ashta-Kolhapur route?",
+    "answer": "No, Bgani is the cheapest stop with a monthly fee of Rs.1,200, and no other stopping point offers a lower rate.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Kolhapur",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "6d450eae-7d09-4d80-a5fc-cdb6b98a1165",
+    "source_chunk_id": "e8e9f803-cc30-4617-b972-2ea0c143236b",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta- Dudhondi",
+    "question_type": "factual",
+    "question": "What is the monthly fee for students living in Ashta?",
+    "answer": "The monthly fee for students living in Ashta is Rs. 500.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta- Dudhondi",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "1efc3d39-ded9-4771-a75d-07c8dd267a6a",
+    "source_chunk_id": "e8e9f803-cc30-4617-b972-2ea0c143236b",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta- Dudhondi",
+    "question_type": "comparative",
+    "question": "How does the cost of boarding vary from Nagthane Fata to Kirloskarwadi?",
+    "answer": "The cost increases significantly, from Rs. 700 at Nagthane Fata to Rs. 1,900 at Kirloskarwadi.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta- Dudhondi",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "bf26e420-4901-4cca-8f03-e0a17d5c6853",
+    "source_chunk_id": "e8e9f803-cc30-4617-b972-2ea0c143236b",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta- Dudhondi",
+    "question_type": "advice",
+    "question": "What is the most affordable boarding option for students?",
+    "answer": "The most affordable boarding option is for students living in Ashta, with a monthly fee of Rs. 500.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta- Dudhondi",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "8253a31c-c0df-45e0-9e4e-207f7c60c48b",
+    "source_chunk_id": "e8e9f803-cc30-4617-b972-2ea0c143236b",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta- Dudhondi",
+    "question_type": "eligibility",
+    "question": "Does a student from Burli qualify for the boarding service?",
+    "answer": "Yes, a student from Burli qualifies and can avail the boarding service at Rs. 1,400 per month.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta- Dudhondi",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "1758bc34-12f0-46e1-9eb2-1d2e00726f46",
+    "source_chunk_id": "e8e9f803-cc30-4617-b972-2ea0c143236b",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta- Dudhondi",
+    "question_type": "colloquial",
+    "question": "Why are some places more expensive than others?",
+    "answer": "Some places are more expensive due to their distance from the college, with fees increasing as you travel further along the route.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta- Dudhondi",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "a926703f-40e9-469a-9083-c855beda92e8",
+    "source_chunk_id": "5f2a9fcb-55ad-4c84-826f-3e47238c6c62",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta- Tasgaon",
+    "question_type": "factual",
+    "question": "What is the cheapest monthly fare for commuting to Annasaheb Dange College of Engineering and Technology from Ashta?",
+    "answer": "Rs. 500.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta- Tasgaon",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "0b2b671b-8a10-4ae0-9439-ae0333c4d416",
+    "source_chunk_id": "5f2a9fcb-55ad-4c84-826f-3e47238c6c62",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta- Tasgaon",
+    "question_type": "comparative",
+    "question": "How does the monthly fare compare between students living in Khandobachiwadi/Malwadi and Bhilawadi Station?",
+    "answer": "Students in Khandobachiwadi/Malwadi pay Rs. 900 per month, while those near Bhilawadi Station pay Rs. 1,300.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta- Tasgaon",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "08c3430d-4b88-4479-8ece-1aefd2527070",
+    "source_chunk_id": "5f2a9fcb-55ad-4c84-826f-3e47238c6c62",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta- Tasgaon",
+    "question_type": "advice",
+    "question": "What should a student do if they are from Audumbar Fata and need to commute?",
+    "answer": "They should be prepared for a monthly commuting cost of Rs. 700.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta- Tasgaon",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "a88d0598-a293-43a4-9b05-f72592a27139",
+    "source_chunk_id": "5f2a9fcb-55ad-4c84-826f-3e47238c6c62",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta- Tasgaon",
+    "question_type": "eligibility",
+    "question": "Can students from Pachva Mil use the Ashta-Tasgaon route to commute to Annasaheb Dange College of Engineering and Technology?",
+    "answer": "Yes, as Pachva Mil is part of the service area.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta- Tasgaon",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "a3b83a1e-7c6b-40ad-932a-655e9cf6a065",
+    "source_chunk_id": "5f2a9fcb-55ad-4c84-826f-3e47238c6c62",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta- Tasgaon",
+    "question_type": "colloquial",
+    "question": "What areas does this transport cover for students living in Pune?",
+    "answer": "This transport covers areas like Audumbar Fata, Bhilawadi, Khandobachiwadi/Malwadi, Bhilawadi Station, and Tasgaon.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta- Tasgaon",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "502f6f22-8a2c-4987-917c-9c275dfe5059",
+    "source_chunk_id": "27ccf185-790c-4129-8c1a-0f5a5ca520b9",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Karad",
+    "question_type": "factual",
+    "question": "How much does it cost to stay in Pethnaka per month on the Ashta-Karad route?",
+    "answer": "Rs.2,200 per month.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Karad",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "a30dc93d-1ea0-434f-8a81-770a935efa7e",
+    "source_chunk_id": "27ccf185-790c-4129-8c1a-0f5a5ca520b9",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Karad",
+    "question_type": "comparative",
+    "question": "Which location is cheaper between Karad and Atake?",
+    "answer": "Atake is cheaper than Karad since it costs Rs.2,800 per month compared to Karad's Rs.3,300 per month.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Karad",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "0656ffc7-587b-441c-b6c5-e05b775b624c",
+    "source_chunk_id": "27ccf185-790c-4129-8c1a-0f5a5ca520b9",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Karad",
+    "question_type": "advice",
+    "question": "If I want a more affordable option but still close to home, which location should I consider?",
+    "answer": "Pethnaka would be a good choice as it offers the cheapest accommodation at Rs.2,200 per month while still being relatively close to home.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Karad",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "77b2d2d3-bb52-4211-8981-15e4ef5656b9",
+    "source_chunk_id": "27ccf185-790c-4129-8c1a-0f5a5ca520b9",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Karad",
+    "question_type": "eligibility",
+    "question": "Can students who live in Kasegaon attend Annasaheb Dange College of Engineering and Technology?",
+    "answer": "Yes, students living in Kasegaon can commute using the Ashta-Karad route as it is one of the key stops with a monthly cost of Rs.2,500.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Karad",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "62a1f71f-5b44-4feb-92bc-c31ea552486c",
+    "source_chunk_id": "27ccf185-790c-4129-8c1a-0f5a5ca520b9",
+    "category": "transport",
+    "source_section": "fy27_cutoff_bus_hostel_fees/bus_routes/Ashta-Karad",
+    "question_type": "colloquial",
+    "question": "What's the deal with this Ashta-Karad route for students?",
+    "answer": "It’s popular because it gives students different options to choose from based on their budget and how close they want to live to home, ranging from Rs.2,200 in Pethnaka to Rs.3,300 in Karad.",
+    "keywords": [
+      "bus",
+      "transport",
+      "route",
+      "Ashta-Karad",
+      "commute",
+      "monthly fee"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "cb4c1f64-33e4-45ce-b56e-21f2a53679ed",
+    "source_chunk_id": "3371607d-82a7-49b3-b0e9-26da014b734b",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/CSE",
+    "question_type": "factual",
+    "question": "What is the cutoff score for VJ category females in CSE at Annasaheb Dange College for 2025-26?",
+    "answer": "78.34 marks.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "CSE",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "29e7c355-28e6-4410-99c7-1f68a360b2b0",
+    "source_chunk_id": "3371607d-82a7-49b3-b0e9-26da014b734b",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/CSE",
+    "question_type": "comparative",
+    "question": "How do the cutoff scores for general and ladies categories in NT-1/NT-2/NT-3 compare?",
+    "answer": "Ladies generally require higher cutoffs than the general category, indicating a slight advantage for female applicants in these categories.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "CSE",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "c735c1a4-c71f-460f-b4af-4635e8547ae2",
+    "source_chunk_id": "3371607d-82a7-49b3-b0e9-26da014b734b",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/CSE",
+    "question_type": "advice",
+    "question": "If I am from the VJ category and want to apply for CSE at Annasaheb Dange College, what score should I aim for?",
+    "answer": "You should aim for at least 78.34 marks if you are a female candidate or 75.21 marks if you are a male candidate.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "CSE",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "57166265-6980-4cfd-b0b5-3287dd41d78d",
+    "source_chunk_id": "3371607d-82a7-49b3-b0e9-26da014b734b",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/CSE",
+    "question_type": "eligibility",
+    "question": "Do I qualify for the CSE program at Annasaheb Dange College based on my MHT-CET score of 76?",
+    "answer": "Yes, if you belong to the VJ category and are female, as your score meets or exceeds the required cutoff.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "CSE",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "62fdc822-6730-47ef-89f5-49b83887ff2e",
+    "source_chunk_id": "3371607d-82a7-49b3-b0e9-26da014b734b",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/CSE",
+    "question_type": "colloquial",
+    "question": "Is it easier for girls to get into CSE at Annasaheb Dange College compared to boys?",
+    "answer": "Yeah, kinda. Girls in the VJ category need a bit more marks than boys but still have an edge.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "CSE",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "59d357f5-b9ed-4844-a637-3a296b0c18bb",
+    "source_chunk_id": "1b486f34-f430-4866-9833-d8e0ea3cbf81",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/AIDS",
+    "question_type": "factual",
+    "question": "What is the MHT-CET cut-off for General males in the VJ category at Annasaheb Dange College of Engineering and Technology for AIDS branch in 2025-26?",
+    "answer": "83.11 marks.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "AIDS",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "7242aae0-d27b-4d75-ba0e-d8eab89bad95",
+    "source_chunk_id": "1b486f34-f430-4866-9833-d8e0ea3cbf81",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/AIDS",
+    "question_type": "comparative",
+    "question": "How do the cut-offs for NT-1 compare to those for VJ category in General males?",
+    "answer": "The cut-off for NT-1 is higher, requiring 85.98 marks compared to 83.11 for VJ.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "AIDS",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "824e5ab3-9e96-4c91-9ebe-841f68c57d7c",
+    "source_chunk_id": "1b486f34-f430-4866-9833-d8e0ea3cbf81",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/AIDS",
+    "question_type": "advice",
+    "question": "If I am a General male and scored 82.50 in MHT-CET, should I apply for Annasaheb Dange College of Engineering and Technology for AIDS branch?",
+    "answer": "No, based on the cut-off, you would not be eligible.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "AIDS",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "11f877b2-b890-42bd-9522-ffed4c34f944",
+    "source_chunk_id": "1b486f34-f430-4866-9833-d8e0ea3cbf81",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/AIDS",
+    "question_type": "eligibility",
+    "question": "Does a candidate need to score at least 84.14 marks in MHT-CET to apply under VJ category (General females) for admission into Annasaheb Dange College of Engineering and Technology?",
+    "answer": "Yes, the cut-off is set at 84.14 marks for General females.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "AIDS",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "4d650b23-47ec-4d2b-9b7d-e87841ba32f6",
+    "source_chunk_id": "1b486f34-f430-4866-9833-d8e0ea3cbf81",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/AIDS",
+    "question_type": "colloquial",
+    "question": "Can I get in if I'm a SC candidate with less than 83.11 marks in MHT-CET for AIDS branch at Annasaheb Dange College of Engineering and Technology?",
+    "answer": "No, the cut-off is higher than that for your category.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "AIDS",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "bc5dd488-c557-45ca-ba18-5cbdb219d066",
+    "source_chunk_id": "daf5a856-4e7f-4ed2-ad52-cc66cb024180",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/CIVIL",
+    "question_type": "factual",
+    "question": "What is the VJ category cutoff for General candidates in Civil Engineering at Annasaheb Dange College for 2025-26?",
+    "answer": "The VJ category cutoff for General candidates is 63.82 marks.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "CIVIL",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "4d5f0b8f-b271-4913-add8-9588635c12d1",
+    "source_chunk_id": "daf5a856-4e7f-4ed2-ad52-cc66cb024180",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/CIVIL",
+    "question_type": "comparative",
+    "question": "How do the NT-1 and NT-2 category cutoffs compare for General candidates in Civil Engineering at Annasaheb Dange College for 2025-26?",
+    "answer": "The NT-1 category has a lower cutoff of 29.81 marks compared to the NT-2 category, which has a higher cutoff of 71.85 marks.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "CIVIL",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "ff464486-a825-4682-8218-562c28280144",
+    "source_chunk_id": "daf5a856-4e7f-4ed2-ad52-cc66cb024180",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/CIVIL",
+    "question_type": "advice",
+    "question": "If I am a General candidate in the VJ category and applying for Civil Engineering at Annasaheb Dange College, should I be concerned about meeting the cutoff?",
+    "answer": "Yes, you need to score at least 63.82 marks to meet the VJ category cutoff for General candidates.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "CIVIL",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "22375245-e415-425a-bd13-40d7f4379084",
+    "source_chunk_id": "daf5a856-4e7f-4ed2-ad52-cc66cb024180",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/CIVIL",
+    "question_type": "eligibility",
+    "question": "As a Lady in the NT-2 category, do I have a specific cutoff score mentioned for Civil Engineering at Annasaheb Dange College for 2025-26?",
+    "answer": "Yes, there is a specific score of 57.40 marks for Ladies in the NT-2 category.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "CIVIL",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "b29ca1d9-34d4-46a2-8574-e7a4c271ebfd",
+    "source_chunk_id": "daf5a856-4e7f-4ed2-ad52-cc66cb024180",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/CIVIL",
+    "question_type": "colloquial",
+    "question": "Is it true that all VJ category candidates are treated equally regardless of gender at Annasaheb Dange College?",
+    "answer": "Yes, there is no specified score for the Ladies category in the VJ category, implying equal treatment without gender-specific distinctions.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "CIVIL",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "6b9d59fa-d5f4-4b58-8ca8-b5a1f7d756b1",
+    "source_chunk_id": "2295f071-f603-4410-a462-a3333c257f5d",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/ELECT",
+    "question_type": "factual",
+    "question": "What are the NT-2 cutoff marks for General candidates in the VJ category at Annasaheb Dange College of Engineering and Technology for the academic year 2025-26?",
+    "answer": "The NT-2 cutoff marks for General candidates in the VJ category is 66.17.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "ELECT",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "806e3689-63c5-4a39-b2a4-5454484aceeb",
+    "source_chunk_id": "2295f071-f603-4410-a462-a3333c257f5d",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/ELECT",
+    "question_type": "comparative",
+    "question": "How do the cutoffs for General and Ladies categories compare in the VJ category of MHT-CET at Annasaheb Dange College?",
+    "answer": "The cutoffs are higher for ladies, with NT-1 being 64.39 and NT-2 being 78.01 compared to General candidates' NT-1 at 53.76 and NT-2 at 66.17.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "ELECT",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "a3e78782-8c10-4562-bc9b-6bcc37388537",
+    "source_chunk_id": "2295f071-f603-4410-a462-a3333c257f5d",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/ELECT",
+    "question_type": "advice",
+    "question": "If I am a General candidate in the VJ category, what should I focus on for the MHT-CET exams?",
+    "answer": "You should aim to score above 53.76 in NT-1 and 66.17 in NT-2 to meet the cutoff requirements.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "ELECT",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "17517412-ba82-49d8-9154-ea0fcf0a091a",
+    "source_chunk_id": "2295f071-f603-4410-a462-a3333c257f5d",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/ELECT",
+    "question_type": "eligibility",
+    "question": "Do General candidates have a specified cutoff for the NT-3 category at Annasaheb Dange College of Engineering and Technology?",
+    "answer": "No, General candidates do not have a specified cutoff for the NT-3 category.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "ELECT",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "e6d6152d-c0d4-4c31-9444-200dc14f67fd",
+    "source_chunk_id": "2295f071-f603-4410-a462-a3333c257f5d",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/ELECT",
+    "question_type": "colloquial",
+    "question": "Is there any information on SC or EWS categories in the given text about MHT-CET cutoffs at Annasaheb Dange College of Engineering and Technology?",
+    "answer": "The text mentions SC (Scheduled Caste) and EWS (Economically Weaker Section) but does not provide specific cutoff details.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "ELECT",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "073b1574-ac67-481c-92a3-e0acff02e4ec",
+    "source_chunk_id": "23d04377-dc7e-4d62-a30b-d5b48fdd413a",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/CSE IOT",
+    "question_type": "factual",
+    "question": "What is the minimum cut-off mark for General candidates in VJ category for CSE IOT branch at Annasaheb Dange College of Engineering and Technology?",
+    "answer": "The minimum cut-off mark for General candidates in VJ category is 69.22 marks.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "CSE IOT",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "9b94e22b-4ec4-42aa-b102-ab4eeb0fb08c",
+    "source_chunk_id": "23d04377-dc7e-4d62-a30b-d5b48fdd413a",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/CSE IOT",
+    "question_type": "comparative",
+    "question": "Is there any difference in the cut-off marks between General and Ladies categories for CSE IOT branch at Annasaheb Dange College of Engineering and Technology?",
+    "answer": "There is no provided data for the Ladies category, so it cannot be compared with the General category.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "CSE IOT",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "a1e57bef-0613-43c2-a021-8af3d9b9dbc9",
+    "source_chunk_id": "23d04377-dc7e-4d62-a30b-d5b48fdd413a",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/CSE IOT",
+    "question_type": "advice",
+    "question": "If a student from VJ category wants to apply for CSE IOT branch at Annasaheb Dange College of Engineering and Technology, what should they aim for in their MHT-CET score?",
+    "answer": "They should aim for at least 69.22 marks in their MHT-CET as it is the cut-off mark for General candidates from VJ category.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "CSE IOT",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "913f883d-fc87-4d5a-bc70-9d8f8c698ccf",
+    "source_chunk_id": "23d04377-dc7e-4d62-a30b-d5b48fdd413a",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/CSE IOT",
+    "question_type": "eligibility",
+    "question": "Can a female student apply for CSE IOT branch at Annasaheb Dange College of Engineering and Technology under any specific category?",
+    "answer": "No data was provided for the Ladies category, so it is unclear if there are specific cut-offs or categories available for female students.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "CSE IOT",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "49bf4da3-421e-475e-8b19-85f9104161cf",
+    "source_chunk_id": "23d04377-dc7e-4d62-a30b-d5b48fdd413a",
+    "category": "cutoffs",
+    "source_section": "fy27_cutoff_bus_hostel_fees/cutoffs/CSE IOT",
+    "question_type": "colloquial",
+    "question": "So, guys from VJ category need at least how many marks to get into CSE IOT at this college?",
+    "answer": "Guys from VJ category need at least 69.22 marks in their MHT-CET to secure a seat in the CSE IOT branch.",
+    "keywords": [
+      "cutoff",
+      "merit",
+      "MHT-CET",
+      "CSE IOT",
+      "admission",
+      "marks",
+      "category",
+      "OPEN",
+      "OBC",
+      "SC",
+      "ST",
+      "VJ",
+      "NT",
+      "SEBC"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "eb60e23c-336c-4c9e-9eff-f602321d3fa6",
+    "source_chunk_id": "2d9f6ccc-114f-4862-9ed9-22a39c8cad01",
+    "category": "eligibility",
+    "source_section": "fy27_cutoff_bus_hostel_fees/qualifying_criteria",
+    "question_type": "factual",
+    "question": "What is the minimum mark requirement for Open category candidates who have chosen PCM in Annasaheb Dange College of Engineering and Technology?",
+    "answer": "The minimum marks required are 134 out of 135.",
+    "keywords": [
+      "eligibility",
+      "qualifying",
+      "12th",
+      "HSC",
+      "minimum marks",
+      "percentage",
+      "physics",
+      "maths"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "59591786-7a82-4bab-bafe-dd13f92180dc",
+    "source_chunk_id": "2d9f6ccc-114f-4862-9ed9-22a39c8cad01",
+    "category": "eligibility",
+    "source_section": "fy27_cutoff_bus_hostel_fees/qualifying_criteria",
+    "question_type": "comparative",
+    "question": "How do the requirements for Cast category candidates compare to those for Open category candidates in terms of marks needed?",
+    "answer": "Cast category candidates require slightly higher marks (119/120) compared to Open category candidates (134/135).",
+    "keywords": [
+      "eligibility",
+      "qualifying",
+      "12th",
+      "HSC",
+      "minimum marks",
+      "percentage",
+      "physics",
+      "maths"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "45b4d04d-f77a-4232-813f-0bb8cb5132e8",
+    "source_chunk_id": "2d9f6ccc-114f-4862-9ed9-22a39c8cad01",
+    "category": "eligibility",
+    "source_section": "fy27_cutoff_bus_hostel_fees/qualifying_criteria",
+    "question_type": "advice",
+    "question": "What should a candidate do if they are aiming to apply for Annasaheb Dange College of Engineering and Technology?",
+    "answer": "Candidates should aim for at least 98.5% in PCM or PM + Any Technical Subject for the Open category, and about 99.17% for the Cast category.",
+    "keywords": [
+      "eligibility",
+      "qualifying",
+      "12th",
+      "HSC",
+      "minimum marks",
+      "percentage",
+      "physics",
+      "maths"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "88aef1a2-6db2-43cb-b5e6-5f25c917d6a9",
+    "source_chunk_id": "2d9f6ccc-114f-4862-9ed9-22a39c8cad01",
+    "category": "eligibility",
+    "source_section": "fy27_cutoff_bus_hostel_fees/qualifying_criteria",
+    "question_type": "eligibility",
+    "question": "Do I qualify to apply if I scored 132 out of 135 in my 12th standard PCM subject?",
+    "answer": "No, you do not meet the eligibility criteria as you need at least 134 marks for the Open category.",
+    "keywords": [
+      "eligibility",
+      "qualifying",
+      "12th",
+      "HSC",
+      "minimum marks",
+      "percentage",
+      "physics",
+      "maths"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "a3eab178-8806-4505-a0fb-3acdc32f0ae2",
+    "source_chunk_id": "2d9f6ccc-114f-4862-9ed9-22a39c8cad01",
+    "category": "eligibility",
+    "source_section": "fy27_cutoff_bus_hostel_fees/qualifying_criteria",
+    "question_type": "colloquial",
+    "question": "Is there any leeway if I didn't hit those exact marks but am close?",
+    "answer": "The college has very stringent requirements, so it's highly unlikely to have any flexibility with such a small margin of difference.",
+    "keywords": [
+      "eligibility",
+      "qualifying",
+      "12th",
+      "HSC",
+      "minimum marks",
+      "percentage",
+      "physics",
+      "maths"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "949af178-f341-4ceb-84ef-cd9043bc6644",
+    "source_chunk_id": "5ea68645-da2d-4e96-8b5e-62378702cfef",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/overall",
+    "question_type": "factual",
+    "question": "How many students secured placements in the 2023-24 academic year at ADCET?",
+    "answer": "578 students secured placements.",
+    "keywords": [
+      "placement",
+      "overall",
+      "offers",
+      "salary",
+      "companies",
+      "LPA",
+      "3-year",
+      "trend"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "d4b385d0-79c7-4080-803b-708cc09f47e7",
+    "source_chunk_id": "5ea68645-da2d-4e96-8b5e-62378702cfef",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/overall",
+    "question_type": "comparative",
+    "question": "Did more companies participate in the placement process in 2023-24 or 2024-25?",
+    "answer": "More companies participated in the placement process in 2024-25, with 90+ companies compared to 82 in 2023-24.",
+    "keywords": [
+      "placement",
+      "overall",
+      "offers",
+      "salary",
+      "companies",
+      "LPA",
+      "3-year",
+      "trend"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "65c755cc-9466-49da-af3e-5121fc27befd",
+    "source_chunk_id": "5ea68645-da2d-4e96-8b5e-62378702cfef",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/overall",
+    "question_type": "advice",
+    "question": "What should a student do if they are interested in improving their chances of getting a placement at ADCET?",
+    "answer": "Students should focus on participating in the placement process and engaging with the increasing number of corporate partners, as more companies have been involved each year.",
+    "keywords": [
+      "placement",
+      "overall",
+      "offers",
+      "salary",
+      "companies",
+      "LPA",
+      "3-year",
+      "trend"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "02be9f51-2d87-4e7f-9fcd-4546bcafa00b",
+    "source_chunk_id": "5ea68645-da2d-4e96-8b5e-62378702cfef",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/overall",
+    "question_type": "eligibility",
+    "question": "Is a student eligible for placements if they join ADCET this academic year?",
+    "answer": "Yes, students are eligible for placements as ADCET continues to see an increase in participation from companies every year.",
+    "keywords": [
+      "placement",
+      "overall",
+      "offers",
+      "salary",
+      "companies",
+      "LPA",
+      "3-year",
+      "trend"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "9e566331-4201-4cf1-9739-173a6fc4744a",
+    "source_chunk_id": "5ea68645-da2d-4e96-8b5e-62378702cfef",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/overall",
+    "question_type": "colloquial",
+    "question": "What's the deal with the number of companies at ADCET's placement drives these days? They keep going up and up!",
+    "answer": "Yeah, it looks like more and more companies are interested in partnering with ADCET for their placements, as evidenced by the increasing numbers each year.",
+    "keywords": [
+      "placement",
+      "overall",
+      "offers",
+      "salary",
+      "companies",
+      "LPA",
+      "3-year",
+      "trend"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "e8084174-3ae0-4238-bd69-06f23d901b5b",
+    "source_chunk_id": "d90e363b-2872-42da-8d4f-513860eae934",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Mechanical Engineering",
+    "question_type": "factual",
+    "question": "How many students participated in placements at Annasaheb Dange College of Engineering and Technology during the 2023-24 academic year?",
+    "answer": "112 students participated in placements.",
+    "keywords": [
+      "placement",
+      "Mechanical Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "17cb454e-18ae-4b28-a5c4-5dc7e564ae22",
+    "source_chunk_id": "d90e363b-2872-42da-8d4f-513860eae934",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Mechanical Engineering",
+    "question_type": "comparative",
+    "question": "Which academic year had more job offers, 2024-25 or 2025-26?",
+    "answer": "The 2024-25 academic year had more job offers with 132 compared to 122 in the 2025-26 academic year.",
+    "keywords": [
+      "placement",
+      "Mechanical Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "abc929b4-b6a2-4132-990e-7512d32417e1",
+    "source_chunk_id": "d90e363b-2872-42da-8d4f-513860eae934",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Mechanical Engineering",
+    "question_type": "advice",
+    "question": "What should a student majoring in Mechanical Engineering at Annasaheb Dange College focus on to improve their chances of getting a good package?",
+    "answer": "Students should focus on skill development and industry-relevant projects to enhance their employability and negotiation power for higher packages.",
+    "keywords": [
+      "placement",
+      "Mechanical Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "84a98ce8-753a-4fbf-a12e-b8951f18268d",
+    "source_chunk_id": "d90e363b-2872-42da-8d4f-513860eae934",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Mechanical Engineering",
+    "question_type": "eligibility",
+    "question": "Is a student from the Mechanical Engineering branch at Annasaheb Dange College eligible for placements based on the information provided?",
+    "answer": "Yes, students from the Mechanical Engineering branch are eligible for placements as shown by the data provided.",
+    "keywords": [
+      "placement",
+      "Mechanical Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "b5afed6e-4048-4a90-8863-b8ab3b681ae0",
+    "source_chunk_id": "d90e363b-2872-42da-8d4f-513860eae934",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Mechanical Engineering",
+    "question_type": "colloquial",
+    "question": "How was the placement scenario in 2025-26 at Annasaheb Dange College of Engineering and Technology?",
+    "answer": "It was decent, with a slight increase in student numbers but a minor decrease in job offers compared to the previous year.",
+    "keywords": [
+      "placement",
+      "Mechanical Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "99cca4f5-985c-445c-936f-744a34da54a7",
+    "source_chunk_id": "fbc944d2-abd7-4961-8825-cd2c20faeb8d",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Civil Engineering",
+    "question_type": "factual",
+    "question": "How many students were placed in Civil Engineering at Annasaheb Dange College of Engineering and Technology in 2025-26?",
+    "answer": "34 students",
+    "keywords": [
+      "placement",
+      "Civil Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "c4e4a594-cf52-46f4-9f05-c7cdd992c7e3",
+    "source_chunk_id": "fbc944d2-abd7-4961-8825-cd2c20faeb8d",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Civil Engineering",
+    "question_type": "comparative",
+    "question": "Which year had a higher average package, 2024-25 or 2025-26?",
+    "answer": "2024-25 had an average package of 4.8 LPA while 2025-26 had 5 LPA, so 2024-25 had a higher average package.",
+    "keywords": [
+      "placement",
+      "Civil Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "30dbec7c-d5a2-418e-af80-4d4413f07ad4",
+    "source_chunk_id": "fbc944d2-abd7-4961-8825-cd2c20faeb8d",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Civil Engineering",
+    "question_type": "advice",
+    "question": "What should I do if my package is lower than the average in Civil Engineering placements at Annasaheb Dange College of Engineering and Technology?",
+    "answer": "You could consider exploring opportunities for negotiation or seeking additional job offers to potentially increase your salary.",
+    "keywords": [
+      "placement",
+      "Civil Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "c6bd0f98-d455-4370-a81c-7bcebe9f0da0",
+    "source_chunk_id": "fbc944d2-abd7-4961-8825-cd2c20faeb8d",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Civil Engineering",
+    "question_type": "eligibility",
+    "question": "Is it possible for a student from the Civil Engineering branch to secure a placement with an average package lower than 4 LPA at Annasaheb Dange College of Engineering and Technology?",
+    "answer": "Yes, based on the data provided, there have been years where the lowest average package was below 4 LPA.",
+    "keywords": [
+      "placement",
+      "Civil Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "ad814699-afa0-4c16-98f8-6a0784dc3ba8",
+    "source_chunk_id": "fbc944d2-abd7-4961-8825-cd2c20faeb8d",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Civil Engineering",
+    "question_type": "colloquial",
+    "question": "Why did the number of placements decrease in 2025-26 compared to previous years at Annasaheb Dange College of Engineering Technology?",
+    "answer": "The reduction could be due to changes in industry demand or competition, though the text does not specify exact reasons.",
+    "keywords": [
+      "placement",
+      "Civil Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "719942b6-ab5e-4d2d-a650-c29edb110bdf",
+    "source_chunk_id": "c087c945-fbf6-4bd3-86d7-47aa6e6d8675",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Electrical Engineering",
+    "question_type": "factual",
+    "question": "How many students participated in placements at Annasaheb Dange College of Engineering and Technology in 2025-26?",
+    "answer": "153 students participated in placements.",
+    "keywords": [
+      "placement",
+      "Electrical Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "6d0cdfad-5a22-4255-9dbd-7ac66dbbe04c",
+    "source_chunk_id": "c087c945-fbf6-4bd3-86d7-47aa6e6d8675",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Electrical Engineering",
+    "question_type": "comparative",
+    "question": "Did the average salary increase or decrease from 2024-25 to 2025-26?",
+    "answer": "The average salary increased from 5.2 LPA in 2024-25 to an unspecified amount in 2025-26, but it is not clear if it was higher or lower than the previous year's average.",
+    "keywords": [
+      "placement",
+      "Electrical Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "df92278e-6a6e-4255-9a65-09d5a82d7411",
+    "source_chunk_id": "c087c945-fbf6-4bd3-86d7-47aa6e6d8675",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Electrical Engineering",
+    "question_type": "advice",
+    "question": "What can students do to potentially improve their chances of getting a high package?",
+    "answer": "Students should focus on excelling academically and participating in extracurricular activities, as well as building strong relationships with faculty who could provide recommendations.",
+    "keywords": [
+      "placement",
+      "Electrical Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "7692f0be-63ad-4baf-ac0e-25fc191e225d",
+    "source_chunk_id": "c087c945-fbf6-4bd3-86d7-47aa6e6d8675",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Electrical Engineering",
+    "question_type": "eligibility",
+    "question": "Is the Electrical Engineering branch at Annasaheb Dange College suitable for someone interested in placements?",
+    "answer": "Yes, the Electrical Engineering branch has shown steady improvement in placement outcomes and competitive packages over the past three years.",
+    "keywords": [
+      "placement",
+      "Electrical Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "8de61eab-c8d2-4d40-91af-e6f3656c4ab4",
+    "source_chunk_id": "c087c945-fbf6-4bd3-86d7-47aa6e6d8675",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Electrical Engineering",
+    "question_type": "colloquial",
+    "question": "How's the job market lookin' for EE students from this college?",
+    "answer": "The job market looks good with an increasing number of placements and higher average salaries, though the highest package remained consistent.",
+    "keywords": [
+      "placement",
+      "Electrical Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "8b834d00-edec-4dea-ae8c-f29b532444e9",
+    "source_chunk_id": "607ef117-2613-4a61-afe9-da58123b48e8",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Computer Science Engineering",
+    "question_type": "factual",
+    "question": "How many students were placed in CSE at Annasaheb Dange College in 2024-25?",
+    "answer": "90 out of 131 students received placements.",
+    "keywords": [
+      "placement",
+      "Computer Science Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "6465e0d9-c593-416c-853c-b233997b7350",
+    "source_chunk_id": "607ef117-2613-4a61-afe9-da58123b48e8",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Computer Science Engineering",
+    "question_type": "comparative",
+    "question": "Which year had the highest average package for CSE placements, and what was it?",
+    "answer": "The 2025-26 academic year had the highest average package at 5.2 LPA.",
+    "keywords": [
+      "placement",
+      "Computer Science Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "62151a20-bcae-4def-88bd-16f18fb7aeec",
+    "source_chunk_id": "607ef117-2613-4a61-afe9-da58123b48e8",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Computer Science Engineering",
+    "question_type": "advice",
+    "question": "What should a student do if they want to maximize their chances of getting a higher package in CSE placements?",
+    "answer": "Based on trends, focusing on performance and possibly opting for internships could improve chances during the placement season.",
+    "keywords": [
+      "placement",
+      "Computer Science Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "13878da4-d99a-486f-b79d-8982e20c498e",
+    "source_chunk_id": "607ef117-2613-4a61-afe9-da58123b48e8",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Computer Science Engineering",
+    "question_type": "eligibility",
+    "question": "Can students from other branches at Annasaheb Dange College also participate in the CSE branch's placement process?",
+    "answer": "The text only discusses the CSE branch placements; no information is provided about other branches.",
+    "keywords": [
+      "placement",
+      "Computer Science Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "ab83ddb3-5d36-45fe-9caf-94b647955a05",
+    "source_chunk_id": "607ef117-2613-4a61-afe9-da58123b48e8",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Computer Science Engineering",
+    "question_type": "colloquial",
+    "question": "Did the number of offers increase or decrease from 2024-25 to 2025-26, and by how much?",
+    "answer": "The number of offers decreased slightly, from 90 placements out of 131 students in 2024-25 to 120 offers out of 145 students in 2025-26.",
+    "keywords": [
+      "placement",
+      "Computer Science Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "39bf67a4-1543-443a-881b-c63027ae6971",
+    "source_chunk_id": "b0b89cbd-0b39-44ea-95e8-53ebb72863fb",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Computer Science IoT & cybersecurity  Engineering",
+    "question_type": "factual",
+    "question": "How many students secured placements in 2024-25 at Annasaheb Dange College of Engineering and Technology's Computer Science IoT & Cybersecurity Engineering branch?",
+    "answer": "62 students secured placements.",
+    "keywords": [
+      "placement",
+      "Computer Science IoT & cybersecurity  Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "2ffab25f-dffa-4a8a-baa8-7946b4a29c8c",
+    "source_chunk_id": "b0b89cbd-0b39-44ea-95e8-53ebb72863fb",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Computer Science IoT & cybersecurity  Engineering",
+    "question_type": "comparative",
+    "question": "Did the average package or highest package figure increase more between 2023-24 and 2024-25 at Annasaheb Dange College of Engineering and Technology's Computer Science IoT & Cybersecurity Engineering branch?",
+    "answer": "The average package increased to 5.2 LPA, while the highest package reached up to 7.5 LPA, indicating a more significant increase in the highest package.",
+    "keywords": [
+      "placement",
+      "Computer Science IoT & cybersecurity  Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "358df105-748d-4723-85e0-05aeacd482cd",
+    "source_chunk_id": "b0b89cbd-0b39-44ea-95e8-53ebb72863fb",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Computer Science IoT & cybersecurity  Engineering",
+    "question_type": "advice",
+    "question": "What should students do to improve their chances of securing placements at Annasaheb Dange College of Engineering and Technology's Computer Science IoT & Cybersecurity Engineering branch?",
+    "answer": "Students should focus on building strong technical skills, participating in industry projects, and networking with professionals to enhance their employability.",
+    "keywords": [
+      "placement",
+      "Computer Science IoT & cybersecurity  Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "761fe713-a358-4337-99f6-89059b3e100d",
+    "source_chunk_id": "b0b89cbd-0b39-44ea-95e8-53ebb72863fb",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Computer Science IoT & cybersecurity  Engineering",
+    "question_type": "eligibility",
+    "question": "Can students from other branches at Annasaheb Dange College of Engineering and Technology secure placements through this branch's network?",
+    "answer": "The information provided pertains specifically to the Computer Science IoT & Cybersecurity Engineering branch, so it is unclear if students from other branches can benefit similarly.",
+    "keywords": [
+      "placement",
+      "Computer Science IoT & cybersecurity  Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "9ed4a704-ba1b-4db5-8bf6-9e55825bea48",
+    "source_chunk_id": "b0b89cbd-0b39-44ea-95e8-53ebb72863fb",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Computer Science IoT & cybersecurity  Engineering",
+    "question_type": "colloquial",
+    "question": "What's up with the placements at Annasaheb Dange College of Engineering and Technology in Ashta for the last few years?",
+    "answer": "The placements have seen a positive trend, starting with no offers in 2023-24 and improving to 62 students securing placements with an average package of 5.2 LPA by 2024-25.",
+    "keywords": [
+      "placement",
+      "Computer Science IoT & cybersecurity  Engineering",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "df97e474-0311-4bd5-8ada-dfe329c5f92e",
+    "source_chunk_id": "098ec768-678a-43d7-9a8f-0447ad74212b",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Aeronautical Engineergin",
+    "question_type": "factual",
+    "question": "How many students received job offers in the Aeronautical Engineering branch during the 2024-25 placement season?",
+    "answer": "33 out of 48 students.",
+    "keywords": [
+      "placement",
+      "Aeronautical Engineergin",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "65a89906-550c-4438-a39a-e02ca5f4e0b5",
+    "source_chunk_id": "098ec768-678a-43d7-9a8f-0447ad74212b",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Aeronautical Engineergin",
+    "question_type": "comparative",
+    "question": "Which year had a higher average package: 2023-24 or 2025-26?",
+    "answer": "The 2025-26 placement season had a higher average package at 4.6 LPA compared to 4.3 LPA in 2023-24.",
+    "keywords": [
+      "placement",
+      "Aeronautical Engineergin",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "75fde1f8-cf8e-4349-966c-8306df0227ba",
+    "source_chunk_id": "098ec768-678a-43d7-9a8f-0447ad74212b",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Aeronautical Engineergin",
+    "question_type": "advice",
+    "question": "What should students do if they want to improve their chances of getting a high package?",
+    "answer": "Students can focus on excelling academically and participating in internships or projects that can showcase their skills to potential employers.",
+    "keywords": [
+      "placement",
+      "Aeronautical Engineergin",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "385c9f01-e462-4deb-9d6e-cd8adb88b4f1",
+    "source_chunk_id": "098ec768-678a-43d7-9a8f-0447ad74212b",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Aeronautical Engineergin",
+    "question_type": "eligibility",
+    "question": "Is the Aeronautical Engineering branch at Annasaheb Dange College open for new admissions?",
+    "answer": "The information provided does not specify admission details, so it is unclear if the branch is accepting new students.",
+    "keywords": [
+      "placement",
+      "Aeronautical Engineergin",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "eb3594c2-4fbd-412c-a535-e3258d8ba96c",
+    "source_chunk_id": "098ec768-678a-43d7-9a8f-0447ad74212b",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Aeronautical Engineergin",
+    "question_type": "colloquial",
+    "question": "Did the highest package in Aeronautical Engineering increase or decrease from 2024-25 to 2025-26?",
+    "answer": "The highest package increased from 4.5 LPA in 2024-25 to 6 LPA in 2025-26.",
+    "keywords": [
+      "placement",
+      "Aeronautical Engineergin",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "9e8265b1-d4c5-4bcb-bc36-69bbd7f7cef5",
+    "source_chunk_id": "a128cd21-42ae-40f7-9068-8c6cd4a6f567",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Food Technology",
+    "question_type": "factual",
+    "question": "How many students were placed in the Food Technology branch during the 2024-25 academic year?",
+    "answer": "21 students were placed.",
+    "keywords": [
+      "placement",
+      "Food Technology",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "8c1cf716-a3aa-46a1-930d-94e8e9fd0d4a",
+    "source_chunk_id": "a128cd21-42ae-40f7-9068-8c6cd4a6f567",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Food Technology",
+    "question_type": "comparative",
+    "question": "Which academic year had a higher average package, 2023-24 or 2024-25?",
+    "answer": "The 2023-24 academic year had a higher average package at 3.8 LPA compared to 3.5 LPA in 2024-25.",
+    "keywords": [
+      "placement",
+      "Food Technology",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "2b9d5cba-3b1b-4191-9fbc-bc0670999e52",
+    "source_chunk_id": "a128cd21-42ae-40f7-9068-8c6cd4a6f567",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Food Technology",
+    "question_type": "advice",
+    "question": "What should students do if they want to improve their chances of securing a good placement?",
+    "answer": "Students might focus on enhancing their skills and networking to increase their chances, given the fluctuating trends seen in recent years.",
+    "keywords": [
+      "placement",
+      "Food Technology",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "15c294e5-9e94-4d6d-b902-81ac6403c326",
+    "source_chunk_id": "a128cd21-42ae-40f7-9068-8c6cd4a6f567",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Food Technology",
+    "question_type": "eligibility",
+    "question": "Can a student from any branch at Annasaheb Dange College apply for placements at this college?",
+    "answer": "Yes, as long as they are part of the Food Technology branch during the relevant academic year.",
+    "keywords": [
+      "placement",
+      "Food Technology",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "7b9722b2-bce6-4c01-b359-ba0cd9f70412",
+    "source_chunk_id": "a128cd21-42ae-40f7-9068-8c6cd4a6f567",
+    "category": "placements",
+    "source_section": "placement_3yr_summary/Food Technology",
+    "question_type": "colloquial",
+    "question": "Did the placement outcomes go up or down in 2024-25 compared to 2023-24?",
+    "answer": "Placement outcomes went down in 2024-25, with a decrease in both the number of placements and average package.",
+    "keywords": [
+      "placement",
+      "Food Technology",
+      "package",
+      "LPA",
+      "offers",
+      "salary",
+      "three year"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "fa426ee6-e0a6-44b6-a8eb-7aa01b8d7ef9",
+    "source_chunk_id": "c941be12-a226-4ce6-a6c6-a714f00e2a64",
+    "category": "company_visits",
+    "source_section": "company_visited_lists/2022-23",
+    "question_type": "factual",
+    "question": "How many companies participated in the campus recruitment drive at Annasaheb Dange College of Engineering and Technology during the academic year 2022-23?",
+    "answer": "69 companies participated.",
+    "keywords": [
+      "companies",
+      "2022-23",
+      "campus recruitment",
+      "IT",
+      "core",
+      "placement drive",
+      "recruiter"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "aa780fc8-32f1-434f-8a57-b904981c4d8a",
+    "source_chunk_id": "c941be12-a226-4ce6-a6c6-a714f00e2a64",
+    "category": "company_visits",
+    "source_section": "company_visited_lists/2022-23",
+    "question_type": "comparative",
+    "question": "Which sector had more participants, IT companies or core manufacturing companies?",
+    "answer": "IT companies had more participants with 34 compared to core manufacturing companies with 31.",
+    "keywords": [
+      "companies",
+      "2022-23",
+      "campus recruitment",
+      "IT",
+      "core",
+      "placement drive",
+      "recruiter"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "7fb2a15d-5514-4f2e-89fb-dd806dd1e92f",
+    "source_chunk_id": "c941be12-a226-4ce6-a6c6-a714f00e2a64",
+    "category": "company_visits",
+    "source_section": "company_visited_lists/2022-23",
+    "question_type": "advice",
+    "question": "What should students do if they are interested in software development opportunities?",
+    "answer": "Students should prepare for roles related to software development by gaining relevant skills and familiarizing themselves with technologies used by leading IT firms like TCS, Tech Mahindra, and Capgemini.",
+    "keywords": [
+      "companies",
+      "2022-23",
+      "campus recruitment",
+      "IT",
+      "core",
+      "placement drive",
+      "recruiter"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "cf27d8e7-7e9b-4ff2-9a33-3c54fe56ab68",
+    "source_chunk_id": "c941be12-a226-4ce6-a6c6-a714f00e2a64",
+    "category": "company_visits",
+    "source_section": "company_visited_lists/2022-23",
+    "question_type": "eligibility",
+    "question": "Can a student from Annasaheb Dange College of Engineering and Technology expect opportunities in data analytics?",
+    "answer": "Yes, students can expect opportunities in data analytics as it is an area covered by leading IT firms participating in the recruitment drive.",
+    "keywords": [
+      "companies",
+      "2022-23",
+      "campus recruitment",
+      "IT",
+      "core",
+      "placement drive",
+      "recruiter"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "ae34c0ab-2b38-4956-9620-a5a654a92a65",
+    "source_chunk_id": "c941be12-a226-4ce6-a6c6-a714f00e2a64",
+    "category": "company_visits",
+    "source_section": "company_visited_lists/2022-23",
+    "question_type": "colloquial",
+    "question": "Any big names from IT companies visited your college last year?",
+    "answer": "Yeah, TCS (ALL), Atos, and Tech Mahindra were among the top participants!",
+    "keywords": [
+      "companies",
+      "2022-23",
+      "campus recruitment",
+      "IT",
+      "core",
+      "placement drive",
+      "recruiter"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "96f1db15-f0b0-4a39-85c0-723e52096639",
+    "source_chunk_id": "2770664d-a604-4538-b279-629464cdba77",
+    "category": "company_visits",
+    "source_section": "company_visited_lists/2023-24",
+    "question_type": "factual",
+    "question": "How many companies participated in the campus recruitment drive at Annasaheb Dange College of Engineering and Technology for the academic year 2023-24?",
+    "answer": "72 companies participated.",
+    "keywords": [
+      "companies",
+      "2023-24",
+      "campus recruitment",
+      "IT",
+      "core",
+      "placement drive",
+      "recruiter"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "654a6e56-f832-4b7e-bf2f-b46bb587b963",
+    "source_chunk_id": "2770664d-a604-4538-b279-629464cdba77",
+    "category": "company_visits",
+    "source_section": "company_visited_lists/2023-24",
+    "question_type": "comparative",
+    "question": "Which sector had more recruiters, core manufacturing or IT?",
+    "answer": "Core manufacturing had more recruiters with 48 compared to 20 from the IT sector.",
+    "keywords": [
+      "companies",
+      "2023-24",
+      "campus recruitment",
+      "IT",
+      "core",
+      "placement drive",
+      "recruiter"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "3e23fe62-9a64-4be7-8eda-3856e120fd64",
+    "source_chunk_id": "2770664d-a604-4538-b279-629464cdba77",
+    "category": "company_visits",
+    "source_section": "company_visited_lists/2023-24",
+    "question_type": "advice",
+    "question": "What should students prepare for companies like KPIT and Tech Mahindra during company visits?",
+    "answer": "Students should focus on technical skills, project experiences, and relevant certifications since these are well-known tech companies.",
+    "keywords": [
+      "companies",
+      "2023-24",
+      "campus recruitment",
+      "IT",
+      "core",
+      "placement drive",
+      "recruiter"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "7443bc23-fea1-4930-834e-df8d4b448391",
+    "source_chunk_id": "2770664d-a604-4538-b279-629464cdba77",
+    "category": "company_visits",
+    "source_section": "company_visited_lists/2023-24",
+    "question_type": "eligibility",
+    "question": "Is Annasaheb Dange College of Engineering and Technology eligible to host such a diverse range of recruiters?",
+    "answer": "Yes, the college is eligible as it successfully hosted 72 companies from various sectors.",
+    "keywords": [
+      "companies",
+      "2023-24",
+      "campus recruitment",
+      "IT",
+      "core",
+      "placement drive",
+      "recruiter"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "b7468954-95ce-4ee9-b8a1-04f60b8b6e89",
+    "source_chunk_id": "2770664d-a604-4538-b279-629464cdba77",
+    "category": "company_visits",
+    "source_section": "company_visited_lists/2023-24",
+    "question_type": "colloquial",
+    "question": "Any idea which IT company had the most visits?",
+    "answer": "KPIT seems to be one of the notable IT recruiters with a strong presence in the tech industry.",
+    "keywords": [
+      "companies",
+      "2023-24",
+      "campus recruitment",
+      "IT",
+      "core",
+      "placement drive",
+      "recruiter"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "db3f3285-f8e4-4e7e-9eee-01694d653d8c",
+    "source_chunk_id": "f08babe4-dcde-4d84-ae05-18122a5cdb0c",
+    "category": "company_visits",
+    "source_section": "company_visited_lists/2024-25",
+    "question_type": "factual",
+    "question": "How many companies participated in the campus recruitment drive for Annasaheb Dange College of Engineering and Technology in Ashta during the academic year 2024-25?",
+    "answer": "82 companies participated.",
+    "keywords": [
+      "companies",
+      "2024-25",
+      "campus recruitment",
+      "IT",
+      "core",
+      "placement drive",
+      "recruiter"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "9d0bd88a-909d-4954-a6af-0cdb9da6336b",
+    "source_chunk_id": "f08babe4-dcde-4d84-ae05-18122a5cdb0c",
+    "category": "company_visits",
+    "source_section": "company_visited_lists/2024-25",
+    "question_type": "comparative",
+    "question": "Which sector had more recruiters, core manufacturing or IT, at Annasaheb Dange College of Engineering and Technology in Ashta's campus recruitment drive for the academic year 2024-25?",
+    "answer": "Core manufacturing had more recruiters with 59 compared to the IT sector which had 23.",
+    "keywords": [
+      "companies",
+      "2024-25",
+      "campus recruitment",
+      "IT",
+      "core",
+      "placement drive",
+      "recruiter"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "5c6b7474-2c9b-413e-a3f7-02a99532efa9",
+    "source_chunk_id": "f08babe4-dcde-4d84-ae05-18122a5cdb0c",
+    "category": "company_visits",
+    "source_section": "company_visited_lists/2024-25",
+    "question_type": "advice",
+    "question": "What should students at Annasaheb Dange College of Engineering and Technology do to prepare for campus recruitment drives like the one in 2024-25?",
+    "answer": "Students should focus on gaining skills relevant to both core manufacturing and IT sectors, as these are the primary areas of recruitment.",
+    "keywords": [
+      "companies",
+      "2024-25",
+      "campus recruitment",
+      "IT",
+      "core",
+      "placement drive",
+      "recruiter"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "c682df30-8e7a-4455-9bd8-3658a5654684",
+    "source_chunk_id": "f08babe4-dcde-4d84-ae05-18122a5cdb0c",
+    "category": "company_visits",
+    "source_section": "company_visited_lists/2024-25",
+    "question_type": "eligibility",
+    "question": "Are students from non-engineering streams eligible to participate in campus recruitment drives at Annasaheb Dange College of Engineering and Technology in Ashta?",
+    "answer": "The text does not specify eligibility criteria for non-engineering streams, so it is unclear if they are included.",
+    "keywords": [
+      "companies",
+      "2024-25",
+      "campus recruitment",
+      "IT",
+      "core",
+      "placement drive",
+      "recruiter"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "667a2e6c-21cc-4a8b-a52d-3dad4d38d0d1",
+    "source_chunk_id": "f08babe4-dcde-4d84-ae05-18122a5cdb0c",
+    "category": "company_visits",
+    "source_section": "company_visited_lists/2024-25",
+    "question_type": "colloquial",
+    "question": "What's up with the IT companies that visited Annasaheb Dange College last year?",
+    "answer": "They were big names like ACME Infovision and Thoughtworks, showing a lot of interest in tech talent.",
+    "keywords": [
+      "companies",
+      "2024-25",
+      "campus recruitment",
+      "IT",
+      "core",
+      "placement drive",
+      "recruiter"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "9de866eb-a479-4f6e-ab83-9877dad0455d",
+    "source_chunk_id": "64540344-4194-4777-9c0c-218cc59e15e8",
+    "category": "placements",
+    "source_section": "placement_by_year_detail/2024-25",
+    "question_type": "factual",
+    "question": "How many students secured placements in Mechanical Engineering for the academic year 2024-25?",
+    "answer": "87 students secured placements in Mechanical Engineering.",
+    "keywords": [
+      "placement",
+      "2024-25",
+      "branch",
+      "package",
+      "LPA",
+      "offers",
+      "detailed"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "228f5abc-5ea2-41a8-bc19-e98824433c87",
+    "source_chunk_id": "64540344-4194-4777-9c0c-218cc59e15e8",
+    "category": "placements",
+    "source_section": "placement_by_year_detail/2024-25",
+    "question_type": "comparative",
+    "question": "Which branch had a higher average package, Mechanical or Civil Engineering?",
+    "answer": "Mechanical Engineering had a slightly lower average package at 4.7 LPA compared to Civil Engineering's 4.8 LPA.",
+    "keywords": [
+      "placement",
+      "2024-25",
+      "branch",
+      "package",
+      "LPA",
+      "offers",
+      "detailed"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "d54c4cf9-554c-4bd0-961e-dd20d22285e6",
+    "source_chunk_id": "64540344-4194-4777-9c0c-218cc59e15e8",
+    "category": "placements",
+    "source_section": "placement_by_year_detail/2024-25",
+    "question_type": "advice",
+    "question": "What should I do if I am in the Electrical Engineering branch and want to secure a good placement?",
+    "answer": "Given that Electrical Engineering is one of the most sought-after branches, you should focus on enhancing your skills and networking to increase your chances of securing a good package.",
+    "keywords": [
+      "placement",
+      "2024-25",
+      "branch",
+      "package",
+      "LPA",
+      "offers",
+      "detailed"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "113c5880-37c0-4b82-95d4-730aa12d9a13",
+    "source_chunk_id": "64540344-4194-4777-9c0c-218cc59e15e8",
+    "category": "placements",
+    "source_section": "placement_by_year_detail/2024-25",
+    "question_type": "eligibility",
+    "question": "Can students from other colleges apply for placements at Annasaheb Dange College of Engineering and Technology?",
+    "answer": "The information provided does not mention eligibility criteria for students from other colleges; it only discusses the placement scenario within the college.",
+    "keywords": [
+      "placement",
+      "2024-25",
+      "branch",
+      "package",
+      "LPA",
+      "offers",
+      "detailed"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "590d321c-2959-42ea-ae5a-1b473d666545",
+    "source_chunk_id": "64540344-4194-4777-9c0c-218cc59e15e8",
+    "category": "placements",
+    "source_section": "placement_by_year_detail/2024-25",
+    "question_type": "colloquial",
+    "question": "Is Civil Engineering a good branch to be in based on the package deals?",
+    "answer": "Yes, Civil Engineering offers some impressive packages with an average of 4.8 LPA and even higher at 7.5 LPA, making it a competitive choice.",
+    "keywords": [
+      "placement",
+      "2024-25",
+      "branch",
+      "package",
+      "LPA",
+      "offers",
+      "detailed"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "209b59a1-724a-4a9c-a498-a872395d092e",
+    "source_chunk_id": "a3cb330e-a4c5-4e5c-897a-6a0d0adc4085",
+    "category": "placements",
+    "source_section": "placement_by_year_detail/2023-24",
+    "question_type": "factual",
+    "question": "How many placements were offered to Mechanical Engineering students in the academic year 2023-24 at Annasaheb Dange College of Engineering and Technology?",
+    "answer": "105 placements were offered to 112 Mechanical Engineering students.",
+    "keywords": [
+      "placement",
+      "2023-24",
+      "branch",
+      "package",
+      "LPA",
+      "offers",
+      "detailed"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "e9c70cd3-d81f-4a21-8b1d-2f3a90e82d8b",
+    "source_chunk_id": "a3cb330e-a4c5-4e5c-897a-6a0d0adc4085",
+    "category": "placements",
+    "source_section": "placement_by_year_detail/2023-24",
+    "question_type": "comparative",
+    "question": "Which engineering branch had a higher average package, Mechanical or Civil Engineering?",
+    "answer": "Mechanical Engineering had a slightly higher average package at 4.5 LPA compared to Civil Engineering which also averaged 4.5 LPA.",
+    "keywords": [
+      "placement",
+      "2023-24",
+      "branch",
+      "package",
+      "LPA",
+      "offers",
+      "detailed"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "7aadc9fe-5c41-47bf-ae84-d8be067f9fef",
+    "source_chunk_id": "a3cb330e-a4c5-4e5c-897a-6a0d0adc4085",
+    "category": "placements",
+    "source_section": "placement_by_year_detail/2023-24",
+    "question_type": "advice",
+    "question": "What should students in the Electrical Engineering branch do if they want to maximize their chances of getting a high package?",
+    "answer": "Students in Electrical Engineering should focus on excelling academically and gaining practical experience to increase their competitiveness for higher packages.",
+    "keywords": [
+      "placement",
+      "2023-24",
+      "branch",
+      "package",
+      "LPA",
+      "offers",
+      "detailed"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "fbdabb78-a631-49c6-846a-2278599c8a0f",
+    "source_chunk_id": "a3cb330e-a4c5-4e5c-897a-6a0d0adc4085",
+    "category": "placements",
+    "source_section": "placement_by_year_detail/2023-24",
+    "question_type": "eligibility",
+    "question": "Can Civil Engineering students be eligible for placements at Annasaheb Dange College of Engineering and Technology according to the given data?",
+    "answer": "Yes, Civil Engineering students are eligible as 99 out of 73 students received placement offers.",
+    "keywords": [
+      "placement",
+      "2023-24",
+      "branch",
+      "package",
+      "LPA",
+      "offers",
+      "detailed"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "a6e650e7-bc25-4bb4-9ac2-75dcfa187fd5",
+    "source_chunk_id": "a3cb330e-a4c5-4e5c-897a-6a0d0adc4085",
+    "category": "placements",
+    "source_section": "placement_by_year_detail/2023-24",
+    "question_type": "colloquial",
+    "question": "Hey, what's up with all the placements at Annasaheb Dange College? Which branch is doing better?",
+    "answer": "Annasaheb Dange College had a good placement scenario overall. Mechanical Engineering led with 105 placements, followed by Electrical Engineering with 117 offers.",
+    "keywords": [
+      "placement",
+      "2023-24",
+      "branch",
+      "package",
+      "LPA",
+      "offers",
+      "detailed"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "23d99691-4a76-41c1-af07-96eef49a5085",
+    "source_chunk_id": "27c762f8-d6e8-490e-9aca-250f72bb7c0e",
+    "category": "admission_documents",
+    "source_section": "admission_documents/First Year (B.Tech. / BBA / BCA) : List of Documen",
+    "question_type": "factual",
+    "question": "What entrance examination marksheet is required for admission to Annasaheb Dange College of Engineering and Technology in 2025-26?",
+    "answer": "MHT-CET or JEE 2026 Marksheet.",
+    "keywords": [
+      "documents",
+      "admission",
+      "scholarship",
+      "marksheet",
+      "certificate"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "e6e076d2-5a4c-470e-8681-9ff47ead5a2c",
+    "source_chunk_id": "27c762f8-d6e8-490e-9aca-250f72bb7c0e",
+    "category": "admission_documents",
+    "source_section": "admission_documents/First Year (B.Tech. / BBA / BCA) : List of Documen",
+    "question_type": "comparative",
+    "question": "Which document, the 10th marksheet or the 12th marksheet, is more important for admission to B.Tech. programs at Annasaheb Dange College?",
+    "answer": "The 12th marksheet is more specific to the B.Tech. program as it assesses higher secondary education, which is crucial for engineering studies.",
+    "keywords": [
+      "documents",
+      "admission",
+      "scholarship",
+      "marksheet",
+      "certificate"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "5203b51f-a23a-40a2-b53a-e4dc28f37b34",
+    "source_chunk_id": "27c762f8-d6e8-490e-9aca-250f72bb7c0e",
+    "category": "admission_documents",
+    "source_section": "admission_documents/First Year (B.Tech. / BBA / BCA) : List of Documen",
+    "question_type": "advice",
+    "question": "What should I do if I have a diploma but am applying for a B.Tech. program?",
+    "answer": "You need to submit your Diploma Marksheet as part of the application documents.",
+    "keywords": [
+      "documents",
+      "admission",
+      "scholarship",
+      "marksheet",
+      "certificate"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "f00e5fdf-eb95-4205-b1fa-5638ce7538ab",
+    "source_chunk_id": "27c762f8-d6e8-490e-9aca-250f72bb7c0e",
+    "category": "admission_documents",
+    "source_section": "admission_documents/First Year (B.Tech. / BBA / BCA) : List of Documen",
+    "question_type": "eligibility",
+    "question": "Do I qualify for admission if I only have completed my 10th standard and haven't taken any entrance exams yet?",
+    "answer": "No, you do not qualify as you need to provide both MHT-CET or JEE 2026 Marksheet and 10th Marksheet.",
+    "keywords": [
+      "documents",
+      "admission",
+      "scholarship",
+      "marksheet",
+      "certificate"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "5a97f95a-8cf3-476f-9ce6-1bd8938ccc13",
+    "source_chunk_id": "27c762f8-d6e8-490e-9aca-250f72bb7c0e",
+    "category": "admission_documents",
+    "source_section": "admission_documents/First Year (B.Tech. / BBA / BCA) : List of Documen",
+    "question_type": "colloquial",
+    "question": "Hey, I just wanna know if I can skip the 12th marksheet since I'm applying for BCA?",
+    "answer": "Nope, you gotta give 'em all - 10th, 12th, and MHT-CET or JEE marks too, even for BCA.",
+    "keywords": [
+      "documents",
+      "admission",
+      "scholarship",
+      "marksheet",
+      "certificate"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "587771a5-d7bd-4594-95c5-28ea5f6fda64",
+    "source_chunk_id": "5cdd77f3-dc77-4a87-995c-71603403cef0",
+    "category": "admission_documents",
+    "source_section": "admission_documents/DSY : List of Documents required for Admission and",
+    "question_type": "factual",
+    "question": "What document is required to verify a candidate's secondary school education for admission to Annasaheb Dange College of Engineering and Technology?",
+    "answer": "10th Marksheet",
+    "keywords": [
+      "documents",
+      "admission",
+      "scholarship",
+      "marksheet",
+      "certificate"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "d9942910-7db6-42d3-bd95-3b83ec41d8b2",
+    "source_chunk_id": "5cdd77f3-dc77-4a87-995c-71603403cef0",
+    "category": "admission_documents",
+    "source_section": "admission_documents/DSY : List of Documents required for Admission and",
+    "question_type": "comparative",
+    "question": "How do the roles of 10th and 12th marksheet differ in the admission process?",
+    "answer": "Both are essential, but the 12th marksheet verifies high school performance while the 10th marksheet confirms secondary education background.",
+    "keywords": [
+      "documents",
+      "admission",
+      "scholarship",
+      "marksheet",
+      "certificate"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "6107fea7-e57a-4063-bb29-df857d1b5f70",
+    "source_chunk_id": "5cdd77f3-dc77-4a87-995c-71603403cef0",
+    "category": "admission_documents",
+    "source_section": "admission_documents/DSY : List of Documents required for Admission and",
+    "question_type": "advice",
+    "question": "What should a student do if they have lost their diploma marksheet?",
+    "answer": "They need to contact their previous educational institution for an official copy.",
+    "keywords": [
+      "documents",
+      "admission",
+      "scholarship",
+      "marksheet",
+      "certificate"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "743faf44-d891-4374-a81b-32568f16dce8",
+    "source_chunk_id": "5cdd77f3-dc77-4a87-995c-71603403cef0",
+    "category": "admission_documents",
+    "source_section": "admission_documents/DSY : List of Documents required for Admission and",
+    "question_type": "eligibility",
+    "question": "Is a candidate eligible for admission if they only have the 10th and 12th marksheet but no diploma marksheet?",
+    "answer": "Yes, as long as they meet other eligibility criteria, the missing diploma marksheet does not disqualify them.",
+    "keywords": [
+      "documents",
+      "admission",
+      "scholarship",
+      "marksheet",
+      "certificate"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  },
+  {
+    "id": "50299cd2-5490-4e7a-9f35-f1b995e0062b",
+    "source_chunk_id": "5cdd77f3-dc77-4a87-995c-71603403cef0",
+    "category": "admission_documents",
+    "source_section": "admission_documents/DSY : List of Documents required for Admission and",
+    "question_type": "colloquial",
+    "question": "Can I just send a copy of my marksheets or do I need to send originals for admission to Annasaheb Dange College?",
+    "answer": "You should send original documents as copies may not be accepted.",
+    "keywords": [
+      "documents",
+      "admission",
+      "scholarship",
+      "marksheet",
+      "certificate"
+    ],
+    "college": "Annasaheb Dange College of Engineering and Technology, Ashta"
+  }
+]

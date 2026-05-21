@@ -1,0 +1,54 @@
+For the bus route Ashta-Palus, the stop 'Ashta' has a monthly fee of ₹500.
+For the bus route Ashta-Palus, the stop 'Nagthane Fata' has a monthly fee of ₹700.
+For the bus route Ashta-Palus, the stop 'Amnapur' has a monthly fee of ₹1300.
+For the bus route Ashta-Palus, the stop 'Palus' has a monthly fee of ₹1700.
+For the bus route Ashta-Palus, the stop 'Sawantpur' has a monthly fee of ₹1800.
+For the bus route Ashta-Palus, the stop 'Kirloskarwadi' has a monthly fee of ₹1900.
+For the bus route Ashta-Palus, the stop 'Palus Colony' has a monthly fee of ₹2100.
+The bus route Ashta-Palus covers the following stops with monthly fees: Ashta (₹500), Nagthane Fata (₹700), Amnapur (₹1300), Palus (₹1700), Sawantpur (₹1800), Kirloskarwadi (₹1900), Palus Colony (₹2100).
+For the bus route Ashta- Dudhondi, the stop 'Ashta' has a monthly fee of ₹500.
+For the bus route Ashta- Dudhondi, the stop 'Nagthane Fata' has a monthly fee of ₹700.
+For the bus route Ashta- Dudhondi, the stop 'Amnapur' has a monthly fee of ₹1300.
+For the bus route Ashta- Dudhondi, the stop 'Burli' has a monthly fee of ₹1400.
+For the bus route Ashta- Dudhondi, the stop 'Kirloskarwadi' has a monthly fee of ₹1900.
+For the bus route Ashta- Dudhondi, the stop 'Kundal' has a monthly fee of ₹2200.
+For the bus route Ashta- Dudhondi, the stop 'Dudhondi' has a monthly fee of ₹2300.
+The bus route Ashta- Dudhondi covers the following stops with monthly fees: Ashta (₹500), Nagthane Fata (₹700), Amnapur (₹1300), Burli (₹1400), Kirloskarwadi (₹1900), Kundal (₹2200), Dudhondi (₹2300).
+For the bus route Ashta-Miraj, the stop 'Karandwadi/Tung/Mirajwadi' has a monthly fee of ₹1000.
+For the bus route Ashta-Miraj, the stop 'KasbeDigraj' has a monthly fee of ₹1200.
+For the bus route Ashta-Miraj, the stop 'KarnalChouk' has a monthly fee of ₹2000.
+For the bus route Ashta-Miraj, the stop 'Sangli' has a monthly fee of ₹2000.
+For the bus route Ashta-Miraj, the stop 'Vijaynagar' has a monthly fee of ₹2000.
+For the bus route Ashta-Miraj, the stop 'Miraj' has a monthly fee of ₹2300.
+The bus route Ashta-Miraj covers the following stops with monthly fees: Karandwadi/Tung/Mirajwadi (₹1000), KasbeDigraj (₹1200), KarnalChouk (₹2000), Sangli (₹2000), Vijaynagar (₹2000), Miraj (₹2300).
+For the bus route Ashta- Tasgaon, the stop 'Ashta' has a monthly fee of ₹500.
+For the bus route Ashta- Tasgaon, the stop 'Audumbar Fata' has a monthly fee of ₹700.
+For the bus route Ashta- Tasgaon, the stop 'Bhilawadi' has a monthly fee of ₹700.
+For the bus route Ashta- Tasgaon, the stop 'Khandobachiwadi/ Malwadi' has a monthly fee of ₹900.
+For the bus route Ashta- Tasgaon, the stop 'Bhilawadi Station' has a monthly fee of ₹1300.
+For the bus route Ashta- Tasgaon, the stop 'Pachva Mil' has a monthly fee of ₹1700.
+For the bus route Ashta- Tasgaon, the stop 'Tasgaon' has a monthly fee of ₹2200.
+The bus route Ashta- Tasgaon covers the following stops with monthly fees: Ashta (₹500), Audumbar Fata (₹700), Bhilawadi (₹700), Khandobachiwadi/ Malwadi (₹900), Bhilawadi Station (₹1300), Pachva Mil (₹1700), Tasgaon (₹2200).
+For the bus route Ashta-Shirala, the stop 'Gotkhindi/Walwa Fata/Bawachi' has a monthly fee of ₹1000.
+For the bus route Ashta-Shirala, the stop 'Tuzarpur/Gatadwadi' has a monthly fee of ₹1300.
+For the bus route Ashta-Shirala, the stop 'Islampur' has a monthly fee of ₹1600.
+For the bus route Ashta-Shirala, the stop 'Pethnaka' has a monthly fee of ₹1700.
+For the bus route Ashta-Shirala, the stop 'RethareDharan' has a monthly fee of ₹1900.
+For the bus route Ashta-Shirala, the stop 'Red' has a monthly fee of ₹2000.
+For the bus route Ashta-Shirala, the stop 'Shirala' has a monthly fee of ₹2200.
+The bus route Ashta-Shirala covers the following stops with monthly fees: Gotkhindi/Walwa Fata/Bawachi (₹1000), Tuzarpur/Gatadwadi (₹1300), Islampur (₹1600), Pethnaka (₹1700), RethareDharan (₹1900), Red (₹2000), Shirala (₹2200).
+For the bus route Karad, the stop 'Karad' has a monthly fee of ₹3300.
+For the bus route Karad, the stop 'Malkapur' has a monthly fee of ₹2800.
+For the bus route Karad, the stop 'Atake' has a monthly fee of ₹2800.
+For the bus route Karad, the stop 'Wathar' has a monthly fee of ₹2500.
+For the bus route Karad, the stop 'Kasegaon' has a monthly fee of ₹2500.
+For the bus route Karad, the stop 'Pethnaka' has a monthly fee of ₹2200.
+The bus route Karad covers the following stops with monthly fees: Karad (₹3300), Malkapur (₹2800), Atake (₹2800), Wathar (₹2500), Kasegaon (₹2500), Pethnaka (₹2200).
+For the bus route Ashta-Kolhapur, the stop 'Bgani' has a monthly fee of ₹1200.
+For the bus route Ashta-Kolhapur, the stop 'Shigaon' has a monthly fee of ₹1500.
+For the bus route Ashta-Kolhapur, the stop 'Vadgaon' has a monthly fee of ₹2000.
+For the bus route Ashta-Kolhapur, the stop 'Top' has a monthly fee of ₹2500.
+For the bus route Ashta-Kolhapur, the stop 'Shiye Phata' has a monthly fee of ₹2500.
+For the bus route Ashta-Kolhapur, the stop 'Shiroli' has a monthly fee of ₹2800.
+For the bus route Ashta-Kolhapur, the stop 'Kolhapur' has a monthly fee of ₹3000.
+The bus route Ashta-Kolhapur covers the following stops with monthly fees: Bgani (₹1200), Shigaon (₹1500), Vadgaon (₹2000), Top (₹2500), Shiye Phata (₹2500), Shiroli (₹2800), Kolhapur (₹3000).

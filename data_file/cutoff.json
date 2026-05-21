@@ -1,0 +1,362 @@
+{
+  "General": {
+    "Mechanical Engineering": {
+      "VJ": {
+        "merit_no": 136349,
+        "merit_marks": 50.7016833
+      },
+      "NT-1": {
+        "merit_no": 88893,
+        "merit_marks": 71.6607627
+      },
+      "NT-2": {
+        "merit_no": 89834,
+        "merit_marks": 71.4842352
+      },
+      "NT-3": {
+        "merit_no": 177063,
+        "merit_marks": 25.2088452
+      },
+      "OBC": {
+        "merit_no": 105514,
+        "merit_marks": 65.3084343
+      },
+      "SEBC": {
+        "merit_no": 78825,
+        "merit_marks": 75.4048881
+      },
+      "OPEN": {
+        "merit_no": 74445,
+        "merit_marks": 76.9322569
+      },
+      "SC": {
+        "merit_no": 154010,
+        "merit_marks": 40.6822054
+      },
+      "ST": {
+        "merit_no": "Data not found",
+        "merit_marks": "Data not found"
+      },
+      "DEF": {
+        "merit_no": 133274,
+        "merit_marks": 52.3622324
+      },
+      "TFWS": {
+        "merit_no": 56003,
+        "merit_marks": 83.1060395
+      },
+      "EWS": {
+        "merit_no": 171796,
+        "merit_marks": 28.984931
+      }
+    },
+
+    "Computer Science & Engineering": {
+      "VJ": {
+        "merit_no": 79469,
+        "merit_marks": 75.210728
+      },
+      "NT-1": {
+        "merit_no": 55474,
+        "merit_marks": 83.3397246
+      },
+      "NT-2": {
+        "merit_no": 44738,
+        "merit_marks": 86.675963
+      },
+      "NT-3": {
+        "merit_no": 74119,
+        "merit_marks": 77.0149774
+      },
+      "OBC": {
+        "merit_no": 52268,
+        "merit_marks": 84.3296195
+      },
+      "SEBC": {
+        "merit_no": 46453,
+        "merit_marks": 86.2041018
+      },
+      "OPEN": {
+        "merit_no": 43336,
+        "merit_marks": 87.1376478
+      },
+      "SC": {
+        "merit_no": 92865,
+        "merit_marks": 70.5005064
+      },
+      "ST": {
+        "merit_no": 108416,
+        "merit_marks": 63.6512871
+      },
+      "DEF": {
+        "merit_no": 59819,
+        "merit_marks": 81.940403
+      },
+      "TFWS": {
+        "merit_no": 32568,
+        "merit_marks": 90.4253432
+      },
+      "EWS": {
+        "merit_no": 89669,
+        "merit_marks": 71.5562808
+      }
+    },
+
+    "Robotics and Artificial Intelligence": {
+      "VJ": {
+        "merit_no": 87088,
+        "merit_marks": 72.3760958
+      },
+      "NT-1": {
+        "merit_no": 93475,
+        "merit_marks": 70.2033567
+      },
+      "NT-2": {
+        "merit_no": 71291,
+        "merit_marks": 78.272232
+      },
+      "NT-3": {
+        "merit_no": 95795,
+        "merit_marks": 69.0979021
+      },
+      "OBC": {
+        "merit_no": 81961,
+        "merit_marks": 74.0630785
+      },
+      "SEBC": {
+        "merit_no": 69461,
+        "merit_marks": 78.6137148
+      },
+      "OPEN": {
+        "merit_no": 66597,
+        "merit_marks": 79.7185003
+      },
+      "SC": {
+        "merit_no": 152802,
+        "merit_marks": 41.7471281
+      },
+      "ST": {
+        "merit_no": 143884,
+        "merit_marks": 47.0502678
+      },
+      "DEF": {
+        "merit_no": 185749,
+        "merit_marks": 18.5475444
+      },
+      "TFWS": {
+        "merit_no": 48232,
+        "merit_marks": 85.6182564
+      },
+      "EWS": {
+        "merit_no": 146092,
+        "merit_marks": 45.8266058
+      }
+    },
+
+    "Electrical Engineering": {
+      "VJ": {
+        "merit_no": 130622,
+        "merit_marks": 53.7591782
+      },
+      "NT-1": {
+        "merit_no": 103217,
+        "merit_marks": 66.1695365
+      },
+      "NT-2": {
+        "merit_no": 82903,
+        "merit_marks": 73.7482517
+      },
+      "NT-3": {
+        "merit_no": "Data not found",
+        "merit_marks": "Data not found"
+      },
+      "OBC": {
+        "merit_no": 92073,
+        "merit_marks": 70.6189283
+      },
+      "SEBC": {
+        "merit_no": 74421,
+        "merit_marks": 76.9322569
+      },
+      "OPEN": {
+        "merit_no": 72269,
+        "merit_marks": 77.9513058
+      },
+      "SC": {
+        "merit_no": 138181,
+        "merit_marks": 49.7291102
+      },
+      "ST": {
+        "merit_no": "Data not found",
+        "merit_marks": "Data not found"
+      },
+      "DEF": {
+        "merit_no": 128352,
+        "merit_marks": 54.5872518
+      },
+      "TFWS": {
+        "merit_no": 56343,
+        "merit_marks": 82.9717485
+      },
+      "EWS": {
+        "merit_no": 146497,
+        "merit_marks": 45.3566434
+      }
+    },
+
+    "Computer Science (IoT & Cyber Security)": {
+      "VJ": {
+        "merit_no": 95580,
+        "merit_marks": 69.2179237
+      },
+      "NT-1": {
+        "merit_no": "Data not found",
+        "merit_marks": "Data not found"
+      },
+      "NT-2": {
+        "merit_no": 60001,
+        "merit_marks": 81.8021201
+      },
+      "NT-3": {
+        "merit_no": "Data not found",
+        "merit_marks": "Data not found"
+      },
+      "OBC": {
+        "merit_no": 66756,
+        "merit_marks": 79.6986029
+      },
+      "SEBC": {
+        "merit_no": 56492,
+        "merit_marks": 82.9717485
+      },
+      "OPEN": {
+        "merit_no": 56189,
+        "merit_marks": 83.0707711
+      },
+      "SC": {
+        "merit_no": 106378,
+        "merit_marks": 64.713186
+      },
+      "ST": {
+        "merit_no": "Data not found",
+        "merit_marks": "Data not found"
+      },
+      "DEF": {
+        "merit_no": 90759,
+        "merit_marks": 71.173087
+      },
+      "TFWS": {
+        "merit_no": 53725,
+        "merit_marks": 83.880237
+      },
+      "EWS": {
+        "merit_no": 133083,
+        "merit_marks": 52.5968356
+      }
+    }
+  },
+
+  "Ladies": {
+    "Mechanical Engineering": {
+      "VJ": {
+        "merit_no": 147689,
+        "merit_marks": 44.2599775
+      },
+      "NT-1": {
+        "merit_no": 153830,
+        "merit_marks": 40.6822054
+      },
+      "NT-2": {
+        "merit_no": 92076,
+        "merit_marks": 70.6189283
+      },
+      "NT-3": {
+        "merit_no": "Data not found",
+        "merit_marks": "Data not found"
+      },
+      "OBC": {
+        "merit_no": 97410,
+        "merit_marks": 68.4702591
+      },
+      "SEBC": {
+        "merit_no": 85698,
+        "merit_marks": 73.1347962
+      },
+      "OPEN": {
+        "merit_no": 78612,
+        "merit_marks": 75.4048881
+      },
+      "SC": {
+        "merit_no": 160408,
+        "merit_marks": 36.226012
+      },
+      "ST": {
+        "merit_no": "Data not found",
+        "merit_marks": "Data not found"
+      },
+      "DEF": {
+        "merit_no": 133274,
+        "merit_marks": 52.3622324
+      },
+      "TFWS": {
+        "merit_no": 56003,
+        "merit_marks": 83.1060395
+      },
+      "EWS": {
+        "merit_no": 171796,
+        "merit_marks": 28.984931
+      }
+    },
+
+    "Computer Science & Engineering": {
+      "VJ": {
+        "merit_no": 71097,
+        "merit_marks": 78.3357644
+      },
+      "NT-1": {
+        "merit_no": 40771,
+        "merit_marks": 87.9289094
+      },
+      "NT-2": {
+        "merit_no": 39865,
+        "merit_marks": 88.188033
+      },
+      "NT-3": {
+        "merit_no": 65789,
+        "merit_marks": 79.9072027
+      },
+      "OBC": {
+        "merit_no": 38717,
+        "merit_marks": 88.5573886
+      },
+      "SEBC": {
+        "merit_no": 31233,
+        "merit_marks": 90.8739909
+      },
+      "OPEN": {
+        "merit_no": 42276,
+        "merit_marks": 87.4115391
+      },
+      "SC": {
+        "merit_no": 82901,
+        "merit_marks": 73.7482517
+      },
+      "ST": {
+        "merit_no": "Data not found",
+        "merit_marks": "Data not found"
+      },
+      "DEF": {
+        "merit_no": 59819,
+        "merit_marks": 81.940403
+      },
+      "TFWS": {
+        "merit_no": 32568,
+        "merit_marks": 90.4253432
+      },
+      "EWS": {
+        "merit_no": 89669,
+        "merit_marks": 71.5562808
+      }
+    }
+  }
+}

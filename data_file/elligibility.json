@@ -1,0 +1,23 @@
+{
+  "engineering_admission_eligibility": {
+    "program": "Engineering",
+    "academic_requirement": {
+      "required_subjects": [
+        "Physics",
+        "Chemistry",
+        "Mathematics"
+      ],
+      "alternative_combination": "Physics, Mathematics + Any Technical Subject"
+    },
+    "categories": [
+      {
+        "category": "Open",
+        "minimum_marks": "134/135"
+      },
+      {
+        "category": "Reserved",
+        "minimum_marks": "119/120"
+      }
+    ]
+  }
+}

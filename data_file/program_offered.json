@@ -1,0 +1,109 @@
+{
+  "academic_programs": {
+    "undergraduate_programs": [
+      {
+        "program_name": "Mechanical Engineering",
+        "degree": "B.Tech",
+        "program_code": "628361210",
+        "sanctioned_intake": 120,
+        "year_started": 1999
+      },
+      {
+        "program_name": "Computer Science & Engineering",
+        "degree": "B.Tech",
+        "program_code": "628324210",
+        "sanctioned_intake": 180,
+        "year_started": 2001
+      },
+      {
+        "program_name": "Electrical Engineering",
+        "degree": "B.Tech",
+        "program_code": "628329310",
+        "sanctioned_intake": 120,
+        "year_started": 2004
+      },
+      {
+        "program_name": "Civil Engineering",
+        "degree": "B.Tech",
+        "program_code": "628319110",
+        "sanctioned_intake": 60,
+        "year_started": 2010
+      },
+      {
+        "program_name": "Aeronautical Engineering",
+        "degree": "B.Tech",
+        "program_code": "628300210",
+        "sanctioned_intake": 60,
+        "year_started": 2013
+      },
+      {
+        "program_name": "Food Technology",
+        "degree": "B.Tech",
+        "program_code": "628350310",
+        "sanctioned_intake": 30,
+        "year_started": 2019
+      },
+      {
+        "program_name": "Artificial Intelligence (AI) and Data Science",
+        "degree": "B.Tech",
+        "program_code": "628326310",
+        "sanctioned_intake": 60,
+        "year_started": 2021
+      },
+      {
+        "program_name": "Computer Science & Engineering (Internet of Things and Cyber Security Including Block Chain Technology)",
+        "degree": "B.Tech",
+        "program_code": "628392010",
+        "sanctioned_intake": 60,
+        "year_started": 2021
+      },
+      {
+        "program_name": "Robotics and Artificial Intelligence",
+        "degree": "B.Tech",
+        "program_code": "Not Available",
+        "sanctioned_intake": 60,
+        "year_started": 2025
+      },
+      {
+        "program_name": "Bachelor of Business Administration",
+        "degree": "BBA",
+        "program_code": "628310110",
+        "sanctioned_intake": 60,
+        "year_started": 2024
+      },
+      {
+        "program_name": "Bachelor of Computer Application",
+        "degree": "BCA",
+        "program_code": "628310110",
+        "sanctioned_intake": 60,
+        "year_started": 2024
+      }
+    ],
+    "postgraduate_programs": [
+      {
+        "program_name": "Mechanical Engineering Design",
+        "degree": "M.Tech",
+        "sanctioned_intake": 12,
+        "year_started": 2025
+      },
+      {
+        "program_name": "Civil Engineering (Computer Aided Structural Engineering)",
+        "degree": "M.Tech",
+        "sanctioned_intake": 12,
+        "year_started": 2025
+      },
+      {
+        "program_name": "Computer Science and Engineering",
+        "degree": "M.Tech",
+        "sanctioned_intake": 12,
+        "year_started": 2025
+      },
+      {
+        "program_name": "Electrical Power System",
+        "degree": "M.Tech",
+        "sanctioned_intake": 12,
+        "year_started": 2025
+      }
+    ]
+  }
+}

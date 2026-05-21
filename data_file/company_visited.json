@@ -1,0 +1,502 @@
+{
+  "placement_company_visits": {
+    "2022-23": [
+      {
+        "company": "TCS",
+        "sector": "IT",
+        "eligible_branches": ["All Branches"]
+      },
+      {
+        "company": "KPIT",
+        "sector": "Core",
+        "eligible_branches": [
+          "Computer Science & Engineering",
+          "Electrical Engineering",
+          "Mechanical Engineering"
+        ]
+      },
+      {
+        "company": "Bharat Forge",
+        "sector": "Core",
+        "eligible_branches": [
+          "Electrical Engineering",
+          "Mechanical Engineering"
+        ]
+      },
+      {
+        "company": "Tech Mahindra",
+        "sector": "IT",
+        "eligible_branches": [
+          "Computer Science & Engineering"
+        ]
+      },
+      {
+        "company": "Capgemini",
+        "sector": "IT",
+        "eligible_branches": ["All Branches"]
+      },
+      {
+        "company": "DeltaX",
+        "sector": "IT",
+        "eligible_branches": [
+          "Computer Science & Engineering"
+        ]
+      },
+      {
+        "company": "Faurecia",
+        "sector": "Core",
+        "eligible_branches": [
+          "Mechanical Engineering (Female Only)"
+        ]
+      },
+      {
+        "company": "Kreeti Technology",
+        "sector": "IT",
+        "eligible_branches": ["All Branches"]
+      },
+      {
+        "company": "NEC Software",
+        "sector": "IT",
+        "eligible_branches": [
+          "Computer Science & Engineering",
+          "Information Technology"
+        ]
+      },
+      {
+        "company": "Goldman Sachs",
+        "sector": "IT",
+        "eligible_branches": [
+          "Computer Science & Engineering"
+        ]
+      },
+      {
+        "company": "Indovance",
+        "sector": "Core",
+        "eligible_branches": [
+          "Mechanical Engineering",
+          "Civil Engineering"
+        ]
+      },
+      {
+        "company": "National Payments Corporation of India",
+        "sector": "Core",
+        "eligible_branches": ["All Branches"]
+      },
+      {
+        "company": "IBM",
+        "sector": "IT",
+        "eligible_branches": [
+          "Computer Science & Engineering",
+          "Electrical Engineering"
+        ]
+      },
+      {
+        "company": "Neosoft",
+        "sector": "IT",
+        "eligible_branches": ["All Branches"]
+      },
+      {
+        "company": "Sirius Foods",
+        "sector": "Core",
+        "eligible_branches": [
+          "Food Technology"
+        ]
+      },
+      {
+        "company": "Wipro-Pari",
+        "sector": "Core",
+        "eligible_branches": [
+          "Mechanical Engineering",
+          "Electrical Engineering"
+        ]
+      },
+      {
+        "company": "Deloitte",
+        "sector": "IT",
+        "eligible_branches": [
+          "Computer Science & Engineering",
+          "Electrical Engineering"
+        ]
+      },
+      {
+        "company": "Hexaware",
+        "sector": "IT",
+        "eligible_branches": [
+          "Computer Science & Engineering",
+          "Electrical Engineering"
+        ]
+      },
+      {
+        "company": "Mahindra & Mahindra",
+        "sector": "Core",
+        "eligible_branches": [
+          "Computer Science & Engineering",
+          "Mechanical Engineering",
+          "Electrical Engineering"
+        ]
+      },
+      {
+        "company": "Aloha",
+        "sector": "IT",
+        "eligible_branches": ["All Branches"]
+      },
+      {
+        "company": "Accelya",
+        "sector": "Service",
+        "eligible_branches": ["All Branches"]
+      },
+      {
+        "company": "Hi Tech",
+        "sector": "Core",
+        "eligible_branches": [
+          "Aeronautical Engineering"
+        ]
+      },
+      {
+        "company": "Atos",
+        "sector": "IT",
+        "eligible_branches": [
+          "Computer Science & Engineering"
+        ]
+      },
+      {
+        "company": "ZF India",
+        "sector": "Core",
+        "eligible_branches": [
+          "Mechanical Engineering",
+          "Electrical Engineering"
+        ]
+      },
+      {
+        "company": "HCL Tech",
+        "sector": "IT",
+        "eligible_branches": [
+          "Computer Science & Engineering"
+        ]
+      },
+      {
+        "company": "Paras Aerospace",
+        "sector": "Core",
+        "eligible_branches": [
+          "Aeronautical Engineering",
+          "Mechanical Engineering",
+          "Electrical Engineering"
+        ]
+      },
+      {
+        "company": "Volkswagen",
+        "sector": "IT",
+        "eligible_branches": [
+          "Computer Science & Engineering"
+        ]
+      }
+    ],
+
+    "2023-24": [
+      {
+        "company": "KPIT",
+        "sector": "IT",
+        "eligible_branches": [
+          "Computer Science & Engineering"
+        ]
+      },
+      {
+        "company": "Worley",
+        "sector": "Core",
+        "eligible_branches": [
+          "Mechanical Engineering",
+          "Electrical Engineering",
+          "Civil Engineering"
+        ]
+      },
+      {
+        "company": "Hexaware",
+        "sector": "IT",
+        "eligible_branches": [
+          "Computer Science & Engineering"
+        ]
+      },
+      {
+        "company": "Wipro-Pari",
+        "sector": "Core",
+        "eligible_branches": [
+          "Mechanical Engineering",
+          "Electrical Engineering"
+        ]
+      },
+      {
+        "company": "Bharat Forge",
+        "sector": "Core",
+        "eligible_branches": [
+          "Mechanical Engineering",
+          "Electrical Engineering"
+        ]
+      },
+      {
+        "company": "Schneider Electric",
+        "sector": "Core",
+        "eligible_branches": [
+          "Mechanical Engineering",
+          "Electrical Engineering"
+        ]
+      },
+      {
+        "company": "Accenture",
+        "sector": "IT",
+        "eligible_branches": ["All Branches"]
+      },
+      {
+        "company": "Persistent",
+        "sector": "IT",
+        "eligible_branches": [
+          "Computer Science & Engineering"
+        ]
+      },
+      {
+        "company": "Barry Callebaut",
+        "sector": "Core",
+        "eligible_branches": [
+          "Food Technology"
+        ]
+      },
+      {
+        "company": "Hi Tech Solution",
+        "sector": "Core",
+        "eligible_branches": [
+          "Aeronautical Engineering"
+        ]
+      },
+      {
+        "company": "DC Drones",
+        "sector": "Core",
+        "eligible_branches": [
+          "Aeronautical Engineering"
+        ]
+      },
+      {
+        "company": "Maker Strive",
+        "sector": "Core",
+        "eligible_branches": [
+          "Mechanical Engineering",
+          "Aeronautical Engineering",
+          "Civil Engineering"
+        ]
+      },
+      {
+        "company": "BVG Group",
+        "sector": "Core",
+        "eligible_branches": [
+          "Mechanical Engineering",
+          "Electrical Engineering",
+          "Civil Engineering",
+          "Food Technology",
+          "Aeronautical Engineering"
+        ]
+      },
+      {
+        "company": "Micron",
+        "sector": "IT",
+        "eligible_branches": [
+          "Computer Science & Engineering"
+        ]
+      },
+      {
+        "company": "Tech Mahindra",
+        "sector": "IT",
+        "eligible_branches": [
+          "Computer Science & Engineering"
+        ]
+      },
+      {
+        "company": "Adani",
+        "sector": "Core",
+        "eligible_branches": [
+          "Mechanical Engineering",
+          "Electrical Engineering",
+          "Civil Engineering"
+        ]
+      },
+      {
+        "company": "Amazon",
+        "sector": "Non-IT",
+        "eligible_branches": ["All Branches"]
+      },
+      {
+        "company": "TCS",
+        "sector": "IT",
+        "eligible_branches": ["All Branches"]
+      },
+      {
+        "company": "Bosch",
+        "sector": "Core",
+        "eligible_branches": [
+          "Mechanical Engineering",
+          "Electrical Engineering"
+        ]
+      },
+      {
+        "company": "Capgemini",
+        "sector": "IT",
+        "eligible_branches": ["All Branches"]
+      }
+    ],
+
+    "2024-25": [
+      {
+        "company": "Atlas Copco",
+        "sector": "Core",
+        "eligible_branches": [
+          "Mechanical Engineering"
+        ]
+      },
+      {
+        "company": "Hexaware",
+        "sector": "IT",
+        "eligible_branches": [
+          "Computer Science & Engineering",
+          "AI & Data Science",
+          "IoT & Cyber Security",
+          "Electrical Engineering"
+        ]
+      },
+      {
+        "company": "Accenture",
+        "sector": "IT",
+        "eligible_branches": ["All Branches"]
+      },
+      {
+        "company": "Schneider Electric",
+        "sector": "Core",
+        "eligible_branches": [
+          "Electrical Engineering",
+          "Mechanical Engineering",
+          "Computer Science & Engineering"
+        ]
+      },
+      {
+        "company": "Tech Mahindra",
+        "sector": "IT",
+        "eligible_branches": [
+          "Computer Science & Engineering",
+          "IoT & Cyber Security",
+          "AI & Data Science"
+        ]
+      },
+      {
+        "company": "Technimont",
+        "sector": "Core",
+        "eligible_branches": [
+          "Mechanical Engineering",
+          "Electrical Engineering",
+          "Civil Engineering"
+        ]
+      },
+      {
+        "company": "Forvia",
+        "sector": "Core",
+        "eligible_branches": [
+          "Mechanical Engineering",
+          "Electrical Engineering"
+        ]
+      },
+      {
+        "company": "Bharat Forge",
+        "sector": "Core",
+        "eligible_branches": [
+          "Mechanical Engineering",
+          "Electrical Engineering"
+        ]
+      },
+      {
+        "company": "Siemens",
+        "sector": "Core",
+        "eligible_branches": [
+          "Electrical Engineering"
+        ]
+      },
+      {
+        "company": "KPIT",
+        "sector": "IT",
+        "eligible_branches": [
+          "Computer Science & Engineering",
+          "IoT & Cyber Security",
+          "AI & Data Science"
+        ]
+      },
+      {
+        "company": "Zensar",
+        "sector": "IT",
+        "eligible_branches": [
+          "Computer Science & Engineering",
+          "IoT & Cyber Security",
+          "AI & Data Science"
+        ]
+      },
+      {
+        "company": "Cognizant",
+        "sector": "IT",
+        "eligible_branches": ["All Branches"]
+      },
+      {
+        "company": "TCS",
+        "sector": "IT",
+        "eligible_branches": ["All Branches"]
+      },
+      {
+        "company": "Infosys",
+        "sector": "IT",
+        "eligible_branches": [
+          "All Branches (Female Only)"
+        ]
+      },
+      {
+        "company": "Tata Technology",
+        "sector": "Core",
+        "eligible_branches": [
+          "Aeronautical Engineering"
+        ]
+      },
+      {
+        "company": "Capgemini",
+        "sector": "IT",
+        "eligible_branches": [
+          "Computer Science & Engineering",
+          "IoT & Cyber Security",
+          "AI & Data Science"
+        ]
+      },
+      {
+        "company": "Thoughtworks",
+        "sector": "IT",
+        "eligible_branches": [
+          "Computer Science & Engineering",
+          "IoT & Cyber Security",
+          "AI & Data Science"
+        ]
+      },
+      {
+        "company": "Test Yantra",
+        "sector": "IT",
+        "eligible_branches": [
+          "AI & Data Science"
+        ]
+      },
+      {
+        "company": "L&T Technology Services",
+        "sector": "Core",
+        "eligible_branches": [
+          "Mechanical Engineering"
+        ]
+      },
+      {
+        "company": "Intellisys",
+        "sector": "IT",
+        "eligible_branches": [
+          "Computer Science & Engineering",
+          "IoT & Cyber Security",
+          "AI & Data Science"
+        ]
+      }
+    ]
+  }
+}

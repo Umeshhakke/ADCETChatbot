@@ -1,0 +1,317 @@
+{
+  "admissions": [
+    {
+      "admission_type": "First Year (B.Tech / BBA / BCA)",
+      "categories": [
+        {
+          "category_name": "OPEN / EBC / TFWS / EWS",
+          "required_documents": [
+            {
+              "document_name": "MHT-CET or JEE 2026 Marksheet",
+              "required": true
+            },
+            {
+              "document_name": "10th Marksheet",
+              "required": true
+            },
+            {
+              "document_name": "12th Marksheet",
+              "required": true
+            },
+            {
+              "document_name": "Diploma Marksheet",
+              "required": false,
+              "condition": "if applicable"
+            },
+            {
+              "document_name": "Leaving / Transfer Certificate",
+              "required": true
+            },
+            {
+              "document_name": "Domicile / Nationality Certificate",
+              "required": true
+            },
+            {
+              "document_name": "AADHAR Card (with linked mobile number)",
+              "required": true
+            },
+            {
+              "document_name": "Migration Certificate",
+              "required": false,
+              "condition": "if applicable"
+            },
+            {
+              "document_name": "Income Certificate for 2025-26",
+              "required": true
+            },
+            {
+              "document_name": "Orphan Candidate Certificate",
+              "required": false,
+              "condition": "if applicable"
+            },
+            {
+              "document_name": "Disability Certificate (Online) from District Civil Surgeon",
+              "required": false,
+              "condition": "if applicable"
+            },
+            {
+              "document_name": "Defence Certificate",
+              "required": false,
+              "condition": "if applicable"
+            },
+            {
+              "document_name": "Domicile / Nationality Certificate (Father or Mother)",
+              "required": false,
+              "condition": "if applicable"
+            },
+            {
+              "document_name": "Minority Certificate",
+              "required": false,
+              "condition": "if applicable"
+            },
+            {
+              "document_name": "अल्पभूधारक दाखला (तहसिलदार)",
+              "required": false,
+              "condition": "if applicable"
+            },
+            {
+              "document_name": "EWS Certificate",
+              "required": false,
+              "condition": "if applicable"
+            }
+          ]
+        },
+        {
+          "category_name": "SC / ST",
+          "required_documents": [
+            {
+              "document_name": "MHT-CET or JEE 2026 Marksheet",
+              "required": true
+            },
+            {
+              "document_name": "10th Marksheet",
+              "required": true
+            },
+            {
+              "document_name": "12th Marksheet",
+              "required": true
+            },
+            {
+              "document_name": "Diploma Marksheet",
+              "required": false,
+              "condition": "if applicable"
+            },
+            {
+              "document_name": "Leaving / Transfer Certificate",
+              "required": true
+            },
+            {
+              "document_name": "Domicile / Nationality Certificate",
+              "required": true
+            },
+            {
+              "document_name": "AADHAR Card (with linked mobile number)",
+              "required": true
+            },
+            {
+              "document_name": "Migration Certificate",
+              "required": false,
+              "condition": "if applicable"
+            },
+            {
+              "document_name": "Caste Certificate",
+              "required": true
+            },
+            {
+              "document_name": "Caste / Tribe Validity Certificate",
+              "required": true
+            },
+            {
+              "document_name": "Income Certificate for 2025-26",
+              "required": true
+            },
+            {
+              "document_name": "Orphan Candidate Certificate",
+              "required": false,
+              "condition": "if applicable"
+            },
+            {
+              "document_name": "Disability Certificate (Online) from District Civil Surgeon",
+              "required": false,
+              "condition": "if applicable"
+            },
+            {
+              "document_name": "Defence Certificate",
+              "required": false,
+              "condition": "if applicable"
+            },
+            {
+              "document_name": "Domicile / Nationality Certificate (Father or Mother)",
+              "required": false,
+              "condition": "if applicable"
+            },
+            {
+              "document_name": "Minority Certificate",
+              "required": false,
+              "condition": "if applicable"
+            }
+          ]
+        },
+        {
+          "category_name": "VJ / VJNT / NT1 / NT2 / NT3",
+          "required_documents": [
+            {
+              "document_name": "MHT-CET or JEE 2026 Marksheet",
+              "required": true
+            },
+            {
+              "document_name": "10th Marksheet",
+              "required": true
+            },
+            {
+              "document_name": "12th Marksheet",
+              "required": true
+            },
+            {
+              "document_name": "Diploma Marksheet",
+              "required": false,
+              "condition": "if applicable"
+            },
+            {
+              "document_name": "Leaving / Transfer Certificate",
+              "required": true
+            },
+            {
+              "document_name": "Domicile / Nationality Certificate",
+              "required": true
+            },
+            {
+              "document_name": "AADHAR Card (with linked mobile number)",
+              "required": true
+            },
+            {
+              "document_name": "Migration Certificate",
+              "required": false,
+              "condition": "if applicable"
+            },
+            {
+              "document_name": "Caste Certificate",
+              "required": true
+            },
+            {
+              "document_name": "Caste / Tribe Validity Certificate",
+              "required": true
+            },
+            {
+              "document_name": "Non-Creamy Layer Certificate (valid up to 31 March 2027)",
+              "required": true
+            },
+            {
+              "document_name": "Income Certificate for 2025-26",
+              "required": true
+            }
+          ]
+        },
+        {
+          "category_name": "OBC / SBC / SEBC",
+          "required_documents": [
+            {
+              "document_name": "MHT-CET or JEE 2026 Marksheet",
+              "required": true
+            },
+            {
+              "document_name": "10th Marksheet",
+              "required": true
+            },
+            {
+              "document_name": "12th Marksheet",
+              "required": true
+            },
+            {
+              "document_name": "Diploma Marksheet",
+              "required": false,
+              "condition": "if applicable"
+            },
+            {
+              "document_name": "Leaving / Transfer Certificate",
+              "required": true
+            },
+            {
+              "document_name": "Domicile / Nationality Certificate",
+              "required": true
+            },
+            {
+              "document_name": "AADHAR Card (with linked mobile number)",
+              "required": true
+            },
+            {
+              "document_name": "Migration Certificate",
+              "required": false,
+              "condition": "if applicable"
+            },
+            {
+              "document_name": "Caste Certificate",
+              "required": true
+            },
+            {
+              "document_name": "Caste / Tribe Validity Certificate",
+              "required": true
+            },
+            {
+              "document_name": "Non-Creamy Layer Certificate (valid up to 31 March 2027)",
+              "required": true
+            },
+            {
+              "document_name": "Income Certificate for 2025-26",
+              "required": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "admission_type": "DSY (Direct Second Year / Diploma)",
+      "categories": [
+        {
+          "category_name": "OPEN / EBC / TFWS / EWS",
+          "required_documents": [
+            {
+              "document_name": "10th Marksheet",
+              "required": true
+            },
+            {
+              "document_name": "12th Marksheet",
+              "required": false,
+              "condition": "if applicable"
+            },
+            {
+              "document_name": "Diploma Marksheet",
+              "required": true
+            },
+            {
+              "document_name": "Leaving / Transfer Certificate",
+              "required": true
+            },
+            {
+              "document_name": "Domicile / Nationality Certificate",
+              "required": true
+            },
+            {
+              "document_name": "AADHAR Card (with linked mobile number)",
+              "required": true
+            },
+            {
+              "document_name": "Income Certificate for 2025-26",
+              "required": true
+            },
+            {
+              "document_name": "EWS Certificate",
+              "required": false,
+              "condition": "if applicable"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

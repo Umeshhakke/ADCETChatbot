@@ -1,0 +1,212 @@
+[
+  {
+    "source_id": "entity::annasaheb_dange_college_of_engineering_and_technology",
+    "target_id": "entity::1999",
+    "relation": "ESTABLISHED_IN",
+    "weight": 0.8,
+    "source_chunk_id": "0ef7017d-d406-4613-bcd9-756b056eafae"
+  },
+  {
+    "source_id": "entity::mechanical_engineering_program",
+    "target_id": "entity::120_students",
+    "relation": "HAS_INTAKE",
+    "weight": 0.8,
+    "source_chunk_id": "0ef7017d-d406-4613-bcd9-756b056eafae"
+  },
+  {
+    "source_id": "entity::computer_science_and_engineering_program",
+    "target_id": "entity::2001",
+    "relation": "INITIATED_IN",
+    "weight": 0.8,
+    "source_chunk_id": "0ef7017d-d406-4613-bcd9-756b056eafae"
+  },
+  {
+    "source_id": "entity::electrical_engineering_program",
+    "target_id": "entity::2004",
+    "relation": "LAUNCHED_IN",
+    "weight": 0.8,
+    "source_chunk_id": "0ef7017d-d406-4613-bcd9-756b056eafae"
+  },
+  {
+    "source_id": "entity::civil_engineering_program",
+    "target_id": "entity::2010",
+    "relation": "INTRODUCED_IN",
+    "weight": 0.8,
+    "source_chunk_id": "0ef7017d-d406-4613-bcd9-756b056eafae"
+  },
+  {
+    "source_id": "entity::annasaheb_dange_college_of_engineering_and_technology",
+    "target_id": "entity::ashta",
+    "relation": "LOCATED_IN",
+    "weight": 0.8,
+    "source_chunk_id": "e8e9f803-cc30-4617-b972-2ea0c143236b"
+  },
+  {
+    "source_id": "entity::ashta",
+    "target_id": "entity::ashta-dudhondi_route",
+    "relation": "HAS_TRANSPORTATION_LINK",
+    "weight": 0.8,
+    "source_chunk_id": "e8e9f803-cc30-4617-b972-2ea0c143236b"
+  },
+  {
+    "source_id": "entity::ashta-dudhondi_route",
+    "target_id": "entity::students",
+    "relation": "CATERS_TO",
+    "weight": 0.8,
+    "source_chunk_id": "e8e9f803-cc30-4617-b972-2ea0c143236b"
+  },
+  {
+    "source_id": "entity::aero_branch",
+    "target_id": "entity::annasaheb_dange_college_of_engineering_and_technology",
+    "relation": "REQUIRES_CUTOFF_FOR",
+    "weight": 0.8,
+    "source_chunk_id": "022d44b4-ebcf-4b53-8470-bf1a25b26d87"
+  },
+  {
+    "source_id": "entity::vj_cet",
+    "target_id": "entity::false",
+    "relation": "HAS_HIGHER_CUTOFF_THAN_NT1_CET",
+    "weight": 0.8,
+    "source_chunk_id": "022d44b4-ebcf-4b53-8470-bf1a25b26d87"
+  },
+  {
+    "source_id": "entity::nt1_cet",
+    "target_id": "entity::true",
+    "relation": "HAS_HIGHER_CUTOFF_THAN_VJ_CET",
+    "weight": 0.8,
+    "source_chunk_id": "022d44b4-ebcf-4b53-8470-bf1a25b26d87"
+  },
+  {
+    "source_id": "entity::nt2_cet",
+    "target_id": "entity::true",
+    "relation": "HAS_HIGHER_CUTOFF_THAN_VJ_CET",
+    "weight": 0.8,
+    "source_chunk_id": "022d44b4-ebcf-4b53-8470-bf1a25b26d87"
+  },
+  {
+    "source_id": "entity::rai_branch",
+    "target_id": "entity::vj",
+    "relation": "REQUIRES_CUTOFF_MARKS_FOR",
+    "weight": 0.8,
+    "source_chunk_id": "8b1095a5-9813-430b-bab9-bf53126e8802"
+  },
+  {
+    "source_id": "entity::rai_branch",
+    "target_id": "entity::nt-1",
+    "relation": "REQUIRES_CUTOFF_MARKS_FOR",
+    "weight": 0.8,
+    "source_chunk_id": "8b1095a5-9813-430b-bab9-bf53126e8802"
+  },
+  {
+    "source_id": "entity::rai_branch",
+    "target_id": "entity::nt-2",
+    "relation": "REQUIRES_CUTOFF_MARKS_FOR",
+    "weight": 0.8,
+    "source_chunk_id": "8b1095a5-9813-430b-bab9-bf53126e8802"
+  },
+  {
+    "source_id": "entity::rai_branch",
+    "target_id": "entity::nt-3",
+    "relation": "REQUIRES_CUTOFF_MARKS_FOR",
+    "weight": 0.8,
+    "source_chunk_id": "8b1095a5-9813-430b-bab9-bf53126e8802"
+  },
+  {
+    "source_id": "entity::annasheb_dange_college_of_engineering_and_technology",
+    "target_id": "entity::12th_standard_qualifications",
+    "relation": "SPECIFIES_CRITERIA_FOR",
+    "weight": 0.8,
+    "source_chunk_id": "2d9f6ccc-114f-4862-9ed9-22a39c8cad01"
+  },
+  {
+    "source_id": "entity::open_general_category_candidates",
+    "target_id": "entity::134_out_of_135_marks",
+    "relation": "REQUIREMENT",
+    "weight": 0.8,
+    "source_chunk_id": "2d9f6ccc-114f-4862-9ed9-22a39c8cad01"
+  },
+  {
+    "source_id": "entity::pcm_stream_candidates",
+    "target_id": "entity::open_general_category",
+    "relation": "ARE_IN",
+    "weight": 0.8,
+    "source_chunk_id": "2d9f6ccc-114f-4862-9ed9-22a39c8cad01"
+  },
+  {
+    "source_id": "entity::pm_any_technical_subject_stream_candidates",
+    "target_id": "entity::open_general_category",
+    "relation": "ARE_IN",
+    "weight": 0.8,
+    "source_chunk_id": "2d9f6ccc-114f-4862-9ed9-22a39c8cad01"
+  },
+  {
+    "source_id": "entity::annasaheb_dange_college_of_engineering_and_technology",
+    "target_id": "entity::campus_recruitment_drive",
+    "relation": "PARTICIPATED_IN",
+    "weight": 0.8,
+    "source_chunk_id": "c941be12-a226-4ce6-a6c6-a714f00e2a64"
+  },
+  {
+    "source_id": "entity::it_companies",
+    "target_id": "entity::industry_segments",
+    "relation": "DOMINATED_THE_SCENE",
+    "weight": 0.8,
+    "source_chunk_id": "c941be12-a226-4ce6-a6c6-a714f00e2a64"
+  },
+  {
+    "source_id": "entity::mechanical_engineering",
+    "target_id": "entity::8.5_lpa",
+    "relation": "HAS_HIGHEST_PACKAGE",
+    "weight": 0.8,
+    "source_chunk_id": "9ed87925-56e8-4212-8854-844447b9ca10"
+  },
+  {
+    "source_id": "entity::mechanical_engineering",
+    "target_id": "entity::96",
+    "relation": "HAS_PLACEMENTS",
+    "weight": 0.8,
+    "source_chunk_id": "9ed87925-56e8-4212-8854-844447b9ca10"
+  },
+  {
+    "source_id": "entity::mechanical_engineering",
+    "target_id": "entity::5_lpa",
+    "relation": "HAS_AVERAGE_PACKAGE",
+    "weight": 0.8,
+    "source_chunk_id": "9ed87925-56e8-4212-8854-844447b9ca10"
+  },
+  {
+    "source_id": "entity::mechanical_engineering",
+    "target_id": "entity::122",
+    "relation": "HAS_NUMBER_OF_OFFERS",
+    "weight": 0.8,
+    "source_chunk_id": "9ed87925-56e8-4212-8854-844447b9ca10"
+  },
+  {
+    "source_id": "entity::mechanical_engineering_branch",
+    "target_id": "entity::112_students",
+    "relation": "OFFERED_PLACEMENTS_TO",
+    "weight": 0.8,
+    "source_chunk_id": "a3cb330e-a4c5-4e5c-897a-6a0d0adc4085"
+  },
+  {
+    "source_id": "entity::mechanical_engineering_branch",
+    "target_id": "entity::4.5_lpa",
+    "relation": "AVERAGE_PACKAGE",
+    "weight": 0.8,
+    "source_chunk_id": "a3cb330e-a4c5-4e5c-897a-6a0d0adc4085"
+  },
+  {
+    "source_id": "entity::mechanical_engineering_branch",
+    "target_id": "entity::33_lpa",
+    "relation": "HIGHEST_PACKAGE",
+    "weight": 0.8,
+    "source_chunk_id": "a3cb330e-a4c5-4e5c-897a-6a0d0adc4085"
+  },
+  {
+    "source_id": "entity::civil_engineering_branch",
+    "target_id": "entity::99_students",
+    "relation": "OFFERED_PLACEMENTS_TO",
+    "weight": 0.8,
+    "source_chunk_id": "a3cb330e-a4c5-4e5c-897a-6a0d0adc4085"
+  }
+]

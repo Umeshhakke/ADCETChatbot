@@ -1,0 +1,35 @@
+{
+  "college_fees": {
+    "academic_year": "2025-26",
+    "programs": [
+      {
+        "category": "OPEN",
+        "fees": {
+          "FY": 134026,
+          "DSE": 134026
+        }
+      },
+      {
+        "category": "EBC / EWS / OBC",
+        "fees": {
+          "FY": 82505,
+          "DSE": 82505
+        }
+      },
+      {
+        "category": "SBC / VJNT / TFWS",
+        "fees": {
+          "FY": 30983,
+          "DSE": 30983
+        }
+      },
+      {
+        "category": "SC / ST",
+        "fees": {
+          "FY": 15526,
+          "DSE": 15526
+        }
+      }
+    ]
+  }
+}

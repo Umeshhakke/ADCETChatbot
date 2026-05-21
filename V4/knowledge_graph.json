@@ -1,0 +1,1132 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "type": "BUS_ROUTE",
+      "id": "Ashta-Palus"
+    },
+    {
+      "type": "BUS_ROUTE",
+      "id": "Ashta-"
+    },
+    {
+      "type": "BUS_ROUTE",
+      "id": "Ashta-Miraj"
+    },
+    {
+      "type": "BUS_ROUTE",
+      "id": "Ashta-Shirala"
+    },
+    {
+      "type": "BUS_ROUTE",
+      "id": "Karad"
+    },
+    {
+      "type": "BUS_ROUTE",
+      "id": "Ashta-Kolhapur"
+    },
+    {
+      "type": "COURSE",
+      "id": "Mechanical Engineering"
+    },
+    {
+      "type": "CATEGORY",
+      "id": "VJ"
+    },
+    {
+      "type": "CATEGORY",
+      "id": "GENERAL"
+    },
+    {
+      "type": "CATEGORY",
+      "id": "NT-1"
+    },
+    {
+      "type": "CATEGORY",
+      "id": "NT-2"
+    },
+    {
+      "type": "CATEGORY",
+      "id": "NT-3"
+    },
+    {
+      "type": "CATEGORY",
+      "id": "OBC"
+    },
+    {
+      "type": "CATEGORY",
+      "id": "SEBC"
+    },
+    {
+      "type": "CATEGORY",
+      "id": "OPEN"
+    },
+    {
+      "type": "CATEGORY",
+      "id": "SC"
+    },
+    {
+      "type": "CATEGORY",
+      "id": "ST"
+    },
+    {
+      "type": "CATEGORY",
+      "id": "DEF"
+    },
+    {
+      "type": "CATEGORY",
+      "id": "TFWS"
+    },
+    {
+      "type": "CATEGORY",
+      "id": "EWS"
+    },
+    {
+      "type": "COURSE",
+      "id": "Computer Science & Engineering"
+    },
+    {
+      "type": "COURSE",
+      "id": "Robotics and Artificial Intelligence"
+    },
+    {
+      "type": "COURSE",
+      "id": "Electrical Engineering"
+    },
+    {
+      "type": "COURSE",
+      "id": "IoT & Cyber Security"
+    },
+    {
+      "type": "COURSE",
+      "id": "Computer Science (IoT & Cyber Security)"
+    },
+    {
+      "type": "COURSE",
+      "id": "Aeronautical Engineering"
+    },
+    {
+      "type": "COURSE",
+      "id": "AI & Data Science"
+    },
+    {
+      "type": "COURSE",
+      "id": "Civil Engineering"
+    },
+    {
+      "type": "COURSE",
+      "id": "Food Technology"
+    },
+    {
+      "type": "CATEGORY",
+      "id": "LADIES"
+    },
+    {
+      "type": "CATEGORY",
+      "id": "EBC"
+    },
+    {
+      "type": "COMPANY",
+      "id": "In"
+    }
+  ],
+  "links": [
+    {
+      "weight": 1.0,
+      "source": "Mechanical Engineering",
+      "target": "VJ"
+    },
+    {
+      "weight": 1.0,
+      "source": "Mechanical Engineering",
+      "target": "GENERAL"
+    },
+    {
+      "weight": 1.0,
+      "source": "Mechanical Engineering",
+      "target": "NT-1"
+    },
+    {
+      "weight": 1.0,
+      "source": "Mechanical Engineering",
+      "target": "NT-2"
+    },
+    {
+      "weight": 1.0,
+      "source": "Mechanical Engineering",
+      "target": "NT-3"
+    },
+    {
+      "weight": 1.0,
+      "source": "Mechanical Engineering",
+      "target": "OBC"
+    },
+    {
+      "weight": 1.0,
+      "source": "Mechanical Engineering",
+      "target": "SEBC"
+    },
+    {
+      "weight": 1.0,
+      "source": "Mechanical Engineering",
+      "target": "OPEN"
+    },
+    {
+      "weight": 1.0,
+      "source": "Mechanical Engineering",
+      "target": "SC"
+    },
+    {
+      "weight": 1.0,
+      "source": "Mechanical Engineering",
+      "target": "ST"
+    },
+    {
+      "weight": 1.0,
+      "source": "Mechanical Engineering",
+      "target": "DEF"
+    },
+    {
+      "weight": 1.0,
+      "source": "Mechanical Engineering",
+      "target": "TFWS"
+    },
+    {
+      "weight": 1.0,
+      "source": "Mechanical Engineering",
+      "target": "EWS"
+    },
+    {
+      "weight": 1.0,
+      "source": "Mechanical Engineering",
+      "target": "LADIES"
+    },
+    {
+      "weight": 1.0,
+      "source": "Mechanical Engineering",
+      "target": "Electrical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "Mechanical Engineering",
+      "target": "Civil Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "Mechanical Engineering",
+      "target": "Food Technology"
+    },
+    {
+      "weight": 1.0,
+      "source": "Mechanical Engineering",
+      "target": "Computer Science & Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "Mechanical Engineering",
+      "target": "In"
+    },
+    {
+      "weight": 1.0,
+      "source": "Mechanical Engineering",
+      "target": "Aeronautical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "VJ",
+      "target": "GENERAL"
+    },
+    {
+      "weight": 1.0,
+      "source": "VJ",
+      "target": "Computer Science & Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "VJ",
+      "target": "Robotics and Artificial Intelligence"
+    },
+    {
+      "weight": 1.0,
+      "source": "VJ",
+      "target": "Electrical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "VJ",
+      "target": "IoT & Cyber Security"
+    },
+    {
+      "weight": 1.0,
+      "source": "VJ",
+      "target": "Computer Science (IoT & Cyber Security)"
+    },
+    {
+      "weight": 1.0,
+      "source": "VJ",
+      "target": "Aeronautical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "VJ",
+      "target": "AI & Data Science"
+    },
+    {
+      "weight": 1.0,
+      "source": "VJ",
+      "target": "Civil Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "VJ",
+      "target": "Food Technology"
+    },
+    {
+      "weight": 1.0,
+      "source": "VJ",
+      "target": "LADIES"
+    },
+    {
+      "weight": 1.0,
+      "source": "GENERAL",
+      "target": "NT-1"
+    },
+    {
+      "weight": 1.0,
+      "source": "GENERAL",
+      "target": "NT-2"
+    },
+    {
+      "weight": 1.0,
+      "source": "GENERAL",
+      "target": "NT-3"
+    },
+    {
+      "weight": 1.0,
+      "source": "GENERAL",
+      "target": "OBC"
+    },
+    {
+      "weight": 1.0,
+      "source": "GENERAL",
+      "target": "SEBC"
+    },
+    {
+      "weight": 1.0,
+      "source": "GENERAL",
+      "target": "OPEN"
+    },
+    {
+      "weight": 1.0,
+      "source": "GENERAL",
+      "target": "SC"
+    },
+    {
+      "weight": 1.0,
+      "source": "GENERAL",
+      "target": "ST"
+    },
+    {
+      "weight": 1.0,
+      "source": "GENERAL",
+      "target": "DEF"
+    },
+    {
+      "weight": 1.0,
+      "source": "GENERAL",
+      "target": "TFWS"
+    },
+    {
+      "weight": 1.0,
+      "source": "GENERAL",
+      "target": "EWS"
+    },
+    {
+      "weight": 1.0,
+      "source": "GENERAL",
+      "target": "Computer Science & Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "GENERAL",
+      "target": "Robotics and Artificial Intelligence"
+    },
+    {
+      "weight": 1.0,
+      "source": "GENERAL",
+      "target": "Electrical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "GENERAL",
+      "target": "IoT & Cyber Security"
+    },
+    {
+      "weight": 1.0,
+      "source": "GENERAL",
+      "target": "Computer Science (IoT & Cyber Security)"
+    },
+    {
+      "weight": 1.0,
+      "source": "GENERAL",
+      "target": "Aeronautical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "GENERAL",
+      "target": "AI & Data Science"
+    },
+    {
+      "weight": 1.0,
+      "source": "GENERAL",
+      "target": "Civil Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "GENERAL",
+      "target": "Food Technology"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-1",
+      "target": "Computer Science & Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-1",
+      "target": "Robotics and Artificial Intelligence"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-1",
+      "target": "Electrical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-1",
+      "target": "IoT & Cyber Security"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-1",
+      "target": "Computer Science (IoT & Cyber Security)"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-1",
+      "target": "Aeronautical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-1",
+      "target": "AI & Data Science"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-1",
+      "target": "Civil Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-1",
+      "target": "Food Technology"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-1",
+      "target": "LADIES"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-2",
+      "target": "Computer Science & Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-2",
+      "target": "Robotics and Artificial Intelligence"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-2",
+      "target": "Electrical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-2",
+      "target": "IoT & Cyber Security"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-2",
+      "target": "Computer Science (IoT & Cyber Security)"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-2",
+      "target": "Aeronautical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-2",
+      "target": "AI & Data Science"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-2",
+      "target": "Civil Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-2",
+      "target": "Food Technology"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-2",
+      "target": "LADIES"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-3",
+      "target": "Computer Science & Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-3",
+      "target": "Robotics and Artificial Intelligence"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-3",
+      "target": "Electrical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-3",
+      "target": "IoT & Cyber Security"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-3",
+      "target": "Computer Science (IoT & Cyber Security)"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-3",
+      "target": "Aeronautical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-3",
+      "target": "AI & Data Science"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-3",
+      "target": "Civil Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-3",
+      "target": "Food Technology"
+    },
+    {
+      "weight": 1.0,
+      "source": "NT-3",
+      "target": "LADIES"
+    },
+    {
+      "weight": 1.0,
+      "source": "OBC",
+      "target": "Computer Science & Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "OBC",
+      "target": "Robotics and Artificial Intelligence"
+    },
+    {
+      "weight": 1.0,
+      "source": "OBC",
+      "target": "Electrical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "OBC",
+      "target": "IoT & Cyber Security"
+    },
+    {
+      "weight": 1.0,
+      "source": "OBC",
+      "target": "Computer Science (IoT & Cyber Security)"
+    },
+    {
+      "weight": 1.0,
+      "source": "OBC",
+      "target": "Aeronautical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "OBC",
+      "target": "AI & Data Science"
+    },
+    {
+      "weight": 1.0,
+      "source": "OBC",
+      "target": "Civil Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "OBC",
+      "target": "Food Technology"
+    },
+    {
+      "weight": 1.0,
+      "source": "OBC",
+      "target": "LADIES"
+    },
+    {
+      "weight": 1.0,
+      "source": "OBC",
+      "target": "SEBC"
+    },
+    {
+      "weight": 1.0,
+      "source": "OBC",
+      "target": "EWS"
+    },
+    {
+      "weight": 1.0,
+      "source": "OBC",
+      "target": "EBC"
+    },
+    {
+      "weight": 1.0,
+      "source": "SEBC",
+      "target": "Computer Science & Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "SEBC",
+      "target": "Robotics and Artificial Intelligence"
+    },
+    {
+      "weight": 1.0,
+      "source": "SEBC",
+      "target": "Electrical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "SEBC",
+      "target": "IoT & Cyber Security"
+    },
+    {
+      "weight": 1.0,
+      "source": "SEBC",
+      "target": "Computer Science (IoT & Cyber Security)"
+    },
+    {
+      "weight": 1.0,
+      "source": "SEBC",
+      "target": "Aeronautical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "SEBC",
+      "target": "AI & Data Science"
+    },
+    {
+      "weight": 1.0,
+      "source": "SEBC",
+      "target": "Civil Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "SEBC",
+      "target": "Food Technology"
+    },
+    {
+      "weight": 1.0,
+      "source": "SEBC",
+      "target": "LADIES"
+    },
+    {
+      "weight": 1.0,
+      "source": "OPEN",
+      "target": "Computer Science & Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "OPEN",
+      "target": "Robotics and Artificial Intelligence"
+    },
+    {
+      "weight": 1.0,
+      "source": "OPEN",
+      "target": "Electrical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "OPEN",
+      "target": "IoT & Cyber Security"
+    },
+    {
+      "weight": 1.0,
+      "source": "OPEN",
+      "target": "Computer Science (IoT & Cyber Security)"
+    },
+    {
+      "weight": 1.0,
+      "source": "OPEN",
+      "target": "Aeronautical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "OPEN",
+      "target": "AI & Data Science"
+    },
+    {
+      "weight": 1.0,
+      "source": "OPEN",
+      "target": "Civil Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "OPEN",
+      "target": "Food Technology"
+    },
+    {
+      "weight": 1.0,
+      "source": "OPEN",
+      "target": "LADIES"
+    },
+    {
+      "weight": 1.0,
+      "source": "OPEN",
+      "target": "TFWS"
+    },
+    {
+      "weight": 1.0,
+      "source": "OPEN",
+      "target": "EWS"
+    },
+    {
+      "weight": 1.0,
+      "source": "OPEN",
+      "target": "EBC"
+    },
+    {
+      "weight": 1.0,
+      "source": "SC",
+      "target": "Computer Science & Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "SC",
+      "target": "Robotics and Artificial Intelligence"
+    },
+    {
+      "weight": 1.0,
+      "source": "SC",
+      "target": "Electrical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "SC",
+      "target": "IoT & Cyber Security"
+    },
+    {
+      "weight": 1.0,
+      "source": "SC",
+      "target": "Computer Science (IoT & Cyber Security)"
+    },
+    {
+      "weight": 1.0,
+      "source": "SC",
+      "target": "Aeronautical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "SC",
+      "target": "AI & Data Science"
+    },
+    {
+      "weight": 1.0,
+      "source": "SC",
+      "target": "Civil Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "SC",
+      "target": "Food Technology"
+    },
+    {
+      "weight": 1.0,
+      "source": "SC",
+      "target": "LADIES"
+    },
+    {
+      "weight": 1.0,
+      "source": "SC",
+      "target": "ST"
+    },
+    {
+      "weight": 1.0,
+      "source": "ST",
+      "target": "Computer Science & Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "ST",
+      "target": "Robotics and Artificial Intelligence"
+    },
+    {
+      "weight": 1.0,
+      "source": "ST",
+      "target": "Electrical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "ST",
+      "target": "IoT & Cyber Security"
+    },
+    {
+      "weight": 1.0,
+      "source": "ST",
+      "target": "Computer Science (IoT & Cyber Security)"
+    },
+    {
+      "weight": 1.0,
+      "source": "ST",
+      "target": "Aeronautical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "ST",
+      "target": "AI & Data Science"
+    },
+    {
+      "weight": 1.0,
+      "source": "ST",
+      "target": "Civil Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "ST",
+      "target": "Food Technology"
+    },
+    {
+      "weight": 1.0,
+      "source": "ST",
+      "target": "LADIES"
+    },
+    {
+      "weight": 1.0,
+      "source": "DEF",
+      "target": "Computer Science & Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "DEF",
+      "target": "Robotics and Artificial Intelligence"
+    },
+    {
+      "weight": 1.0,
+      "source": "DEF",
+      "target": "Electrical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "DEF",
+      "target": "IoT & Cyber Security"
+    },
+    {
+      "weight": 1.0,
+      "source": "DEF",
+      "target": "Computer Science (IoT & Cyber Security)"
+    },
+    {
+      "weight": 1.0,
+      "source": "DEF",
+      "target": "Aeronautical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "DEF",
+      "target": "AI & Data Science"
+    },
+    {
+      "weight": 1.0,
+      "source": "DEF",
+      "target": "Civil Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "DEF",
+      "target": "Food Technology"
+    },
+    {
+      "weight": 1.0,
+      "source": "DEF",
+      "target": "LADIES"
+    },
+    {
+      "weight": 1.0,
+      "source": "TFWS",
+      "target": "Computer Science & Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "TFWS",
+      "target": "Robotics and Artificial Intelligence"
+    },
+    {
+      "weight": 1.0,
+      "source": "TFWS",
+      "target": "Electrical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "TFWS",
+      "target": "IoT & Cyber Security"
+    },
+    {
+      "weight": 1.0,
+      "source": "TFWS",
+      "target": "Computer Science (IoT & Cyber Security)"
+    },
+    {
+      "weight": 1.0,
+      "source": "TFWS",
+      "target": "Aeronautical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "TFWS",
+      "target": "AI & Data Science"
+    },
+    {
+      "weight": 1.0,
+      "source": "TFWS",
+      "target": "Civil Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "TFWS",
+      "target": "Food Technology"
+    },
+    {
+      "weight": 1.0,
+      "source": "TFWS",
+      "target": "LADIES"
+    },
+    {
+      "weight": 1.0,
+      "source": "TFWS",
+      "target": "EWS"
+    },
+    {
+      "weight": 1.0,
+      "source": "TFWS",
+      "target": "EBC"
+    },
+    {
+      "weight": 1.0,
+      "source": "EWS",
+      "target": "Computer Science & Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "EWS",
+      "target": "Robotics and Artificial Intelligence"
+    },
+    {
+      "weight": 1.0,
+      "source": "EWS",
+      "target": "Electrical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "EWS",
+      "target": "IoT & Cyber Security"
+    },
+    {
+      "weight": 1.0,
+      "source": "EWS",
+      "target": "Computer Science (IoT & Cyber Security)"
+    },
+    {
+      "weight": 1.0,
+      "source": "EWS",
+      "target": "Aeronautical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "EWS",
+      "target": "AI & Data Science"
+    },
+    {
+      "weight": 1.0,
+      "source": "EWS",
+      "target": "Civil Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "EWS",
+      "target": "Food Technology"
+    },
+    {
+      "weight": 1.0,
+      "source": "EWS",
+      "target": "LADIES"
+    },
+    {
+      "weight": 1.0,
+      "source": "EWS",
+      "target": "EBC"
+    },
+    {
+      "weight": 1.0,
+      "source": "Computer Science & Engineering",
+      "target": "LADIES"
+    },
+    {
+      "weight": 1.0,
+      "source": "Computer Science & Engineering",
+      "target": "Electrical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "Computer Science & Engineering",
+      "target": "In"
+    },
+    {
+      "weight": 1.0,
+      "source": "Computer Science & Engineering",
+      "target": "AI & Data Science"
+    },
+    {
+      "weight": 1.0,
+      "source": "Computer Science & Engineering",
+      "target": "IoT & Cyber Security"
+    },
+    {
+      "weight": 1.0,
+      "source": "Robotics and Artificial Intelligence",
+      "target": "LADIES"
+    },
+    {
+      "weight": 1.0,
+      "source": "Electrical Engineering",
+      "target": "LADIES"
+    },
+    {
+      "weight": 1.0,
+      "source": "Electrical Engineering",
+      "target": "Civil Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "Electrical Engineering",
+      "target": "Food Technology"
+    },
+    {
+      "weight": 1.0,
+      "source": "Electrical Engineering",
+      "target": "In"
+    },
+    {
+      "weight": 1.0,
+      "source": "Electrical Engineering",
+      "target": "Aeronautical Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "Electrical Engineering",
+      "target": "AI & Data Science"
+    },
+    {
+      "weight": 1.0,
+      "source": "Electrical Engineering",
+      "target": "IoT & Cyber Security"
+    },
+    {
+      "weight": 1.0,
+      "source": "IoT & Cyber Security",
+      "target": "Computer Science (IoT & Cyber Security)"
+    },
+    {
+      "weight": 1.0,
+      "source": "IoT & Cyber Security",
+      "target": "LADIES"
+    },
+    {
+      "weight": 1.0,
+      "source": "IoT & Cyber Security",
+      "target": "AI & Data Science"
+    },
+    {
+      "weight": 1.0,
+      "source": "IoT & Cyber Security",
+      "target": "In"
+    },
+    {
+      "weight": 1.0,
+      "source": "Computer Science (IoT & Cyber Security)",
+      "target": "LADIES"
+    },
+    {
+      "weight": 1.0,
+      "source": "Aeronautical Engineering",
+      "target": "LADIES"
+    },
+    {
+      "weight": 1.0,
+      "source": "Aeronautical Engineering",
+      "target": "In"
+    },
+    {
+      "weight": 1.0,
+      "source": "Aeronautical Engineering",
+      "target": "Civil Engineering"
+    },
+    {
+      "weight": 1.0,
+      "source": "AI & Data Science",
+      "target": "LADIES"
+    },
+    {
+      "weight": 1.0,
+      "source": "AI & Data Science",
+      "target": "In"
+    },
+    {
+      "weight": 1.0,
+      "source": "Civil Engineering",
+      "target": "LADIES"
+    },
+    {
+      "weight": 1.0,
+      "source": "Civil Engineering",
+      "target": "Food Technology"
+    },
+    {
+      "weight": 1.0,
+      "source": "Civil Engineering",
+      "target": "In"
+    },
+    {
+      "weight": 1.0,
+      "source": "Food Technology",
+      "target": "LADIES"
+    },
+    {
+      "weight": 1.0,
+      "source": "Food Technology",
+      "target": "In"
+    }
+  ]
+}

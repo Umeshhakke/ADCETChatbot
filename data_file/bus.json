@@ -1,0 +1,227 @@
+{
+  "bus_routes": [
+    {
+      "route_name": "Ashta-Palus",
+      "stops": [
+        {
+          "stop_name": "Ashta",
+          "monthly_fee": 500
+        },
+        {
+          "stop_name": "Nagthane Fata",
+          "monthly_fee": 700
+        },
+        {
+          "stop_name": "Amnapur",
+          "monthly_fee": 1300
+        },
+        {
+          "stop_name": "Palus",
+          "monthly_fee": 1700
+        },
+        {
+          "stop_name": "Sawantpur",
+          "monthly_fee": 1800
+        },
+        {
+          "stop_name": "Kirloskarwadi",
+          "monthly_fee": 1900
+        },
+        {
+          "stop_name": "Palus Colony",
+          "monthly_fee": 2100
+        }
+      ]
+    },
+    {
+      "route_name": "Ashta-Dudhondi",
+      "stops": [
+        {
+          "stop_name": "Ashta",
+          "monthly_fee": 500
+        },
+        {
+          "stop_name": "Nagthane Fata",
+          "monthly_fee": 700
+        },
+        {
+          "stop_name": "Amnapur",
+          "monthly_fee": 1300
+        },
+        {
+          "stop_name": "Burli",
+          "monthly_fee": 1400
+        },
+        {
+          "stop_name": "Kirloskarwadi",
+          "monthly_fee": 1900
+        },
+        {
+          "stop_name": "Kundal",
+          "monthly_fee": 2200
+        },
+        {
+          "stop_name": "Dudhondi",
+          "monthly_fee": 2300
+        }
+      ]
+    },
+    {
+      "route_name": "Ashta-Miraj",
+      "stops": [
+        {
+          "stop_name": "Karandwadi/Tung/Mirajwadi",
+          "monthly_fee": 1000
+        },
+        {
+          "stop_name": "Kasbe Digraj",
+          "monthly_fee": 1200
+        },
+        {
+          "stop_name": "Karnal Chowk",
+          "monthly_fee": 2000
+        },
+        {
+          "stop_name": "Sangli",
+          "monthly_fee": 2000
+        },
+        {
+          "stop_name": "Vijaynagar",
+          "monthly_fee": 2000
+        },
+        {
+          "stop_name": "Miraj",
+          "monthly_fee": 2300
+        }
+      ]
+    },
+    {
+      "route_name": "Ashta-Tasgaon",
+      "stops": [
+        {
+          "stop_name": "Ashta",
+          "monthly_fee": 500
+        },
+        {
+          "stop_name": "Audumbar Fata",
+          "monthly_fee": 700
+        },
+        {
+          "stop_name": "Bhilawadi",
+          "monthly_fee": 700
+        },
+        {
+          "stop_name": "Khandobachiwadi/Malwadi",
+          "monthly_fee": 900
+        },
+        {
+          "stop_name": "Bhilawadi Station",
+          "monthly_fee": 1300
+        },
+        {
+          "stop_name": "Pachva Mil",
+          "monthly_fee": 1700
+        },
+        {
+          "stop_name": "Tasgaon",
+          "monthly_fee": 2200
+        }
+      ]
+    },
+    {
+      "route_name": "Ashta-Shirala",
+      "stops": [
+        {
+          "stop_name": "Gotkhindi/Walwa Fata/Bawachi",
+          "monthly_fee": 1000
+        },
+        {
+          "stop_name": "Tuzarpur/Gatadwadi",
+          "monthly_fee": 1300
+        },
+        {
+          "stop_name": "Islampur",
+          "monthly_fee": 1600
+        },
+        {
+          "stop_name": "Pethnaka",
+          "monthly_fee": 1700
+        },
+        {
+          "stop_name": "Rethare Dharan",
+          "monthly_fee": 1900
+        },
+        {
+          "stop_name": "Red",
+          "monthly_fee": 2000
+        },
+        {
+          "stop_name": "Shirala",
+          "monthly_fee": 2200
+        }
+      ]
+    },
+    {
+      "route_name": "Karad",
+      "stops": [
+        {
+          "stop_name": "Karad",
+          "monthly_fee": 3300
+        },
+        {
+          "stop_name": "Malkapur",
+          "monthly_fee": 2800
+        },
+        {
+          "stop_name": "Atake",
+          "monthly_fee": 2800
+        },
+        {
+          "stop_name": "Wathar",
+          "monthly_fee": 2500
+        },
+        {
+          "stop_name": "Kasegaon",
+          "monthly_fee": 2500
+        },
+        {
+          "stop_name": "Pethnaka",
+          "monthly_fee": 2200
+        }
+      ]
+    },
+    {
+      "route_name": "Ashta-Kolhapur",
+      "stops": [
+        {
+          "stop_name": "Bgani",
+          "monthly_fee": 1200
+        },
+        {
+          "stop_name": "Shigaon",
+          "monthly_fee": 1500
+        },
+        {
+          "stop_name": "Vadgaon",
+          "monthly_fee": 2000
+        },
+        {
+          "stop_name": "Top",
+          "monthly_fee": 2500
+        },
+        {
+          "stop_name": "Shiye Phata",
+          "monthly_fee": 2500
+        },
+        {
+          "stop_name": "Shiroli",
+          "monthly_fee": 2800
+        },
+        {
+          "stop_name": "Kolhapur",
+          "monthly_fee": 3000
+        }
+      ]
+    }
+  ]
+}
