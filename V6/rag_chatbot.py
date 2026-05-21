@@ -34,7 +34,6 @@ BLOCKED_RESPONSES = {
     "information unavailable",
 }
 
-
 class ADCETRAGChatbot:
     def __init__(self) -> None:
         print(f"Loading LLM provider: {runtime_config.llm_provider}")
@@ -46,14 +45,20 @@ class ADCETRAGChatbot:
 
         print(f"Loading embedding model: {runtime_config.embedding_model}")
         try:
-            self.embedder = SentenceTransformer(runtime_config.embedding_model)
+            self.embedder = SentenceTransformer(
+                runtime_config.embedding_model,
+                local_files_only=runtime_config.hf_local_files_only,
+            )
         except Exception as exc:
             print(f"Embedding fallback (BM25 only): {exc}")
             self.embedder = None
 
         print(f"Loading reranker: {runtime_config.reranker_model}")
         try:
-            self.reranker = CrossEncoder(runtime_config.reranker_model)
+            self.reranker = CrossEncoder(
+                runtime_config.reranker_model,
+                local_files_only=runtime_config.hf_local_files_only,
+            )
         except Exception as exc:
             print(f"No reranker -> using score ranking: {exc}")
             self.reranker = None
@@ -350,11 +355,14 @@ class ADCETRAGChatbot:
     def category_adjustment(query_category: str, doc: str, meta: dict) -> float:
         doc_category = meta.get("category", "general")
         text = normalize_text(f"{meta.get('title','')} {meta.get('source','')} {doc[:1200]}")
+        record_kind = normalize_text(str(meta.get("record_kind", "")))
 
         if query_category == "cutoff":
             adjustment = 0.0
             if doc_category == "cutoff":
                 adjustment += 0.45
+            if "cutoff" in record_kind:
+                adjustment += 0.30
             if any(term in text for term in ["cut off", "cutoff", "merit marks", "merit number", "percentile"]):
                 adjustment += 0.20
             if doc_category in {"admission", "results"} and any(
@@ -363,10 +371,91 @@ class ADCETRAGChatbot:
                 adjustment -= 0.35
             return adjustment
 
+        if query_category == "admission":
+            adjustment = 0.0
+            if doc_category == "admission":
+                adjustment += 0.25
+            if record_kind in {"admission documents", "admission eligibility"}:
+                adjustment += 0.25
+            if any(term in text for term in [
+                "document", "documents", "certificate", "certificates",
+                "marksheet", "required", "domicile", "aadhar", "aadhaar",
+            ]):
+                adjustment += 0.25
+            if doc_category == "cutoff" and any(term in text for term in [
+                "cutoff", "cut off", "merit marks", "merit number", "percentile",
+            ]):
+                adjustment -= 0.35
+            return adjustment
+
+        if query_category == "hostel":
+            adjustment = 0.0
+            if doc_category == "hostel":
+                adjustment += 0.45
+            if "hostel" in record_kind:
+                adjustment += 0.30
+            if "hostel" in text or "accommodation" in text:
+                adjustment += 0.25
+            if "bus route" in text or "bus fees" in text:
+                adjustment -= 0.45
+            return adjustment
+
+        if query_category == "transport":
+            adjustment = 0.0
+            if "bus" in record_kind:
+                adjustment += 0.45
+            if any(term in text for term in ["bus route", "stop name", "monthly fee", "transport"]):
+                adjustment += 0.25
+            if "hostel" in text or "college fees" in text:
+                adjustment -= 0.20
+            return adjustment
+
+        if query_category == "fees":
+            adjustment = 0.0
+            if "college fee" in record_kind:
+                adjustment += 0.35
+            if "bus" in record_kind and "bus" not in text[:100]:
+                adjustment -= 0.10
+            return adjustment
+
+        if query_category == "placement":
+            adjustment = 0.0
+            if "placement" in record_kind or "company visit" in record_kind:
+                adjustment += 0.30
+            return adjustment
+
+        if query_category == "department":
+            adjustment = 0.0
+            if "academic program" in record_kind:
+                adjustment += 0.35
+            return adjustment
+
         if query_category != "general" and doc_category == query_category:
             return 0.25
 
         return 0.0
+
+    @staticmethod
+    def metadata_adjustment(query: str, meta: dict) -> float:
+        normalized_query = normalize_text(query)
+        query_terms = set(normalized_query.split())
+        score = 0.0
+
+        for key, raw_value in meta.items():
+            if key in {"source", "title", "type", "category", "chunk_index"}:
+                continue
+            value = normalize_text(str(raw_value))
+            if not value:
+                continue
+
+            value_terms = {term for term in value.split() if len(term) > 1}
+            overlap = query_terms & value_terms
+            if value and value in normalized_query:
+                score += 0.25
+            elif overlap:
+                score += min(0.18, 0.06 * len(overlap))
+
+        return min(score, 0.35)
 
     def hybrid_search(self, processed_query):
         expanded = processed_query.expanded
@@ -423,6 +512,7 @@ class ADCETRAGChatbot:
                 + 0.30 * c["bm25"]
                 + 0.20 * c["lexical"]
                 + self.category_adjustment(processed_query.category, c["doc"], c["meta"])
+                + self.metadata_adjustment(processed_query.expanded, c["meta"])
             )
             ranked.append((c["doc"], c["meta"], score))
 
@@ -445,7 +535,9 @@ class ADCETRAGChatbot:
             (
                 (
                     ((d, m), s),
-                    float(model_score) + self.category_adjustment(processed_query.category, d, m),
+                    float(model_score)
+                    + self.category_adjustment(processed_query.category, d, m)
+                    + self.metadata_adjustment(processed_query.expanded, m),
                 )
                 for (d, m, s), model_score in zip(docs, scores)
             ),
@@ -460,10 +552,18 @@ class ADCETRAGChatbot:
     def build_context(self, docs):
         blocks = []
         for i, ((doc, meta), score) in enumerate(docs, 1):
+            facets = {
+                key: value
+                for key, value in meta.items()
+                if key not in {"source", "title", "type", "category", "chunk_index"}
+                and str(value).strip()
+            }
+            facet_text = "\n".join(f"{key}: {value}" for key, value in sorted(facets.items()))
             blocks.append(
                 f"[CHUNK {i}]\nTITLE: {meta.get('title','')}\n"
                 f"CATEGORY: {meta.get('category','')}\nSOURCE: {meta.get('source','')}\n"
-                f"RELEVANCE: {score:.3f}\nCONTENT:\n{doc}"
+                f"RELEVANCE: {score:.3f}\n"
+                f"METADATA:\n{facet_text or 'none'}\nCONTENT:\n{doc}"
             )
         return "\n\n".join(blocks)
 
@@ -471,9 +571,21 @@ class ADCETRAGChatbot:
         return f"""
 You are ADCET assistant.
 
-Use only context. If the question asks how many marks, score, rank, percentile,
-or chance is needed for admission, answer from cutoff/merit-mark data, not
-qualifying eligibility criteria.
+Use only context. Answer the user's exact question.
+Prefer the chunks whose metadata and title match the user's branch, category,
+year, route, stop, company, hostel, admission type, or program.
+Do not mix values from different chunks unless the question asks for a
+comparison or summary.
+
+If the question asks for admission documents, certificates, or marksheets,
+answer from document/admission context and do not answer with cutoff marks.
+If the retrieved context has separate admission categories and the user did
+not specify a category/caste, ask the user to mention the category instead of
+combining all category-wise document lists.
+
+If the question asks how many marks, score, rank, percentile, or chance is
+needed for admission, answer from cutoff/merit-mark data, not qualifying
+eligibility criteria.
 
 If not found -> {UNAVAILABLE_RESPONSE}
 
@@ -486,6 +598,128 @@ Context:
 Answer:
 """.strip()
 
+    # ------------------ FALLBACK ------------------
+
+    @staticmethod
+    def is_blocked_or_unhelpful(response: str) -> bool:
+        normalized = normalize_text(response)
+        if not normalized:
+            return True
+        if UNAVAILABLE_RESPONSE.lower() in response.lower():
+            return True
+        return any(blocked in normalized for blocked in BLOCKED_RESPONSES)
+
+    def fallback_answer_from_ranked(self, ranked) -> str:
+        snippets = []
+        if not ranked:
+            return UNAVAILABLE_RESPONSE
+
+        top_score = ranked[0][1]
+        selected = []
+        for item in ranked:
+            (_doc_meta, score) = item
+            if len(selected) >= runtime_config.answer_source_count:
+                break
+            if score >= top_score - 0.20:
+                selected.append(item)
+
+        if not selected:
+            selected = ranked[:1]
+
+        for (doc, _meta), _score in selected:
+            snippet = re.sub(r"\s+", " ", doc).strip()
+            if snippet:
+                snippets.append(snippet)
+        return "\n".join(snippets) if snippets else UNAVAILABLE_RESPONSE
+
+    @staticmethod
+    def metadata_focus_fields(query: str, top_meta: dict) -> dict[str, str]:
+        normalized_query = normalize_text(query)
+        query_terms = set(normalized_query.split())
+        focus_fields = [
+            "category_name",
+            "course",
+            "group",
+            "branch",
+            "eligible_branches",
+            "academic_year",
+            "route_name",
+            "stop_name",
+            "hostel_type",
+            "degree",
+            "program_name",
+        ]
+        matches: dict[str, str] = {}
+        compact_query = normalized_query.replace(" ", "")
+        for field in focus_fields:
+            value = str(top_meta.get(field, "")).strip()
+            normalized_value = normalize_text(value)
+            if not normalized_value:
+                continue
+            value_terms = {term for term in normalized_value.split() if len(term) > 1}
+            compact_value = normalized_value.replace(" ", "")
+            if normalized_value in normalized_query or compact_value in compact_query or query_terms & value_terms:
+                matches[field] = normalized_value
+        return matches
+
+    def focus_ranked_context(self, processed_query, ranked):
+        if not ranked:
+            return ranked
+
+        top_meta = ranked[0][0][1]
+        focus = self.metadata_focus_fields(processed_query.expanded, top_meta)
+        if not focus:
+            return ranked
+
+        top_record_kind = normalize_text(str(top_meta.get("record_kind", "")))
+        focused = []
+        for item in ranked:
+            (_doc, meta), _score = item
+            record_kind = normalize_text(str(meta.get("record_kind", "")))
+            if top_record_kind and record_kind != top_record_kind:
+                continue
+            if all(normalize_text(str(meta.get(field, ""))) == value for field, value in focus.items()):
+                focused.append(item)
+
+        return focused or ranked
+
+    @staticmethod
+    def context_category_names(ranked) -> list[str]:
+        categories: list[str] = []
+        seen: set[str] = set()
+        for (doc, _meta), _score in ranked:
+            for match in re.finditer(r"category name:\s*([^\n\r]+)", doc, flags=re.IGNORECASE):
+                category = re.sub(r"\s+", " ", match.group(1)).strip()
+                normalized = normalize_text(category)
+                if category and normalized not in seen:
+                    seen.add(normalized)
+                    categories.append(category)
+        return categories
+
+    @staticmethod
+    def query_mentions_context_category(query: str, categories: list[str]) -> bool:
+        normalized_query = normalize_text(query)
+        query_terms = set(normalized_query.split())
+        for category in categories:
+            category_terms = [term for term in normalize_text(category).split() if len(term) > 1]
+            if any(term in query_terms for term in category_terms):
+                return True
+        return False
+
+    def category_clarification(self, question: str, ranked) -> str | None:
+        normalized = normalize_text(question)
+        if not re.search(r"\b(documents?|certificates?|marksheets?)\b", normalized):
+            return None
+
+        categories = self.context_category_names(ranked)
+        if len(categories) <= 1 or self.query_mentions_context_category(question, categories):
+            return None
+
+        return (
+            "The retrieved admission document data is category-wise. "
+            f"Please mention the category/caste, for example: {', '.join(categories[:6])}."
+        )
+
     # ------------------ ANSWER ------------------
 
     def answer_query(self, question: str) -> str:
@@ -496,14 +730,6 @@ Answer:
 
         processed_query = preprocess_query(question)
 
-        department_answer = self.answer_department_query(processed_query.corrected)
-        if department_answer:
-            return department_answer
-
-        structured_cutoff_answer = self.answer_cutoff_query(processed_query)
-        if structured_cutoff_answer:
-            return structured_cutoff_answer
-
         retrieved = self.hybrid_search(processed_query)
         ranked = self.rerank(processed_query, retrieved)
 
@@ -512,15 +738,22 @@ Answer:
 
         sources = list({m.get("source","") for (d,m),_ in ranked if m.get("source")})
 
+        clarification = self.category_clarification(processed_query.corrected, ranked)
+        if clarification:
+            return clarification
+
+        ranked = self.focus_ranked_context(processed_query, ranked)
+
         if self.llm:
             try:
                 ctx = self.build_context(ranked)
                 resp = self.llm.generate(self.build_prompt(processed_query.corrected, ctx))
-                return resp
-            except:
+                if not self.is_blocked_or_unhelpful(resp):
+                    return resp
+            except Exception:
                 pass
 
-        return ranked[0][0][0]  # fallback raw text
+        return self.fallback_answer_from_ranked(ranked)
 
 
 # ------------------ RUN ------------------

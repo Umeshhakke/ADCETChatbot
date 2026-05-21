@@ -1,0 +1,362 @@
+[
+  {
+    "question_number": 1,
+    "question": "What is the VJ merit number for CSE (General)?",
+    "answer": "The merit number for CSE General at VJ is 79469.",
+    "response_time_seconds": 10.67
+  },
+  {
+    "question_number": 2,
+    "question": "What are the VJ merit marks for CSE (General)?",
+    "answer": "The VJ merit marks for CSE General are 75.210728.",
+    "response_time_seconds": 2.56
+  },
+  {
+    "question_number": 3,
+    "question": "What is the NT-1 merit number for Mechanical Engineering (Ladies)?",
+    "answer": "The merit number for NT-1 in Mechanical Engineering for ladies is 153830.",
+    "response_time_seconds": 2.1
+  },
+  {
+    "question_number": 4,
+    "question": "What are the NT-2 merit marks for Electrical Engineering (General)?",
+    "answer": "The merit marks for the general category in electrical engineering for NT-2 is 73.7482517.",
+    "response_time_seconds": 2.49
+  },
+  {
+    "question_number": 5,
+    "question": "For RAI (General), what is the OBC merit number?",
+    "answer": "The merit number for RAI general OBC is 81961.",
+    "response_time_seconds": 2.35
+  },
+  {
+    "question_number": 6,
+    "question": "What is the SEBC merit marks for CSE (Ladies)?",
+    "answer": "The sebc merit marks for cse ladies is 90.8739909.",
+    "response_time_seconds": 2.17
+  },
+  {
+    "question_number": 7,
+    "question": "What is the OPEN merit number for AIDS (General)?",
+    "answer": "The open merit number for general category in Robotics and Artificial Intelligence is 66597.",
+    "response_time_seconds": 2.11
+  },
+  {
+    "question_number": 8,
+    "question": "What is the SC merit number for Civil Engineering (General)?",
+    "answer": "Cutoff - General - Mechanical Engineering - SC Group: General Course: Mechanical Engineering Category: SC Merit marks: 40.6822054 Merit number: 154010",
+    "response_time_seconds": 1.53
+  },
+  {
+    "question_number": 9,
+    "question": "What are the ST merit marks for Food Technology (Ladies)?",
+    "answer": "Cutoff summary - Ladies - Computer Science & Engineering Group: Ladies Course: Computer Science & Engineering Cutoff records: - Category VJ: merit marks 78.3357644; merit number 71097 - Category NT-1: merit marks 87.9289094; merit number 40771 - Category NT-2: merit marks 88.188033; merit number 39865 - Category NT-3: merit marks 79.9072027; merit number 65789 - Category OBC: merit marks 88.5573886; merit number 38717 - Category SEBC: merit marks 90.8739909; merit number 31233 - Category OPEN: merit marks 87.4115391; merit number 42276 - Category SC: merit marks 73.7482517; merit number 82901 - Category ST: merit marks Data not found; merit number Data not found - Category DEF: merit marks 81.940403; merit number 59819 - Category TFWS: merit marks 90.4253432; merit number 32568 - Category EWS: merit marks 71.5562808; merit number 89669\nCutoff summary - Ladies - Mechanical Engineering Group: Ladies Course: Mechanical Engineering Cutoff records: - Category VJ: merit marks 44.2599775; merit number 147689 - Category NT-1: merit marks 40.6822054; merit number 153830 - Category NT-2: merit marks 70.6189283; merit number 92076 - Category NT-3: merit marks Data not found; merit number Data not found - Category OBC: merit marks 68.4702591; merit number 97410 - Category SEBC: merit marks 73.1347962; merit number 85698 - Category OPEN: merit marks 75.4048881; merit number 78612 - Category SC: merit marks 36.226012; merit number 160408 - Category ST: merit marks Data not found; merit number Data not found - Category DEF: merit marks 52.3622324; merit number 133274 - Category TFWS: merit marks 83.1060395; merit number 56003 - Category EWS: merit marks 28.984931; merit number 171796",
+    "response_time_seconds": 2.11
+  },
+  {
+    "question_number": 10,
+    "question": "For CSE (General), what is the highest merit marks across all categories?",
+    "answer": "The highest merit marks across all categories for CSE General is 90.4253432, which belongs to the TFWS category.",
+    "response_time_seconds": 2.86
+  },
+  {
+    "question_number": 11,
+    "question": "For Mechanical Engineering (General), which category has the lowest merit number?",
+    "answer": "The category with the lowest merit number for mechanical engineering general is **NT-1** with a merit number of **88893**.",
+    "response_time_seconds": 2.99
+  },
+  {
+    "question_number": 12,
+    "question": "What is the EWS merit number for AIDS (Ladies)?",
+    "answer": "Cutoff - General - Robotics and Artificial Intelligence - EWS Group: General Course: Robotics and Artificial Intelligence Category: EWS Merit marks: 45.8266058 Merit number: 146092",
+    "response_time_seconds": 1.69
+  },
+  {
+    "question_number": 13,
+    "question": "What is the TFWS merit marks for RAI (General)?",
+    "answer": "The merit marks for RAI General - TFWS is 85.6182564.",
+    "response_time_seconds": 2.56
+  },
+  {
+    "question_number": 14,
+    "question": "For Aeronautical Engineering (Ladies), what is the NT-3 merit number?",
+    "answer": "Cutoff - Ladies - Computer Science & Engineering - NT-3 Group: Ladies Course: Computer Science & Engineering Category: NT-3 Merit marks: 79.9072027 Merit number: 65789",
+    "response_time_seconds": 1.62
+  },
+  {
+    "question_number": 15,
+    "question": "What is the DEF merit number for Electrical Engineering (General)?",
+    "answer": "The merit number for electrical engineering general (DEF) is 128352.",
+    "response_time_seconds": 2.09
+  },
+  {
+    "question_number": 16,
+    "question": "What is the NT-2 merit marks for CS IOT (General)?",
+    "answer": "The merit marks for CS IOT general NT-2 is 81.8021201.",
+    "response_time_seconds": 2.36
+  },
+  {
+    "question_number": 17,
+    "question": "For Food Technology (General), what is the SEBC merit number?",
+    "answer": "Cutoff - General - Robotics and Artificial Intelligence - SEBC Group: General Course: Robotics and Artificial Intelligence Category: SEBC Merit marks: 78.6137148 Merit number: 69461\nCutoff - General - Computer Science & Engineering - SEBC Group: General Course: Computer Science & Engineering Category: SEBC Merit marks: 86.2041018 Merit number: 46453\nCutoff - General - Mechanical Engineering - SEBC Group: General Course: Mechanical Engineering Category: SEBC Merit marks: 75.4048881 Merit number: 78825",
+    "response_time_seconds": 2.0
+  },
+  {
+    "question_number": 18,
+    "question": "What is the OPEN merit marks for Civil Engineering (Ladies)?",
+    "answer": "Cutoff summary - Ladies - Mechanical Engineering Group: Ladies Course: Mechanical Engineering Cutoff records: - Category VJ: merit marks 44.2599775; merit number 147689 - Category NT-1: merit marks 40.6822054; merit number 153830 - Category NT-2: merit marks 70.6189283; merit number 92076 - Category NT-3: merit marks Data not found; merit number Data not found - Category OBC: merit marks 68.4702591; merit number 97410 - Category SEBC: merit marks 73.1347962; merit number 85698 - Category OPEN: merit marks 75.4048881; merit number 78612 - Category SC: merit marks 36.226012; merit number 160408 - Category ST: merit marks Data not found; merit number Data not found - Category DEF: merit marks 52.3622324; merit number 133274 - Category TFWS: merit marks 83.1060395; merit number 56003 - Category EWS: merit marks 28.984931; merit number 171796",
+    "response_time_seconds": 1.78
+  },
+  {
+    "question_number": 19,
+    "question": "For AIDS (General), what is the VJ merit number?",
+    "answer": "The VJ merit number for aids general is 87088.",
+    "response_time_seconds": 1.89
+  },
+  {
+    "question_number": 20,
+    "question": "What is the SC merit marks for RAI (Ladies)?",
+    "answer": "The SC merit marks for RAI Ladies Computer Science & Engineering is 73.7482517.",
+    "response_time_seconds": 2.76
+  },
+  {
+    "question_number": 21,
+    "question": "For CSE (Ladies), what is the NT-1 merit number?",
+    "answer": "The merit number for CSE ladies in NT-1 is 40771.",
+    "response_time_seconds": 2.02
+  },
+  {
+    "question_number": 22,
+    "question": "What is the OBC merit marks for Mechanical Engineering (Ladies)?",
+    "answer": "The OBC merit marks for mechanical engineering ladies is 68.4702591.",
+    "response_time_seconds": 2.02
+  },
+  {
+    "question_number": 23,
+    "question": "What is the ST merit number for Electrical Engineering (General)?",
+    "answer": "Cutoff - General - Electrical Engineering - SC Group: General Course: Electrical Engineering Category: SC Merit marks: 49.7291102 Merit number: 138181\nCutoff - General - Electrical Engineering - OBC Group: General Course: Electrical Engineering Category: OBC Merit marks: 70.6189283 Merit number: 92073\nCutoff - General - Electrical Engineering - OPEN Group: General Course: Electrical Engineering Category: OPEN Merit marks: 77.9513058 Merit number: 72269",
+    "response_time_seconds": 1.88
+  },
+  {
+    "question_number": 24,
+    "question": "For CS IOT (General), what is the TFWS merit marks?",
+    "answer": "The merit marks for CS IoT General in TFWS is 83.880237.",
+    "response_time_seconds": 2.15
+  },
+  {
+    "question_number": 25,
+    "question": "What is the EWS merit number for Aeronautical Engineering (General)?",
+    "answer": "Cutoff - General - Mechanical Engineering - EWS Group: General Course: Mechanical Engineering Category: EWS Merit marks: 28.984931 Merit number: 171796",
+    "response_time_seconds": 1.53
+  },
+  {
+    "question_number": 26,
+    "question": "For RAI (Ladies), what is the OPEN merit marks?",
+    "answer": "The open merit marks for RAI Ladies is 87.4115391.",
+    "response_time_seconds": 2.44
+  },
+  {
+    "question_number": 27,
+    "question": "What is the NT-3 merit marks for Civil Engineering (General)?",
+    "answer": "Cutoff - General - Mechanical Engineering - NT-3 Group: General Course: Mechanical Engineering Category: NT-3 Merit marks: 25.2088452 Merit number: 177063",
+    "response_time_seconds": 1.56
+  },
+  {
+    "question_number": 28,
+    "question": "What is the DEF merit marks for Food Technology (Ladies)?",
+    "answer": "Cutoff summary - Ladies - Computer Science & Engineering Group: Ladies Course: Computer Science & Engineering Cutoff records: - Category VJ: merit marks 78.3357644; merit number 71097 - Category NT-1: merit marks 87.9289094; merit number 40771 - Category NT-2: merit marks 88.188033; merit number 39865 - Category NT-3: merit marks 79.9072027; merit number 65789 - Category OBC: merit marks 88.5573886; merit number 38717 - Category SEBC: merit marks 90.8739909; merit number 31233 - Category OPEN: merit marks 87.4115391; merit number 42276 - Category SC: merit marks 73.7482517; merit number 82901 - Category ST: merit marks Data not found; merit number Data not found - Category DEF: merit marks 81.940403; merit number 59819 - Category TFWS: merit marks 90.4253432; merit number 32568 - Category EWS: merit marks 71.5562808; merit number 89669\nCutoff summary - Ladies - Mechanical Engineering Group: Ladies Course: Mechanical Engineering Cutoff records: - Category VJ: merit marks 44.2599775; merit number 147689 - Category NT-1: merit marks 40.6822054; merit number 153830 - Category NT-2: merit marks 70.6189283; merit number 92076 - Category NT-3: merit marks Data not found; merit number Data not found - Category OBC: merit marks 68.4702591; merit number 97410 - Category SEBC: merit marks 73.1347962; merit number 85698 - Category OPEN: merit marks 75.4048881; merit number 78612 - Category SC: merit marks 36.226012; merit number 160408 - Category ST: merit marks Data not found; merit number Data not found - Category DEF: merit marks 52.3622324; merit number 133274 - Category TFWS: merit marks 83.1060395; merit number 56003 - Category EWS: merit marks 28.984931; merit number 171796",
+    "response_time_seconds": 2.18
+  },
+  {
+    "question_number": 29,
+    "question": "For AIDS (Ladies), what is the SEBC merit number?",
+    "answer": "The SEBC merit number for aids ladies in Computer Science & Engineering is 31233.",
+    "response_time_seconds": 2.09
+  },
+  {
+    "question_number": 30,
+    "question": "What is the VJ merit number for CS IOT (Ladies)?",
+    "answer": "The merit number for CS IoT ladies in the VJ category is 95580.",
+    "response_time_seconds": 2.1
+  },
+  {
+    "question_number": 31,
+    "question": "Which course and gender has the highest merit number in VJ category?",
+    "answer": "The course with the highest merit number in VJ category is Computer Science & Engineering for the General gender, with a merit number of 79469.",
+    "response_time_seconds": 2.82
+  },
+  {
+    "question_number": 32,
+    "question": "Which course and gender has the lowest merit marks in OPEN category?",
+    "answer": "The course with the lowest merit marks in the open category is Computer Science & Engineering for Ladies, with a merit mark of 87.4115391.",
+    "response_time_seconds": 2.94
+  },
+  {
+    "question_number": 33,
+    "question": "For Electrical Engineering (General), which categories have data not available?",
+    "answer": "Information not available in adcet_data.json for the categories ST and NT-3 for general electrical engineering.",
+    "response_time_seconds": 2.22
+  },
+  {
+    "question_number": 34,
+    "question": "For Food Technology (Ladies), how many categories have not available for both merit number and marks?",
+    "answer": "Cutoff summary - Ladies - Mechanical Engineering Group: Ladies Course: Mechanical Engineering Cutoff records: - Category VJ: merit marks 44.2599775; merit number 147689 - Category NT-1: merit marks 40.6822054; merit number 153830 - Category NT-2: merit marks 70.6189283; merit number 92076 - Category NT-3: merit marks Data not found; merit number Data not found - Category OBC: merit marks 68.4702591; merit number 97410 - Category SEBC: merit marks 73.1347962; merit number 85698 - Category OPEN: merit marks 75.4048881; merit number 78612 - Category SC: merit marks 36.226012; merit number 160408 - Category ST: merit marks Data not found; merit number Data not found - Category DEF: merit marks 52.3622324; merit number 133274 - Category TFWS: merit marks 83.1060395; merit number 56003 - Category EWS: merit marks 28.984931; merit number 171796\nCutoff summary - Ladies - Computer Science & Engineering Group: Ladies Course: Computer Science & Engineering Cutoff records: - Category VJ: merit marks 78.3357644; merit number 71097 - Category NT-1: merit marks 87.9289094; merit number 40771 - Category NT-2: merit marks 88.188033; merit number 39865 - Category NT-3: merit marks 79.9072027; merit number 65789 - Category OBC: merit marks 88.5573886; merit number 38717 - Category SEBC: merit marks 90.8739909; merit number 31233 - Category OPEN: merit marks 87.4115391; merit number 42276 - Category SC: merit marks 73.7482517; merit number 82901 - Category ST: merit marks Data not found; merit number Data not found - Category DEF: merit marks 81.940403; merit number 59819 - Category TFWS: merit marks 90.4253432; merit number 32568 - Category EWS: merit marks 71.5562808; merit number 89669",
+    "response_time_seconds": 2.17
+  },
+  {
+    "question_number": 35,
+    "question": "List all categories where CSE (General) merit data is available.",
+    "answer": "OPEN\n\nInformation not available in adcet_data.json for other categories under General for CSE merit data.",
+    "response_time_seconds": 2.52
+  },
+  {
+    "question_number": 36,
+    "question": "For Mechanical Engineering (Ladies), what is the sum of all available merit numbers?",
+    "answer": "The sum of all available merit numbers for mechanical engineering ladies is 1,054,457. This sum includes the following merit numbers:\n\n- Category VJ: 147,689\n- Category NT-1: 153,830\n- Category OBC: 97,410\n- Category SEBC: 85,698\n- Category OPEN: 78,612\n- Category SC: 160,408\n- Category DEF: 133,274\n- Category TFWS: 56,003\n- Category EWS: 171,796",
+    "response_time_seconds": 8.8
+  },
+  {
+    "question_number": 37,
+    "question": "Compare the NT-1 merit marks of CSE (General) and CSE (Ladies).",
+    "answer": "The NT-1 merit marks for Computer Science & Engineering for the Ladies group are 87.9289094.",
+    "response_time_seconds": 2.58
+  },
+  {
+    "question_number": 38,
+    "question": "In which category is the merit number of AIDS (General) lower than that of AIDS (Ladies)?",
+    "answer": "Cutoff summary - General - Robotics and Artificial Intelligence Group: General Course: Robotics and Artificial Intelligence Cutoff records: - Category VJ: merit marks 72.3760958; merit number 87088 - Category NT-1: merit marks 70.2033567; merit number 93475 - Category NT-2: merit marks 78.272232; merit number 71291 - Category NT-3: merit marks 69.0979021; merit number 95795 - Category OBC: merit marks 74.0630785; merit number 81961 - Category SEBC: merit marks 78.6137148; merit number 69461 - Category OPEN: merit marks 79.7185003; merit number 66597 - Category SC: merit marks 41.7471281; merit number 152802 - Category ST: merit marks 47.0502678; merit number 143884 - Category DEF: merit marks 18.5475444; merit number 185749 - Category TFWS: merit marks 85.6182564; merit number 48232 - Category EWS: merit marks 45.8266058; merit number 146092",
+    "response_time_seconds": 1.93
+  },
+  {
+    "question_number": 39,
+    "question": "For RAI (General), list the merit numbers for SC, ST, and OBC categories.",
+    "answer": "For RAI General list, the merit numbers for SC, ST, and OBC categories are:\n- Category SC: merit number 92865\n- Category ST: merit number 108416\n- Category OBC: merit number 52268",
+    "response_time_seconds": 4.49
+  },
+  {
+    "question_number": 40,
+    "question": "What is the difference in merit marks between VJ and OPEN for CSE (Ladies)?",
+    "answer": "The difference in merit marks between VJ and OPEN categories for CSE Ladies is:\n\nVJ category: 78.3357644\nOPEN category: 87.4115391\n\nDifference: 87.4115391 - 78.3357644 = 9.0757747",
+    "response_time_seconds": 5.4
+  },
+  {
+    "question_number": 41,
+    "question": "For Civil Engineering (General), what are the OBC and SEBC merit numbers?",
+    "answer": "Cutoff - General - Electrical Engineering - OBC Group: General Course: Electrical Engineering Category: OBC Merit marks: 70.6189283 Merit number: 92073",
+    "response_time_seconds": 1.62
+  },
+  {
+    "question_number": 42,
+    "question": "Which course any gender has the lowest merit number in TFWS?",
+    "answer": "Mechanical Engineering has the lowest merit number in TFWS for any gender, with a merit number of 56003.",
+    "response_time_seconds": 3.07
+  },
+  {
+    "question_number": 43,
+    "question": "For CS IOT (General), is the VJ merit number available? If yes, what is it?",
+    "answer": "Yes, the merit number for CS IoT General is available. The merit number is 95580.",
+    "response_time_seconds": 2.49
+  },
+  {
+    "question_number": 44,
+    "question": "For Aeronautical Engineering (Ladies), how many categories have a higher merit number than the corresponding General category?",
+    "answer": "Cutoff summary - Ladies - Mechanical Engineering Group: Ladies Course: Mechanical Engineering Cutoff records: - Category VJ: merit marks 44.2599775; merit number 147689 - Category NT-1: merit marks 40.6822054; merit number 153830 - Category NT-2: merit marks 70.6189283; merit number 92076 - Category NT-3: merit marks Data not found; merit number Data not found - Category OBC: merit marks 68.4702591; merit number 97410 - Category SEBC: merit marks 73.1347962; merit number 85698 - Category OPEN: merit marks 75.4048881; merit number 78612 - Category SC: merit marks 36.226012; merit number 160408 - Category ST: merit marks Data not found; merit number Data not found - Category DEF: merit marks 52.3622324; merit number 133274 - Category TFWS: merit marks 83.1060395; merit number 56003 - Category EWS: merit marks 28.984931; merit number 171796",
+    "response_time_seconds": 1.82
+  },
+  {
+    "question_number": 45,
+    "question": "List all categories where Food Technology (General) merit marks are above 90.",
+    "answer": "Cutoff summary - General - Computer Science & Engineering Group: General Course: Computer Science & Engineering Cutoff records: - Category VJ: merit marks 75.210728; merit number 79469 - Category NT-1: merit marks 83.3397246; merit number 55474 - Category NT-2: merit marks 86.675963; merit number 44738 - Category NT-3: merit marks 77.0149774; merit number 74119 - Category OBC: merit marks 84.3296195; merit number 52268 - Category SEBC: merit marks 86.2041018; merit number 46453 - Category OPEN: merit marks 87.1376478; merit number 43336 - Category SC: merit marks 70.5005064; merit number 92865 - Category ST: merit marks 63.6512871; merit number 108416 - Category DEF: merit marks 81.940403; merit number 59819 - Category TFWS: merit marks 90.4253432; merit number 32568 - Category EWS: merit marks 71.5562808; merit number 89669\nCutoff summary - General - Robotics and Artificial Intelligence Group: General Course: Robotics and Artificial Intelligence Cutoff records: - Category VJ: merit marks 72.3760958; merit number 87088 - Category NT-1: merit marks 70.2033567; merit number 93475 - Category NT-2: merit marks 78.272232; merit number 71291 - Category NT-3: merit marks 69.0979021; merit number 95795 - Category OBC: merit marks 74.0630785; merit number 81961 - Category SEBC: merit marks 78.6137148; merit number 69461 - Category OPEN: merit marks 79.7185003; merit number 66597 - Category SC: merit marks 41.7471281; merit number 152802 - Category ST: merit marks 47.0502678; merit number 143884 - Category DEF: merit marks 18.5475444; merit number 185749 - Category TFWS: merit marks 85.6182564; merit number 48232 - Category EWS: merit marks 45.8266058; merit number 146092\nCutoff summary - General - Mechanical Engineering Group: General Course: Mechanical Engineering Cutoff records: - Category VJ: merit marks 50.7016833; merit number 136349 - Category NT-1: merit marks 71.6607627; merit number 88893 - Category NT-2: merit marks 71.4842352; merit number 89834 - Category NT-3: merit marks 25.2088452; merit number 177063 - Category OBC: merit marks 65.3084343; merit number 105514 - Category SEBC: merit marks 75.4048881; merit number 78825 - Category OPEN: merit marks 76.9322569; merit number 74445 - Category SC: merit marks 40.6822054; merit number 154010 - Category ST: merit marks Data not found; merit number Data not found - Category DEF: merit marks 52.3622324; merit number 133274 - Category TFWS: merit marks 83.1060395; merit number 56003 - Category EWS: merit marks 28.984931; merit number 171796",
+    "response_time_seconds": 2.94
+  },
+  {
+    "question_number": 46,
+    "question": "For Electrical Engineering (Ladies), what is the highest merit marks available?",
+    "answer": "Cutoff summary - Ladies - Computer Science & Engineering Group: Ladies Course: Computer Science & Engineering Cutoff records: - Category VJ: merit marks 78.3357644; merit number 71097 - Category NT-1: merit marks 87.9289094; merit number 40771 - Category NT-2: merit marks 88.188033; merit number 39865 - Category NT-3: merit marks 79.9072027; merit number 65789 - Category OBC: merit marks 88.5573886; merit number 38717 - Category SEBC: merit marks 90.8739909; merit number 31233 - Category OPEN: merit marks 87.4115391; merit number 42276 - Category SC: merit marks 73.7482517; merit number 82901 - Category ST: merit marks Data not found; merit number Data not found - Category DEF: merit marks 81.940403; merit number 59819 - Category TFWS: merit marks 90.4253432; merit number 32568 - Category EWS: merit marks 71.5562808; merit number 89669",
+    "response_time_seconds": 1.82
+  },
+  {
+    "question_number": 47,
+    "question": "For AIDS (Ladies), what is the lowest merit number available?",
+    "answer": "The lowest merit number available for AIDs (Assured Income for Differently Abled) category is **Data not found**.\n\nFor other categories, the lowest merit number is **31233** for SEBC.",
+    "response_time_seconds": 3.86
+  },
+  {
+    "question_number": 48,
+    "question": "Which category gives the easiest admission lowest merit number for CSE (General)?",
+    "answer": "The category that gives the easiest admission with the lowest merit number for CSE General is **ST** with a merit number of **108416**.",
+    "response_time_seconds": 3.64
+  },
+  {
+    "question_number": 49,
+    "question": "For Mechanical Engineering (General), list the categories in increasing order of merit marks.",
+    "answer": "Category SC: merit marks 40.6822054;\nCategory VJ: merit marks 50.7016833;\nCategory DEF: merit marks 52.3622324;\nCategory OBC: merit marks 65.3084343;\nCategory OPEN: merit marks 76.9322569;\nCategory NT-1: merit marks 71.6607627;\nCategory NT-2: merit marks 71.4842352;\nCategory SEBC: merit marks 75.4048881;\nCategory TFWS: merit marks 83.1060395;\nCategory EWS: merit marks 28.984931;\nCategory NT-3: merit marks 25.2088452;",
+    "response_time_seconds": 11.08
+  },
+  {
+    "question_number": 50,
+    "question": "For RAI (General), what are the EWS and DEF merit marks? If not available, state it.",
+    "answer": "For RAI General, the EWS merit marks are 45.8266058.",
+    "response_time_seconds": 2.25
+  },
+  {
+    "question_number": 51,
+    "question": "For Civil Engineering (Ladies), is the ST merit number available? What is it?",
+    "answer": "Cutoff - Ladies - Mechanical Engineering - ST Group: Ladies Course: Mechanical Engineering Category: ST Merit marks: Data not found Merit number: Data not found",
+    "response_time_seconds": 1.32
+  },
+  {
+    "question_number": 52,
+    "question": "For CS IOT (Ladies), what are the OPEN merit number and marks?",
+    "answer": "The open merit number is 56189 and the merit marks are 83.0707711.",
+    "response_time_seconds": 2.7
+  },
+  {
+    "question_number": 53,
+    "question": "Compare the VJ and NT-1 merit numbers for AIDS (General).",
+    "answer": "Category VJ merit number: 87088  \nCategory NT-1 merit number: 93475",
+    "response_time_seconds": 2.65
+  },
+  {
+    "question_number": 54,
+    "question": "For Food Technology (General), what is the TFWS merit marks?",
+    "answer": "Cutoff - General - Robotics and Artificial Intelligence - TFWS Group: General Course: Robotics and Artificial Intelligence Category: TFWS Merit marks: 85.6182564 Merit number: 48232\nCutoff - General - Computer Science & Engineering - TFWS Group: General Course: Computer Science & Engineering Category: TFWS Merit marks: 90.4253432 Merit number: 32568\nCutoff - General - Mechanical Engineering - TFWS Group: General Course: Mechanical Engineering Category: TFWS Merit marks: 83.1060395 Merit number: 56003",
+    "response_time_seconds": 1.96
+  },
+  {
+    "question_number": 55,
+    "question": "Which course has the most categories with not available in Ladies group?",
+    "answer": "Mechanical Engineering has the most categories with data not available in ladies group, as both Computer Science & Engineering and Mechanical Engineering have their cutoffs listed under the ST category for ladies.",
+    "response_time_seconds": 2.8
+  },
+  {
+    "question_number": 56,
+    "question": "For Aeronautical Engineering (General), is the ST merit number available?",
+    "answer": "Cutoff - General - Computer Science & Engineering - ST Group: General Course: Computer Science & Engineering Category: ST Merit marks: 63.6512871 Merit number: 108416",
+    "response_time_seconds": 1.64
+  },
+  {
+    "question_number": 57,
+    "question": "For Electrical Engineering (General), what are the SEBC and OBC merit marks?",
+    "answer": "For electrical engineering general, the OBC merit marks are 70.6189283. \n\nInformation not available in adcet_data.json for SEBC merit marks.",
+    "response_time_seconds": 2.91
+  },
+  {
+    "question_number": 58,
+    "question": "For CSE (General), what is the NT-3 merit number?",
+    "answer": "The merit number for CSE General NT-3 is 74119.",
+    "response_time_seconds": 2.06
+  },
+  {
+    "question_number": 59,
+    "question": "For Mechanical Engineering (Ladies), what is the OBC merit number?",
+    "answer": "The merit number for mechanical engineering ladies in the OBC category is 97410.",
+    "response_time_seconds": 2.1
+  },
+  {
+    "question_number": 60,
+    "question": "List all categories with their merit numbers and marks for AIDS (Ladies).",
+    "answer": "Cutoff summary - General - Robotics and Artificial Intelligence Group: General Course: Robotics and Artificial Intelligence Cutoff records: - Category VJ: merit marks 72.3760958; merit number 87088 - Category NT-1: merit marks 70.2033567; merit number 93475 - Category NT-2: merit marks 78.272232; merit number 71291 - Category NT-3: merit marks 69.0979021; merit number 95795 - Category OBC: merit marks 74.0630785; merit number 81961 - Category SEBC: merit marks 78.6137148; merit number 69461 - Category OPEN: merit marks 79.7185003; merit number 66597 - Category SC: merit marks 41.7471281; merit number 152802 - Category ST: merit marks 47.0502678; merit number 143884 - Category DEF: merit marks 18.5475444; merit number 185749 - Category TFWS: merit marks 85.6182564; merit number 48232 - Category EWS: merit marks 45.8266058; merit number 146092",
+    "response_time_seconds": 1.87
+  }
+]

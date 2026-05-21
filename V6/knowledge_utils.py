@@ -52,6 +52,13 @@ CATEGORY_KEYWORDS = {
         "seat matrix",
         "documents",
         "document",
+        "certificate",
+        "certificates",
+        "marksheet",
+        "leaving certificate",
+        "transfer certificate",
+        "domicile",
+        "aadhar",
     ],
     "fees": [
         "fee",
@@ -60,6 +67,16 @@ CATEGORY_KEYWORDS = {
         "tuition",
         "development fees",
         "payment",
+        "college fees",
+    ],
+    "transport": [
+        "bus",
+        "route",
+        "routes",
+        "transport",
+        "stop",
+        "stops",
+        "monthly fee",
     ],
     "scholarship": [
         "scholarship",
@@ -80,9 +97,11 @@ CATEGORY_KEYWORDS = {
         "admission score",
         "admission marks",
         "minimum marks",
+        "minimum score",
         "minimum percentile",
         "required percentile",
         "required marks",
+        "required score",
         "eligibility score",
         "safe percentile",
         "chance of admission",
@@ -97,6 +116,9 @@ CATEGORY_KEYWORDS = {
         "mess",
         "boys hostel",
         "girls hostel",
+        "ladies hostel",
+        "new boys hostel",
+        "old boys hostel",
     ],
     "placement": [
         "placement",
@@ -145,8 +167,15 @@ QUERY_EXPANSIONS = {
     "aids": ["artificial intelligence and data science", "ai ds"],
     "iot": ["internet of things", "cyber security", "cybersecurity"],
     "fees": ["fee structure", "tuition fees"],
+    "college fees": ["fee structure", "tuition fees", "college fee"],
+    "bus": ["bus route", "transport", "monthly fee", "stop"],
+    "transport": ["bus route", "bus fee", "monthly fee", "stop"],
     "hostel": ["hostel accommodation", "mess facility"],
     "admission": ["eligibility", "management quota", "application"],
+    "document": ["documents", "certificate", "marksheet", "required documents", "admission documents"],
+    "documents": ["document", "certificate", "marksheet", "required documents", "admission documents"],
+    "certificate": ["documents", "certificates", "admission documents"],
+    "certificates": ["documents", "certificate", "admission documents"],
     "placement": ["placement records", "offers", "average salary", "highest salary"],
     "placements": ["placement", "placement records", "offers", "salary package"],
     "result": ["results", "marks"],
@@ -157,12 +186,14 @@ QUERY_EXPANSIONS = {
     "marks needed": ["cutoff", "cut off", "merit marks", "required percentile", "admission chance"],
     "score needed": ["cutoff", "cut off", "merit marks", "required percentile", "admission chance"],
     "get admission": ["cutoff", "cut off", "merit marks", "merit number"],
+    "seats":["intake"],
 }
 
 
 COMMON_QUERY_FIXES = {
     "abot": "about",
     "admisson": "admission",
+    "admissio": "admission",
     "admision": "admission",
     "admisison": "admission",
     "admsn": "admission",
@@ -201,7 +232,7 @@ DOMAIN_TERMS = {
     "fee", "fees", "food", "general", "hostel", "iot", "jee", "ladies",
     "marks", "mechanical", "merit", "mht", "nt1", "nt2", "nt3", "obc",
     "open", "percentile", "placement", "placements", "rank", "robotics",
-    "science", "score", "sebc", "st", "tech", "technology", "tfws", "vj",
+    "science", "score", "sebc", "st", "tech", "technology", "tfws", "transport", "vj",
 }
 
 PROTECTED_TOKENS = {
@@ -211,9 +242,18 @@ PROTECTED_TOKENS = {
 
 CUTOFF_INTENT_PATTERNS = [
     r"\b(cut\s*off|cutoff|cutoffs|merit|percentile|closing\s+rank|rank)\b",
-    r"\b(chance|safe|need|needed|required|require|score|marks|mark)\b.*\b(admission|admit|seat)\b",
-    r"\b(admission|admit|seat)\b.*\b(chance|safe|need|needed|required|require|score|marks|mark)\b",
+    r"\b(chance|safe)\b.*\b(admission|admit|seat)\b",
+    r"\b(admission|admit|seat)\b.*\b(chance|safe)\b",
+    r"\b(score|marks|mark|percentile|rank)\b.*\b(admission|admit|seat|required|require|needed|need|minimum)\b",
+    r"\b(admission|admit|seat|required|require|needed|need|minimum)\b.*\b(score|marks|mark|percentile|rank)\b",
     r"\b(how\s+much|how\s+many|minimum|required)\b.*\b(marks|score|percentile)\b",
+]
+
+DOCUMENT_REQUIREMENT_PATTERNS = [
+    r"\b(documents?|certificates?|marksheets?)\b",
+    r"\b(required|require|needed|need)\b.*\b(documents?|certificates?|marksheets?)\b",
+    r"\b(documents?|certificates?|marksheets?)\b.*\b(required|require|needed|need)\b",
+    r"\b(leaving|transfer|domicile|nationality|aadhar|aadhaar|migration|caste|validity|income)\s+certificate\b",
 ]
 
 QUALIFYING_CRITERIA_PATTERNS = [
@@ -295,7 +335,17 @@ def detect_query_category(query: str) -> str:
 
     explicit_cutoff = bool(re.search(r"\b(cut\s*off|cutoff|cutoffs|merit|rank|percentile)\b", normalized))
     cutoff_score = sum(1 for pattern in CUTOFF_INTENT_PATTERNS if re.search(pattern, normalized))
+    document_score = sum(1 for pattern in DOCUMENT_REQUIREMENT_PATTERNS if re.search(pattern, normalized))
     criteria_score = sum(1 for pattern in QUALIFYING_CRITERIA_PATTERNS if re.search(pattern, normalized))
+
+    if re.search(r"\b(hostel|accommodation|mess|boys hostel|girls hostel)\b", normalized):
+        return "hostel"
+
+    if re.search(r"\b(bus|route|routes|transport|stop|stops)\b", normalized):
+        return "transport"
+
+    if document_score:
+        return "admission"
 
     if criteria_score and not explicit_cutoff:
         return "admission"

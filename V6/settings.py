@@ -1,5 +1,6 @@
 import os
 from dataclasses import dataclass
+from pathlib import Path
 
 
 def load_dotenv(path: str = ".env") -> None:
@@ -31,6 +32,15 @@ def get_bool(name: str, default: bool) -> bool:
 
 
 load_dotenv()
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
+
+def resolve_project_path(path_value: str) -> str:
+    path = Path(path_value.strip())
+    if path.is_absolute():
+        return str(path)
+    return str((PROJECT_ROOT / path).resolve())
 
 
 @dataclass(frozen=True)
@@ -70,9 +80,11 @@ class RuntimeConfig:
         "ADCET_RERANKER_MODEL",
         "cross-encoder/ms-marco-MiniLM-L-6-v2",
     ).strip()
-    chroma_path: str = os.getenv("ADCET_CHROMA_PATH", "./chroma_db").strip()
+    hf_local_files_only: bool = get_bool("ADCET_HF_LOCAL_FILES_ONLY", False)
+    chroma_path: str = resolve_project_path(os.getenv("ADCET_CHROMA_PATH", "./chroma_db"))
     collection_name: str = os.getenv("ADCET_COLLECTION_NAME", "adcet_college").strip()
-    knowledge_json_path: str = os.getenv("ADCET_KNOWLEDGE_JSON", "./adcet_data.json").strip()
+    knowledge_json_path: str = resolve_project_path(os.getenv("ADCET_KNOWLEDGE_JSON", "./adcet_data.json"))
+    knowledge_dir: str = resolve_project_path(os.getenv("ADCET_KNOWLEDGE_DIR", "./data_file"))
 
     top_k: int = int(os.getenv("ADCET_TOP_K", "5"))
     retrieval_count: int = int(os.getenv("ADCET_RETRIEVAL_COUNT", "14"))

@@ -1,0 +1,650 @@
+[
+  {
+    "question_number": 1,
+    "question": "List all B.Tech programmes offered by the institute with their sanctioned intake.",
+    "answer": "- Mechanical Engineering: sanctioned intake 120\n- Computer Science & Engineering: sanctioned intake 180\n- Electrical Engineering: sanctioned intake 120\n- Civil Engineering: sanctioned intake 60\n- Aeronautical Engineering: sanctioned intake 60\n- Food Technology: sanctioned intake 30\n- Artificial Intelligence (AI) and Data Science: sanctioned intake 60\n- Computer Science & Engineering (Internet of Things and Cyber Security Including Block Chain Technology): sanctioned intake 60\n- Robotics and Artificial Intelligence: sanctioned intake 60",
+    "response_time_seconds": 16.02
+  },
+  {
+    "question_number": 2,
+    "question": "How many seats are available for Computer Science & Engineering?",
+    "answer": "The sanctioned intake for B.Tech - Computer Science & Engineering is 180 seats.",
+    "response_time_seconds": 2.48
+  },
+  {
+    "question_number": 3,
+    "question": "When did the Food Technology programme start?",
+    "answer": "The food technology programme started in 2019.",
+    "response_time_seconds": 1.88
+  },
+  {
+    "question_number": 4,
+    "question": "What is the programme code for Mechanical Engineering?",
+    "answer": "The programme code for mechanical engineering is 628361210.",
+    "response_time_seconds": 1.51
+  },
+  {
+    "question_number": 5,
+    "question": "Is there a Robotics and Artificial Intelligence programme, and what is its intake?",
+    "answer": "Yes, there is a Robotics and Artificial Intelligence programme. The sanctioned intake for this programme is 60 students.",
+    "response_time_seconds": 2.08
+  },
+  {
+    "question_number": 6,
+    "question": "Which B.Tech programme has the highest intake?",
+    "answer": "Computer Science & Engineering has the highest intake with 180 seats.",
+    "response_time_seconds": 1.72
+  },
+  {
+    "question_number": 7,
+    "question": "How many seats are there in Civil Engineering?",
+    "answer": "There are 60 sanctioned seats in civil engineering.",
+    "response_time_seconds": 1.5
+  },
+  {
+    "question_number": 8,
+    "question": "Does the institute offer BBA? What is the sanctioned intake?",
+    "answer": "The institute offers a BBA program with a sanctioned intake of 60.",
+    "response_time_seconds": 2.0
+  },
+  {
+    "question_number": 9,
+    "question": "In which year did the AI & Data Science programme start?",
+    "answer": "The AI and Data Science programme started in 2021.",
+    "response_time_seconds": 1.72
+  },
+  {
+    "question_number": 10,
+    "question": "List all M.Tech specialisations and their intake.",
+    "answer": "The M.Tech specialisations and their intakes are as follows:\n\n- Mechanical Engineering Design: sanctioned intake 12\n- Civil Engineering (Computer Aided Structural Engineering): sanctioned intake 12\n- Computer Science and Engineering: sanctioned intake 12\n- Electrical Power System: sanctioned intake 12",
+    "response_time_seconds": 3.97
+  },
+  {
+    "question_number": 11,
+    "question": "What is the programme code for Computer Science (IoT & Cyber Security)?",
+    "answer": "The programme code for Computer Science & Engineering (Internet of Things and Cyber Security Including Block Chain Technology) is 628392010.",
+    "response_time_seconds": 2.6
+  },
+  {
+    "question_number": 12,
+    "question": "How many undergraduate non-engineering programmes are offered?",
+    "answer": "Total undergraduate non-engineering programs offered: 2\n\n- BBA Bachelor of Business Administration: sanctioned intake 60\n- BCA Bachelor of Computer Application: sanctioned intake 60",
+    "response_time_seconds": 3.2
+  },
+  {
+    "question_number": 13,
+    "question": "Name the undergraduate non-engineering programmes.",
+    "answer": "Academic program - B.Tech - Mechanical Engineering Program level: undergraduate programs Program name: Mechanical Engineering Degree: B.Tech Program code: 628361210 Sanctioned intake: 120 Year started: 1999",
+    "response_time_seconds": 1.31
+  },
+  {
+    "question_number": 14,
+    "question": "Is there a BCA programme? What is its intake?",
+    "answer": "Yes, there is a BCA (Bachelor of Computer Application) program. Its sanctioned intake is 60 students.",
+    "response_time_seconds": 2.52
+  },
+  {
+    "question_number": 15,
+    "question": "Which programme started most recently?",
+    "answer": "The programme that started most recently is B.Tech - Robotics and Artificial Intelligence, which started in 2025.",
+    "response_time_seconds": 2.35
+  },
+  {
+    "question_number": 16,
+    "question": "Compare the intake of Mechanical Engineering and Electrical Engineering.",
+    "answer": "The sanctioned intake for Mechanical Engineering is 120, and the sanctioned intake for Electrical Engineering is also 120.",
+    "response_time_seconds": 2.71
+  },
+  {
+    "question_number": 17,
+    "question": "What documents are required for a First Year student under the OPEN category?",
+    "answer": "Required documents for a first year student under the open category are:\n- MHT-CET or JEE 2026 Marksheet: required\n- 10th Marksheet: required\n- 12th Marksheet: required\n- Diploma Marksheet: may be required (if applicable)\n- Leaving / Transfer Certificate: required\n- Domicile / Nationality Certificate: required\n- AADHAR Card (with linked mobile number): required\n- Income Certificate for 2025-26: required\n- Orphan Candidate Certificate: may be required (if applicable)\n- Disability Certificate (Online) from District Civil Surgeon: may be required (if applicable)\n- Defence Certificate: may be required (if applicable)\n- Domicile / Nationality Certificate (Father or Mother): may be required (if applicable)\n- Minority Certificate: may be required (if applicable)\n- अल्पभूधारक दाखला (तहसिलदार): may be required (if applicable",
+    "response_time_seconds": 12.51
+  },
+  {
+    "question_number": 18,
+    "question": "Is an AADHAR card mandatory for DSY admission?",
+    "answer": "Yes, an Aadhar card is mandatory for DSY admission.",
+    "response_time_seconds": 3.17
+  },
+  {
+    "question_number": 19,
+    "question": "Does an SC student need a Non-Creamy Layer Certificate for First Year admission?",
+    "answer": "Yes, an SC student needs a Caste Certificate and a Caste/Tribe Validity Certificate for first year admission.",
+    "response_time_seconds": 2.46
+  },
+  {
+    "question_number": 20,
+    "question": "Which documents are If Applicable for OBC category in First Year?",
+    "answer": "Admission documents for OBC category in first year (B.Tech / BBA / BCA) include:\n- MHT-CET or JEE 2026 Marksheet: required\n- 10th Marksheet: required\n- 12th Marksheet: required\n- Diploma Marksheet: may be required (if applicable)\n- Leaving / Transfer Certificate: required\n- Domicile / Nationality Certificate: required\n- AADHAR Card (with linked mobile number): required\n- Migration Certificate: may be required (if applicable)\n- Caste Certificate: required\n- Caste / Tribe Validity Certificate: required\n- Non-Creamy Layer Certificate (valid up to 31 March 2027): required\n- Income Certificate for 2025-26: required",
+    "response_time_seconds": 10.08
+  },
+  {
+    "question_number": 21,
+    "question": "List all documents that are NOT required for ST category in DSY.",
+    "answer": "Admission documents - First Year (B.Tech / BBA / BCA) - SC / ST Admission type: First Year (B.Tech / BBA / BCA) Category name: SC / ST Required documents: - MHT-CET or JEE 2026 Marksheet: required - 10th Marksheet: required - 12th Marksheet: required - Diploma Marksheet: may be required (if applicable) - Leaving / Transfer Certificate: required - Domicile / Nationality Certificate: required - AADHAR Card (with linked mobile number): required - Migration Certificate: may be required (if applicable) - Caste Certificate: required - Caste / Tribe Validity Certificate: required - Income Certificate for 2025-26: required - Orphan Candidate Certificate: may be required (if applicable) - Disability Certificate (Online) from District Civil Surgeon: may be required (if applicable) - Defence Certificate: may be required (if applicable) - Domicile / Nationality Certificate (Father or Mother): may be required (if applicable) - Minority Certificate: may be required (if applicable)",
+    "response_time_seconds": 2.01
+  },
+  {
+    "question_number": 22,
+    "question": "For DSY admission, what documents are mandatory for VJ/NT-1/NT-2/NT-3?",
+    "answer": "Admission documents mandatory for DSY (First Year) admission at VJ NT 1, NT2, and NT3 are:\n- MHT-CET or JEE 2026 Marksheet: required\n- 10th Marksheet: required\n- 12th Marksheet: required\n- Diploma Marksheet: may be required (if applicable)\n- Leaving / Transfer Certificate: required\n- Domicile / Nationality Certificate: required\n- AADHAR Card (with linked mobile number): required\n- Migration Certificate: may be required (if applicable)\n- Caste Certificate: required\n- Caste / Tribe Validity Certificate: required\n- Non-Creamy Layer Certificate (valid up to 31 March 2027): required\n- Income Certificate for 2025-26: required",
+    "response_time_seconds": 10.25
+  },
+  {
+    "question_number": 23,
+    "question": "Is a MHT-CET or JEE marksheet required for DSY?",
+    "answer": "The retrieved admission document data is category-wise. Please mention the category/caste, for example: OPEN / EBC / TFWS / EWS, VJ / VJNT / NT1 / NT2 / NT3, SC / ST, OBC / SBC / SEBC.",
+    "response_time_seconds": 0.88
+  },
+  {
+    "question_number": 24,
+    "question": "Which document is required for EWS category but NOT for SC/ST?",
+    "answer": "Admission documents - First Year (B.Tech / BBA / BCA) - SC / ST Admission type: First Year (B.Tech / BBA / BCA) Category name: SC / ST Required documents: - MHT-CET or JEE 2026 Marksheet: required - 10th Marksheet: required - 12th Marksheet: required - Diploma Marksheet: may be required (if applicable) - Leaving / Transfer Certificate: required - Domicile / Nationality Certificate: required - AADHAR Card (with linked mobile number): required - Migration Certificate: may be required (if applicable) - Caste Certificate: required - Caste / Tribe Validity Certificate: required - Income Certificate for 2025-26: required - Orphan Candidate Certificate: may be required (if applicable) - Disability Certificate (Online) from District Civil Surgeon: may be required (if applicable) - Defence Certificate: may be required (if applicable) - Domicile / Nationality Certificate (Father or Mother): may be required (if applicable) - Minority Certificate: may be required (if applicable)",
+    "response_time_seconds": 2.08
+  },
+  {
+    "question_number": 25,
+    "question": "Does a First Year student need a Migration Certificate?",
+    "answer": "The retrieved admission document data is category-wise. Please mention the category/caste, for example: SC / ST, VJ / VJNT / NT1 / NT2 / NT3, OBC / SBC / SEBC, OPEN / EBC / TFWS / EWS.",
+    "response_time_seconds": 0.7
+  },
+  {
+    "question_number": 26,
+    "question": "What income certificate is required, and for which year?",
+    "answer": "The retrieved admission document data is category-wise. Please mention the category/caste, for example: OPEN / EBC / TFWS / EWS, SC / ST, VJ / VJNT / NT1 / NT2 / NT3, OBC / SBC / SEBC.",
+    "response_time_seconds": 0.72
+  },
+  {
+    "question_number": 27,
+    "question": "Is an orphan certificate always required, or only if applicable?",
+    "answer": "The retrieved admission document data is category-wise. Please mention the category/caste, for example: SC / ST, OPEN / EBC / TFWS / EWS, OBC / SBC / SEBC, VJ / VJNT / NT1 / NT2 / NT3.",
+    "response_time_seconds": 0.69
+  },
+  {
+    "question_number": 28,
+    "question": "For DSY, does an SEBC student need a Caste Validity Certificate?",
+    "answer": "Yes, an SEBC student needs a Caste / Tribe Validity Certificate.",
+    "response_time_seconds": 2.35
+  },
+  {
+    "question_number": 29,
+    "question": "Which categories must provide a Non-Creamy Layer Certificate for DSY?",
+    "answer": "The retrieved admission document data is category-wise. Please mention the category/caste, for example: OPEN / EBC / TFWS / EWS, OBC / SBC / SEBC, VJ / VJNT / NT1 / NT2 / NT3, SC / ST.",
+    "response_time_seconds": 0.72
+  },
+  {
+    "question_number": 30,
+    "question": "Is a Defence Certificate required for all categories?",
+    "answer": "The retrieved admission document data is category-wise. Please mention the category/caste, for example: SC / ST, OPEN / EBC / TFWS / EWS, OBC / SBC / SEBC, VJ / VJNT / NT1 / NT2 / NT3.",
+    "response_time_seconds": 0.68
+  },
+  {
+    "question_number": 31,
+    "question": "List the documents needed exclusively for SC/ST students in First Year.",
+    "answer": "Required documents for SC/ST students in First Year (B.Tech / BBA / BCA):\n- MHT-CET or JEE 2026 Marksheet\n- 10th Marksheet\n- 12th Marksheet\n- Caste Certificate\n- Caste / Tribe Validity Certificate\n- Income Certificate for 2025-26\n- Domicile / Nationality Certificate\n- AADHAR Card (with linked mobile number)",
+    "response_time_seconds": 6.58
+  },
+  {
+    "question_number": 32,
+    "question": "How many students were placed from Computer Science Engineering in 2024-25?",
+    "answer": "90 students were placed from Computer Science Engineering in 2024-25.",
+    "response_time_seconds": 2.41
+  },
+  {
+    "question_number": 33,
+    "question": "What was the highest salary for Mechanical Engineering in 2023-24?",
+    "answer": "The highest salary for mechanical engineering in 2023-24 was 33 LPA.",
+    "response_time_seconds": 1.97
+  },
+  {
+    "question_number": 34,
+    "question": "In which academic year did Electrical Engineering have the most placed students?",
+    "answer": "2025-26",
+    "response_time_seconds": 1.5
+  },
+  {
+    "question_number": 35,
+    "question": "What is the average salary for AI & Data Science in 2025-26?",
+    "answer": "The average salary for Artificial Intelligence and Data Science Engineering in the academic year 2025-26 is 5.2 LPA.",
+    "response_time_seconds": 2.44
+  },
+  {
+    "question_number": 36,
+    "question": "How many total students sat in 2024-25, and how many were placed?",
+    "answer": "Total students in 2024-25: 620\nNumber of students placed in 2024-25: 511",
+    "response_time_seconds": 3.22
+  },
+  {
+    "question_number": 37,
+    "question": "Which branch had the highest average salary in 2023-24?",
+    "answer": "Computer Science Engineering had the highest average salary of 5 LPA in 2023-24.",
+    "response_time_seconds": 2.65
+  },
+  {
+    "question_number": 38,
+    "question": "What is the highest salary ever recorded any branch any year?",
+    "answer": "The highest salary ever recorded is LPA 12.34, which occurred in the Computer Science Engineering branch during the 2025-26 academic year.",
+    "response_time_seconds": 3.35
+  },
+  {
+    "question_number": 39,
+    "question": "Compare the number of students placed in Civil Engineering across the three years.",
+    "answer": "The number of students placed in Civil Engineering across the three years is as follows:\n- 2023-24: 99 students placed\n- 2024-25: 30 students placed\n- 2025-26: 37 students placed",
+    "response_time_seconds": 3.96
+  },
+  {
+    "question_number": 40,
+    "question": "For Food Technology, what was the average salary in 2025-26?",
+    "answer": "The average salary for the Food Technology branch in 2025-26 was 4 LPA.",
+    "response_time_seconds": 1.95
+  },
+  {
+    "question_number": 41,
+    "question": "In 2024-25, which branch had the lowest placement numbers?",
+    "answer": "Placement summary - Civil Engineering Branch: Civil Engineering Placement summary by academic year: - 2025-26: total students 34; students placed/offers 37; average salary LPA 5; highest salary LPA 6.5 - 2024-25: total students 70; students placed/offers 30; average salary LPA 4.8; highest salary LPA 7.5 - 2023-24: total students 73; students placed/offers 99; average salary LPA 4.5; highest salary LPA 6\nPlacement summary - Artifical Inteligence and Data Science Engg Branch: Artifical Inteligence and Data Science Engg Placement summary by academic year: - 2025-26: total students 73; students placed/offers 43; average salary LPA 5.2; highest salary LPA 7.5 - 2024-25: total students 70; students placed/offers 47; average salary LPA 5.2; highest salary LPA 6 - 2023-24: total students Not available; students placed/offers Not available; average salary LPA Not available; highest salary LPA Not available\nPlacement summary - Electrical Engineering Branch: Electrical Engineering Placement summary by academic year: - 2025-26: total students 153; students placed/offers 171; average salary LPA 5; highest salary LPA 6.5 - 2024-25: total students 146; students placed/offers 127; average salary LPA 5.2; highest salary LPA 9 - 2023-24: total students 145; students placed/offers 117; average salary LPA 4.8; highest salary LPA 9",
+    "response_time_seconds": 2.19
+  },
+  {
+    "question_number": 42,
+    "question": "List the branches with missing placement data in 2023-24.",
+    "answer": "Artifical Inteligence and Data Science Engg",
+    "response_time_seconds": 1.46
+  },
+  {
+    "question_number": 43,
+    "question": "How many companies visited in 2025-26?",
+    "answer": "Company visit - 2024-25 - TCS Academic year: 2024-25 Company: TCS Sector: IT Eligible branches: All Branches\nCompany visit - 2024-25 - Thoughtworks Academic year: 2024-25 Company: Thoughtworks Sector: IT Eligible branches: Computer Science & Engineering, IoT & Cyber Security, AI & Data Science\nCompany visit - 2024-25 - Cognizant Academic year: 2024-25 Company: Cognizant Sector: IT Eligible branches: All Branches",
+    "response_time_seconds": 1.69
+  },
+  {
+    "question_number": 44,
+    "question": "What is the average salary of Computer Science IoT & Cyber Security in 2024-25?",
+    "answer": "The average salary for the Computer Science IoT & cybersecurity Engineering branch in 2024-25 is 5.2 LPA.",
+    "response_time_seconds": 2.29
+  },
+  {
+    "question_number": 45,
+    "question": "Did Aeronautical Engineering see improvement in placements from 2023-24 to 2024-25?",
+    "answer": "Placement summary - Aeronautical Engineergin\nBranch: Aeronautical Engineergin\nFrom the data provided:\n- In 2023-24, there were 55 total students with all placed.\n- In 2024-25, there were 33 total students with 28 placed.\n- In 2025-26, there were 48 total students with 33 placed.\n\nThe number of students placed decreased from 55 in 2023-24 to 33 in 2024-25. However, the average salary LPA remained the same at 4.6 LPA for both 2024-25 and 2023-24, while the highest salary LPA decreased from 5.5 in 2023-24 to 4.5 in 2024-25.\n\nThere does not appear to be an improvement in placements from 2023-24 to",
+    "response_time_seconds": 11.91
+  },
+  {
+    "question_number": 46,
+    "question": "What was the total number of offers made in 2025-26?",
+    "answer": "The total number of offers made in 2025-26 was 588.",
+    "response_time_seconds": 2.45
+  },
+  {
+    "question_number": 47,
+    "question": "Which companies visited the campus in 2022-23 and allowed Civil Engineering students?",
+    "answer": "Indovance (Core) visited the campus in 2022-23 and allowed civil engineering students.",
+    "response_time_seconds": 2.47
+  },
+  {
+    "question_number": 48,
+    "question": "Did TCS visit in 2024-25?",
+    "answer": "TCS visited for the academic year 2024-25.",
+    "response_time_seconds": 1.61
+  },
+  {
+    "question_number": 49,
+    "question": "Which branches were eligible for TCS in 2024-25?",
+    "answer": "All branches were eligible for TCS in 2024-25.",
+    "response_time_seconds": 1.61
+  },
+  {
+    "question_number": 50,
+    "question": "List all IT companies that visited in 2023-24.",
+    "answer": "- KPIT\n- Worley\n- Hexaware\n- Wipro-Pari\n- Bharat Forge\n- Schneider Electric\n- Accenture\n- Persistent\n- Barry Callebaut\n- Hi Tech Solution\n- DC Drones\n- Maker Strive\n- BVG Group\n- Micron\n- Tech Mahindra\n- Adani\n- Amazon\n- TCS\n- Bosch\n- Capgemini",
+    "response_time_seconds": 5.56
+  },
+  {
+    "question_number": 51,
+    "question": "Which core companies recruited Mechanical Engineering students in 2024-25?",
+    "answer": "Company visits - 2024-25 - Mechanical Engineering Academic year: 2024-25 Eligible branch: Mechanical Engineering Companies: - Atlas Copco (Core) - Schneider Electric (Core) - Technimont (Core) - Forvia (Core) - Bharat Forge (Core) - L&T Technology Services (Core)",
+    "response_time_seconds": 1.21
+  },
+  {
+    "question_number": 52,
+    "question": "Did any company recruit exclusively Aeronautical Engineering students?",
+    "answer": "Company visits - 2023-24 - Aeronautical Engineering Academic year: 2023-24 Eligible branch: Aeronautical Engineering Companies: - Hi Tech Solution (Core) - DC Drones (Core) - Maker Strive (Core) - BVG Group (Core)\nCompany visits - 2022-23 - Aeronautical Engineering Academic year: 2022-23 Eligible branch: Aeronautical Engineering Companies: - Hi Tech (Core) - Paras Aerospace (Core)\nCompany visits - 2024-25 - Aeronautical Engineering Academic year: 2024-25 Eligible branch: Aeronautical Engineering Companies: - Tata Technology (Core)",
+    "response_time_seconds": 1.56
+  },
+  {
+    "question_number": 53,
+    "question": "Name the companies that visited in 2022-23 and were open to All Branch.",
+    "answer": "The companies that visited in 2022-23 and were open to all branches are:\n- TCS (IT)\n- Capgemini (IT)\n- Kreeti Technology (IT)\n- National Payments Corporation of India (Core)\n- Neosoft (IT)\n- Aloha (IT)\n- Accelya (Service)",
+    "response_time_seconds": 4.27
+  },
+  {
+    "question_number": 54,
+    "question": "How many companies visited in 2023-24?",
+    "answer": "8 companies visited in 2023-24.",
+    "response_time_seconds": 2.06
+  },
+  {
+    "question_number": 55,
+    "question": "Which companies allowed Electrical Engineering students in 2024-25?",
+    "answer": "Hexaware (IT)\nSchneider Electric (Core)\nTechnimont (Core)\nForvia (Core)\nBharat Forge (Core)\nSiemens (Core)",
+    "response_time_seconds": 2.26
+  },
+  {
+    "question_number": 56,
+    "question": "Did Deloitte visit?",
+    "answer": "Company visit - 2022-23 - Deloitte\nAcademic year: 2022-23\nCompany: Deloitte\nSector: IT\nEligible branches: Computer Science & Engineering, Electrical Engineering",
+    "response_time_seconds": 3.69
+  },
+  {
+    "question_number": 57,
+    "question": "In which years did Deloitte visit?",
+    "answer": "In the academic year 2022-23, Deloitte visited.",
+    "response_time_seconds": 1.98
+  },
+  {
+    "question_number": 58,
+    "question": "Which companies in 2022-23 only recruited from CSE?",
+    "answer": "KPIT (Core)  \nTech Mahindra (IT)  \nDeltaX (IT)  \nNEC Software (IT)  \nGoldman Sachs (IT)  \nIBM (IT)  \nDeloitte (IT)  \nHexaware (IT)  \nMahindra & Mahindra (Core)  \nAtos (IT)  \nHCL Tech (IT)  \nVolkswagen (IT)",
+    "response_time_seconds": 5.0
+  },
+  {
+    "question_number": 59,
+    "question": "Was there any company that hired only female students?",
+    "answer": "Yes, there was a company that hired only female students. Faurecia hired only female students in the Mechanical Engineering branch during the academic year 2022-23.",
+    "response_time_seconds": 2.81
+  },
+  {
+    "question_number": 60,
+    "question": "List the companies that visited in 2024-25 and accepted AI & Data Science students.",
+    "answer": "The companies that visited in 2024-25 and accepted AI and Data Science students are:\n\n- Hexaware (IT)\n- Tech Mahindra (IT)\n- KPIT (IT)\n- Zensar (IT)\n- Capgemini (IT)\n- Thoughtworks (IT)\n- Test Yantra (IT)\n- Intellisys (IT)",
+    "response_time_seconds": 4.81
+  },
+  {
+    "question_number": 61,
+    "question": "Compare the number of companies that visited in 2022-23 vs 2023-24.",
+    "answer": "In the academic year 2023-24, there were 4 companies that visited. \n\nFor comparison, please refer to the next chunk for the number of company visits in the academic year 2022-23.\n\n[CHUNK 2]\nTITLE: Company visits - 2022-23 - All Branches\nCATEGORY: placement\nSOURCE: company_visited.json\nRELEVANCE: 0.863\nMETADATA:\nacademic_year: 2022-23\neligible_branches: All Branches\nrecord_kind: company_visit_branch_summary\nCONTENT:\nCompany visits - 2022-23 - All Branches\nAcademic year: 2022-23\nEligible branch: All Branches\nCompanies:\n- Accenture (IT)\n- Amazon (Non-IT)\n- TCS (IT)\n- Capgemini (IT)\n- Wipro (IT)\n\nAnswer: In the academic year 2022-23, there were 5 companies",
+    "response_time_seconds": 11.63
+  },
+  {
+    "question_number": 62,
+    "question": "Did Amazon visit?",
+    "answer": "Amazon visited in the academic year 2023-24.",
+    "response_time_seconds": 1.86
+  },
+  {
+    "question_number": 63,
+    "question": "Which branches were eligible for Amazon?",
+    "answer": "All branches were eligible for Amazon in the academic year 2023-24.",
+    "response_time_seconds": 2.37
+  },
+  {
+    "question_number": 64,
+    "question": "Which company had the broadest eligibility in 2024-25?",
+    "answer": "Company visits - 2024-25 - All Branches Academic year: 2024-25 Eligible branch: All Branches Companies: - Accenture (IT) - Cognizant (IT) - TCS (IT)",
+    "response_time_seconds": 1.23
+  },
+  {
+    "question_number": 65,
+    "question": "How much is the monthly bus fee from Ashta to Amnapur?",
+    "answer": "The monthly bus fee from Ashta to Amnapur is 1300.",
+    "response_time_seconds": 1.87
+  },
+  {
+    "question_number": 66,
+    "question": "List all stops on the Ashta-Miraj route with their fees.",
+    "answer": "- Karandwadi/Tung/Mirajwadi: monthly fee 1000\n- Kasbe Digraj: monthly fee 1200\n- Karnal Chowk: monthly fee 2000\n- Sangli: monthly fee 2000\n- Vijaynagar: monthly fee 2000\n- Miraj: monthly fee 2300",
+    "response_time_seconds": 5.03
+  },
+  {
+    "question_number": 67,
+    "question": "What is the total monthly fee for a student travelling from Karad?",
+    "answer": "The total monthly fee for a student travelling from Karad is 3300.",
+    "response_time_seconds": 1.64
+  },
+  {
+    "question_number": 68,
+    "question": "Which route has the cheapest stop, and what is the fee?",
+    "answer": "The cheapest stop is Top with a monthly fee of 2500.",
+    "response_time_seconds": 1.47
+  },
+  {
+    "question_number": 69,
+    "question": "How many stops are there on the Ashta-Tasgaon route?",
+    "answer": "There are 6 stops on the Ashta-Tasgaon route.",
+    "response_time_seconds": 1.65
+  },
+  {
+    "question_number": 70,
+    "question": "What is the fee for Kirloskarwadi on the Ashta-Dudhondi route?",
+    "answer": "The monthly fee for the bus stop at Kirloskarwadi on the Ashta dudhondi route is 1900.",
+    "response_time_seconds": 2.31
+  },
+  {
+    "question_number": 71,
+    "question": "Is there a direct bus from Ashta to Kolhapur?",
+    "answer": "Yes, there is a direct bus from Ashta to Kolhapur. The route includes several stops such as Bgani, Shigaon, Vadgaon, Top, Shiye Phata, and Shiroli before reaching Kolhapur.",
+    "response_time_seconds": 3.27
+  },
+  {
+    "question_number": 72,
+    "question": "What is the fee from Ashta to Kolhapur?",
+    "answer": "The monthly fee from Ashta to Kolhapur is 3000.",
+    "response_time_seconds": 1.75
+  },
+  {
+    "question_number": 73,
+    "question": "Which stop costs 3300?",
+    "answer": "Karad costs 3300.",
+    "response_time_seconds": 1.61
+  },
+  {
+    "question_number": 74,
+    "question": "Compare the fees of Ashta-Palus and Ashta-Shirala routes.",
+    "answer": "Bus fee - Ashta-Palus - Ashta Bus route: Ashta-Palus Stop name: Ashta Monthly fee: 500",
+    "response_time_seconds": 1.17
+  },
+  {
+    "question_number": 75,
+    "question": "What is the farthest highest fee stop on the Ashta-Dudhondi route?",
+    "answer": "The farthest highest fee stop on the Ashta-Dudhondi route is Dudhondi with a monthly fee of 2300.",
+    "response_time_seconds": 2.75
+  },
+  {
+    "question_number": 76,
+    "question": "Does the Ashta-Miraj route pass through Sangli?",
+    "answer": "Yes, the Ashta-Miraj route passes through Sangli.",
+    "response_time_seconds": 1.5
+  },
+  {
+    "question_number": 77,
+    "question": "What is the fee for Sangli on the Ashta-Miraj route?",
+    "answer": "The monthly fee for Sangli on the Ashta-Miraj route is 2000.",
+    "response_time_seconds": 1.83
+  },
+  {
+    "question_number": 78,
+    "question": "List all routes that have a stop at Kirloskarwadi.",
+    "answer": "Routes that have a stop at Kirloskarwadi are Ashta-Dudhondi and Ashta-Palus.",
+    "response_time_seconds": 2.18
+  },
+  {
+    "question_number": 79,
+    "question": "What is the fee for Bhilawadi on the Ashta-Tasgaon route?",
+    "answer": "The monthly fee for Bhilawadi on the Ashta Tasgaon route is 700.",
+    "response_time_seconds": 1.85
+  },
+  {
+    "question_number": 80,
+    "question": "How many routes originate from Ashta?",
+    "answer": "Bus fee - Ashta-Palus - Ashta Bus route: Ashta-Palus Stop name: Ashta Monthly fee: 500",
+    "response_time_seconds": 1.11
+  },
+  {
+    "question_number": 81,
+    "question": "Is there a bus stop named Red?",
+    "answer": "Yes, there is a bus stop named Red.",
+    "response_time_seconds": 1.35
+  },
+  {
+    "question_number": 82,
+    "question": "On which route is the Red stop and what is the fee?",
+    "answer": "The red stop is on the Ashta-Shirala route, and the monthly fee for this stop is 2000.",
+    "response_time_seconds": 2.05
+  },
+  {
+    "question_number": 83,
+    "question": "What is the VJ category cut-off merit number for CSE General?",
+    "answer": "The VJ category cut off merit number for CSE general is 79469.",
+    "response_time_seconds": 2.08
+  },
+  {
+    "question_number": 84,
+    "question": "For Ladies in Mechanical Engineering, what is the NT-3 cut-off?",
+    "answer": "Cutoff - Ladies - Mechanical Engineering - NT-3 Group: Ladies Course: Mechanical Engineering Category: NT-3 Merit marks: Data not found Merit number: Data not found",
+    "response_time_seconds": 1.69
+  },
+  {
+    "question_number": 85,
+    "question": "Which category has the highest merit marks for CSE General?",
+    "answer": "The category with the highest merit marks for CSE General is **OPEN**, with a merit mark of **87.1376478**.",
+    "response_time_seconds": 2.85
+  },
+  {
+    "question_number": 86,
+    "question": "Does AI & Data Science have a cut-off for ST category Ladies?",
+    "answer": "Cutoff summary - Ladies - Computer Science & Engineering Group: Ladies Course: Computer Science & Engineering Cutoff records: - Category VJ: merit marks 78.3357644; merit number 71097 - Category NT-1: merit marks 87.9289094; merit number 40771 - Category NT-2: merit marks 88.188033; merit number 39865 - Category NT-3: merit marks 79.9072027; merit number 65789 - Category OBC: merit marks 88.5573886; merit number 38717 - Category SEBC: merit marks 90.8739909; merit number 31233 - Category OPEN: merit marks 87.4115391; merit number 42276 - Category SC: merit marks 73.7482517; merit number 82901 - Category ST: merit marks Data not found; merit number Data not found - Category DEF: merit marks 81.940403; merit number 59819 - Category TFWS: merit marks 90.4253432; merit number 32568 - Category EWS: merit marks 71.5562808; merit number 89669",
+    "response_time_seconds": 1.87
+  },
+  {
+    "question_number": 87,
+    "question": "What is the SEBC merit number for Food Technology General?",
+    "answer": "Cutoff - General - Robotics and Artificial Intelligence - SEBC Group: General Course: Robotics and Artificial Intelligence Category: SEBC Merit marks: 78.6137148 Merit number: 69461\nCutoff - General - Computer Science & Engineering - SEBC Group: General Course: Computer Science & Engineering Category: SEBC Merit marks: 86.2041018 Merit number: 46453\nCutoff - General - Mechanical Engineering - SEBC Group: General Course: Mechanical Engineering Category: SEBC Merit marks: 75.4048881 Merit number: 78825",
+    "response_time_seconds": 2.04
+  },
+  {
+    "question_number": 88,
+    "question": "Compare the OPEN category cut-offs for Mechanical Engineering and Civil Engineering Ladies.",
+    "answer": "The open category cut off for mechanical engineering (ladies) is 75.4048881 merit marks. Information about civil engineering is not available in the provided context.",
+    "response_time_seconds": 2.77
+  },
+  {
+    "question_number": 89,
+    "question": "For which courses is data not available in the TFWS category?",
+    "answer": "Cutoff - General - Computer Science (IoT & Cyber Security) - TFWS Group: General Course: Computer Science (IoT & Cyber Security) Category: TFWS Merit marks: 83.880237 Merit number: 53725\nCutoff - General - Robotics and Artificial Intelligence - TFWS Group: General Course: Robotics and Artificial Intelligence Category: TFWS Merit marks: 85.6182564 Merit number: 48232\nCutoff - General - Computer Science & Engineering - TFWS Group: General Course: Computer Science & Engineering Category: TFWS Merit marks: 90.4253432 Merit number: 32568",
+    "response_time_seconds": 1.89
+  },
+  {
+    "question_number": 90,
+    "question": "What is the cut-off for Robotics and Artificial Intelligence General under NT-2?",
+    "answer": "The merit mark needed for admission to Robotics and Artificial Intelligence general under NT-2 is 78.272232.",
+    "response_time_seconds": 2.53
+  },
+  {
+    "question_number": 91,
+    "question": "List all categories where CSE Ladies has a cut-off of not available.",
+    "answer": "Cutoff summary - Ladies - Computer Science & Engineering Group: Ladies Course: Computer Science & Engineering Cutoff records: - Category VJ: merit marks 78.3357644; merit number 71097 - Category NT-1: merit marks 87.9289094; merit number 40771 - Category NT-2: merit marks 88.188033; merit number 39865 - Category NT-3: merit marks 79.9072027; merit number 65789 - Category OBC: merit marks 88.5573886; merit number 38717 - Category SEBC: merit marks 90.8739909; merit number 31233 - Category OPEN: merit marks 87.4115391; merit number 42276 - Category SC: merit marks 73.7482517; merit number 82901 - Category ST: merit marks Data not found; merit number Data not found - Category DEF: merit marks 81.940403; merit number 59819 - Category TFWS: merit marks 90.4253432; merit number 32568 - Category EWS: merit marks 71.5562808; merit number 89669",
+    "response_time_seconds": 1.92
+  },
+  {
+    "question_number": 92,
+    "question": "What are the merit marks for Electrical Engineering General under OBC?",
+    "answer": "The merit marks for electrical engineering general under obc is 70.6189283.",
+    "response_time_seconds": 2.16
+  },
+  {
+    "question_number": 93,
+    "question": "Which branch has the lowest merit marks for SC category General?",
+    "answer": "Mechanical Engineering has the lowest merit marks for SC category general with 40.6822054 marks.",
+    "response_time_seconds": 2.6
+  },
+  {
+    "question_number": 94,
+    "question": "For Ladies in Aeronautical Engineering, what is the highest cut-off merit number?",
+    "answer": "Cutoff - Ladies - Mechanical Engineering - NT-1 Group: Ladies Course: Mechanical Engineering Category: NT-1 Merit marks: 40.6822054 Merit number: 153830\nCutoff - Ladies - Mechanical Engineering - OPEN Group: Ladies Course: Mechanical Engineering Category: OPEN Merit marks: 75.4048881 Merit number: 78612\nCutoff - Ladies - Mechanical Engineering - NT-2 Group: Ladies Course: Mechanical Engineering Category: NT-2 Merit marks: 70.6189283 Merit number: 92076",
+    "response_time_seconds": 1.86
+  },
+  {
+    "question_number": 95,
+    "question": "Is there any branch where DEF category data is available?",
+    "answer": "Yes, there is branch data available for the DEF category. The branches with available DEF category data include:\n\n- Computer Science (IoT & Cyber Security)\n- Electrical Engineering\n- Robotics and Artificial Intelligence\n- Computer Science & Engineering\n- Mechanical Engineering",
+    "response_time_seconds": 3.85
+  },
+  {
+    "question_number": 96,
+    "question": "What is the EWS cut-off for Mechanical Engineering Ladies?",
+    "answer": "The merit mark needed for EWS category candidates applying for mechanical engineering (ladies) is 28.984931.",
+    "response_time_seconds": 2.44
+  },
+  {
+    "question_number": 97,
+    "question": "Compare the VJ and NT-1 cut-offs for AIDS General.",
+    "answer": "Category VJ: merit marks 72.3760958  \nCategory NT-1: merit marks 70.2033567  \n\nThe cutoff for VJ is higher than that for NT-1 by approximately 2.1727491 merit marks.",
+    "response_time_seconds": 4.55
+  },
+  {
+    "question_number": 98,
+    "question": "For which course does the Ladies category have a better lower merit number than General in VJ?",
+    "answer": "Computer Science & Engineering\n\nThe merit number for the VJ category in Computer Science & Engineering is 71097, which is lower than the merit number for the general (OPEN) category, which is 42276.",
+    "response_time_seconds": 4.04
+  },
+  {
+    "question_number": 99,
+    "question": "List all categories available for Food Technology Ladies with their merit marks.",
+    "answer": "Cutoff summary - Ladies - Computer Science & Engineering Group: Ladies Course: Computer Science & Engineering Cutoff records: - Category VJ: merit marks 78.3357644; merit number 71097 - Category NT-1: merit marks 87.9289094; merit number 40771 - Category NT-2: merit marks 88.188033; merit number 39865 - Category NT-3: merit marks 79.9072027; merit number 65789 - Category OBC: merit marks 88.5573886; merit number 38717 - Category SEBC: merit marks 90.8739909; merit number 31233 - Category OPEN: merit marks 87.4115391; merit number 42276 - Category SC: merit marks 73.7482517; merit number 82901 - Category ST: merit marks Data not found; merit number Data not found - Category DEF: merit marks 81.940403; merit number 59819 - Category TFWS: merit marks 90.4253432; merit number 32568 - Category EWS: merit marks 71.5562808; merit number 89669\nCutoff summary - Ladies - Mechanical Engineering Group: Ladies Course: Mechanical Engineering Cutoff records: - Category VJ: merit marks 44.2599775; merit number 147689 - Category NT-1: merit marks 40.6822054; merit number 153830 - Category NT-2: merit marks 70.6189283; merit number 92076 - Category NT-3: merit marks Data not found; merit number Data not found - Category OBC: merit marks 68.4702591; merit number 97410 - Category SEBC: merit marks 73.1347962; merit number 85698 - Category OPEN: merit marks 75.4048881; merit number 78612 - Category SC: merit marks 36.226012; merit number 160408 - Category ST: merit marks Data not found; merit number Data not found - Category DEF: merit marks 52.3622324; merit number 133274 - Category TFWS: merit marks 83.1060395; merit number 56003 - Category EWS: merit marks 28.984931; merit number 171796",
+    "response_time_seconds": 2.22
+  },
+  {
+    "question_number": 100,
+    "question": "What is the TFWS merit number for Civil Engineering Ladies?",
+    "answer": "Cutoff - Ladies - Mechanical Engineering - TFWS Group: Ladies Course: Mechanical Engineering Category: TFWS Merit marks: 83.1060395 Merit number: 56003",
+    "response_time_seconds": 1.53
+  },
+  {
+    "question_number": 101,
+    "question": "In CSE General, which category has the lowest merit number easiest admission?",
+    "answer": "The category with the lowest merit number and easiest admission in CSE General is ST, with a merit number of 108416.",
+    "response_time_seconds": 2.75
+  },
+  {
+    "question_number": 102,
+    "question": "For RAI General, what is the OBC cut-off?",
+    "answer": "Cutoff - General - Robotics and Artificial Intelligence - OBC Group: General Course: Robotics and Artificial Intelligence Category: OBC Merit marks: 74.0630785 Merit number: 81961\nCutoff - General - Computer Science (IoT & Cyber Security) - OBC Group: General Course: Computer Science (IoT & Cyber Security) Category: OBC Merit marks: 79.6986029 Merit number: 66756\nCutoff - General - Electrical Engineering - OBC Group: General Course: Electrical Engineering Category: OBC Merit marks: 70.6189283 Merit number: 92073",
+    "response_time_seconds": 2.03
+  },
+  {
+    "question_number": 103,
+    "question": "What is the minimum PCM marks for Open category Engineering admission?",
+    "answer": "The minimum PCM marks for open category engineering admission is 134/135.",
+    "response_time_seconds": 2.08
+  },
+  {
+    "question_number": 104,
+    "question": "Is there any difference in qualifying criteria for reserved categories?",
+    "answer": "Admission eligibility - Engineering - Reserved Program: Engineering Category: Reserved Required subjects: Physics, Chemistry, Mathematics Alternative combination: Physics, Mathematics + Any Technical Subject Minimum marks: 119/120",
+    "response_time_seconds": 1.56
+  },
+  {
+    "question_number": 105,
+    "question": "Can a student with PM plus Technical Subject apply?",
+    "answer": "Yes, a student with PM plus a technical subject can apply. According to the alternative combination for reserved category in Engineering programs, Physics, Mathematics + Any Technical Subject is accepted.",
+    "response_time_seconds": 2.69
+  },
+  {
+    "question_number": 106,
+    "question": "What is the required mark for PM plus Technical Subject students?",
+    "answer": "The required marks for PM Plus Technical Subject students are 119/120.",
+    "response_time_seconds": 2.99
+  },
+  {
+    "question_number": 107,
+    "question": "What are the qualifying marks for SC/ST candidates?",
+    "answer": "Admission documents - First Year (B.Tech / BBA / BCA) - SC / ST Admission type: First Year (B.Tech / BBA / BCA) Category name: SC / ST Required documents: - MHT-CET or JEE 2026 Marksheet: required - 10th Marksheet: required - 12th Marksheet: required - Diploma Marksheet: may be required (if applicable) - Leaving / Transfer Certificate: required - Domicile / Nationality Certificate: required - AADHAR Card (with linked mobile number): required - Migration Certificate: may be required (if applicable) - Caste Certificate: required - Caste / Tribe Validity Certificate: required - Income Certificate for 2025-26: required - Orphan Candidate Certificate: may be required (if applicable) - Disability Certificate (Online) from District Civil Surgeon: may be required (if applicable) - Defence Certificate: may be required (if applicable) - Domicile / Nationality Certificate (Father or Mother): may be required (if applicable) - Minority Certificate: may be required (if applicable)",
+    "response_time_seconds": 1.67
+  },
+  {
+    "question_number": 108,
+    "question": "Summarise the 12th group eligibility for Engineering admission.",
+    "answer": "For the 12th group eligibility for engineering admission, the required subjects are Physics, Chemistry, and Mathematics. An alternative combination accepted is Physics, Mathematics + Any Technical Subject.\n\nThe minimum marks required vary by category:\n- For Reserved categories: 119/120\n- For Open categories: 134/135\n\nFor admission documents, the following are generally required regardless of category:\n- MHT-CET or JEE 2026 Marksheet\n- 10th Marksheet\n- 12th Marksheet\n- Leaving / Transfer Certificate\n- Domicile / Nationality Certificate\n- AADHAR Card (with linked mobile number)\n- Caste Certificate\n- Caste / Tribe Validity Certificate\n- Income Certificate for 2025-26\n\nNote that some documents may be required or may be optional based on the category and individual circumstances.",
+    "response_time_seconds": 11.93
+  }
+]
