@@ -1,8 +1,0 @@
-there is problem with 
-ADCET RAG Ready
-You: what are the documents required for admissio 
-Bot: Cutoff marks depend on the branch and reservation category. Please mention the branch, for example CSE, AI & DS, Mechanical, Civil, Electrical, IoT, Robotics, Aeronautical, or Food Technology.
-You: what are the documents required for admission
-Bot: Cutoff marks depend on the branch and reservation category. Please mention the branch, for example CSE, AI & DS, Mechanical, Civil, Electrical, IoT, Robotics, Aeronautical, or Food Technology.
-here the chatbot does not seach for a result it directly answer if it see any keyword i need this chatbot ot be dynamic it should retricve the data from the trained rag whcich will store embaddings and the vectorization in the chroma_db 
-here i need to increase the accuray to each search it should give the output for each query if it has the answer in some case if the data for building rag that contain all the data but the rag is not operation on that it is not giving proper output as i want go through the v6 folder and the data_to_trained it contain the all data go throught it and in some caseses while fetching it gets confised solve that confision and give me the rag if you want you can make a advanced version  , in final i need the production level rag . make a documetnt for what changes you did make md file 
