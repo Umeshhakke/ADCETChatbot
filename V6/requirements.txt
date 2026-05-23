@@ -1,3 +1,5 @@
+flask
+gunicorn
 chromadb
 numpy
 rank-bm25
