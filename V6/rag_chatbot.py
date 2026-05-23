@@ -3,6 +3,7 @@ import json
 import re
 from pathlib import Path
 from typing import Iterable
+from threading import Lock
 
 import chromadb
 import numpy as np
@@ -19,6 +20,8 @@ from knowledge_utils import (
 from llm_provider import create_llm_provider
 from settings import runtime_config
 
+_chatbot_instance = None
+_chatbot_lock = Lock()
 
 GREETINGS = {
     "hi", "hello", "hey", "good morning", "good afternoon",
@@ -758,10 +761,22 @@ Answer:
 
 # ------------------ RUN ------------------
 
-chatbot = ADCETRAGChatbot()
+# chatbot = ADCETRAGChatbot()
+
+# def answer_query(question: str) -> str:
+#     return chatbot.answer_query(question)
+def get_chatbot() -> ADCETRAGChatbot:
+    global _chatbot_instance
+    if _chatbot_instance is None:
+        with _chatbot_lock:
+            if _chatbot_instance is None:
+                print("Initializing ADCETRAGChatbot (first request)...")
+                _chatbot_instance = ADCETRAGChatbot()
+                print("Chatbot ready.")
+    return _chatbot_instance
 
 def answer_query(question: str) -> str:
-    return chatbot.answer_query(question)
+    return get_chatbot().answer_query(question)
 
 
 def main():
