@@ -6,8 +6,8 @@ app = Flask(__name__)
 
 # ================= WHATSAPP CONFIG =================
 
-ACCESS_TOKEN = "EAAXH7IJ1qScBRmabguhb0tCBDFZBzAZCMPUBJrvVVxOGrrq2JnlvY0vDZCbIgYtZAx6havsNNGys4omTFk18DDDN9ZCvcXgTKuMda5swW6koqa5Qo24owZByvxN805q7T8Q8eFAcFNuyKj3XZCr34xj1RkjG1McKP1tfofeyHjKAV3ZCZBrBZBcfQ5cvxL4AZC5yTQMkHs13pPABGqcp1Pt8miOxQfIowMa7RpZACjCiM95ncaSohwHdp1dozO1B75hKQztWtN2c4VTltKBMZBZAr7uKHh"
-PHONE_NUMBER_ID = "1098092953392646"
+ACCESS_TOKEN = ""
+PHONE_NUMBER_ID = ""
 VERIFY_TOKEN = "adcet_verify_token"
 
 WHATSAPP_URL = f"https://graph.facebook.com/v25.0/{PHONE_NUMBER_ID}/messages"
@@ -104,5 +104,8 @@ def send_whatsapp_message(to, text):
 
 # ================= RUN SERVER =================
 
+import os
+
 if __name__ == "__main__":
-    app.run(port=5000, debug=True)
+    port = int(os.environ.get("PORT", 10000))
+    app.run(host="0.0.0.0", port=port)
